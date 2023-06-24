@@ -62,7 +62,7 @@ I am **Jiaming Wen (文嘉明)**, a Ph.D. student working on cryptography. Recen
 
   Houzhen Wang, **Jiaming Wen***, Jinhui Liu, and Huanguo Zhang (Corresponding author & First author is my co-advisor)
 
-  *IEEE Internet of Things Journal (IOTJ) 2023* (JCR Q1)
+  *IEEE Internet of Things Journal (IOT-J) 2023* (JCR Q1)
 
 # 🎖 Honors and Awards
 - *2022.10* Shenzhen Stock Exchange Scholarship, Wuhan University. (award rate 5/286\approx 1.7%) 
