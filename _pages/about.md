@@ -51,7 +51,7 @@ I am **Jiaming Wen (文嘉明)**, a Ph.D. student working on cryptography. Recen
   *Future Generation Computer Systems (FGCS) 2023* (JCR Q1)
 
 ## Multivariate
-- [WWZ23][Post-quantum Sigma Protocols and Signatures from Low-Rank Matrix Completions](https://provsec2023.github.io/ProvSec2023/#)
+- [WWZ23] [Post-quantum Sigma Protocols and Signatures from Low-Rank Matrix Completions](https://provsec2023.github.io/ProvSec2023/#)
 
   **Jiaming Wen**, Houzhen Wang, and Huanguo Zhang
   
