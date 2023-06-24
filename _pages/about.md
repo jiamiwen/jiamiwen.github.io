@@ -19,6 +19,8 @@ redirect_from:
 
 I am **Jiaming Wen (文嘉明)**, a Ph.D. student working on cryptography. Recently, my passion lies in constructing signature schemes and zero-knowledge proof systems based on quantum-resistant assumptions, e.g., Lattice, Multivariate, and Code.
 
+Email: wenjm@whu.edu.cn
+
 [//]: # (I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).)
 
 
