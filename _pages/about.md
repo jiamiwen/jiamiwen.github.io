@@ -74,8 +74,8 @@ Email: <wenjm@whu.edu.cn>
 - [UCSD Lattice Cryptography Pages](https://cseweb.ucsd.edu/~daniele/LatticeLinks/index.html)
 - [Keita Xagawa's Homepage](https://xagawa.net/), including Bibliography on Lattice-based/Code-based Cryptosystems
 - [Kai-Min Chung's Homepage](https://homepage.iis.sinica.edu.tw/~kmchung/), including high-quality cryptography courses in Chinese
-- [Vadim Lyubashevsky's Homepage](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-vad) and [Survey](https://drive.google.com/file/d/1JTdW5ryznp-dUBBjN12QbvWz9R41NDGU/view)
-- [Chris Peikert's Homepage](https://web.eecs.umich.edu/~cpeikert/) and [Survey](https://web.eecs.umich.edu/~cpeikert/pubs/lattice-survey.pdf)
+- [Vadim Lyubashevsky's Homepage](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-vad) and [Survey about Lattice-based Cryptography](https://drive.google.com/file/d/1JTdW5ryznp-dUBBjN12QbvWz9R41NDGU/view)
+- [Chris Peikert's Homepage](https://web.eecs.umich.edu/~cpeikert/) and [Survey about Lattice-based Cryptography](https://web.eecs.umich.edu/~cpeikert/pubs/lattice-survey.pdf)
 - [Journal of WoCrypt](https://documents.uow.edu.au/~fuchun/jow.html)
 - [Lattice Estimator](https://github.com/malb/lattice-estimator/)
 - [IACR ePrint](https://eprint.iacr.org/)
