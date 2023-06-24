@@ -39,7 +39,9 @@ I am **Jiaming Wen (文嘉明)**, a Ph.D. student working on cryptography. Recen
 
 # 📝 Publications 
 ## Lattice
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **Lorem 2020**
+- [WWLZ23][Aitps: A Two-Party Signature from Asymmetry Module Lattice Problem](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202220533)
+  Jiaming Wen, Houzhen Wang, Jinhui Liu, and Huanguo Zhang
+  **Journal of Computer Research and Development 2023** (CCF-A in Chinese)
 
 ## Multivariate
 
