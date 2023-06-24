@@ -22,7 +22,7 @@ I am **Jiaming Wen (文嘉明)**, a Ph.D. student working on cryptography and cy
 ## Contact
 Email: <wenjm@whu.edu.cn> ; <cryptowjm@163.com>
 
-Wechat: jiamiwen
+Wechat: [jiamiwen](https://jiamiwen.github.io/images/wechat.jpg/)
 
 Current Address: Xinjia Building, Wuhan University, Linkonggang Avenue, Dongxihu District, Wuhan, Hubei, China
 
