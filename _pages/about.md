@@ -46,6 +46,12 @@ I am **Jiaming Wen (文嘉明)**, a Ph.D. student working on cryptography. Recen
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💻 Miscellaneous
+- [What is Lattice-based Cryptography?](https://thelatticeclub.com/)
+- [Keita Xagawa's Homepage](https://xagawa.net/)
+- [UCSD Lattice Cryptography Pages](https://cseweb.ucsd.edu/~daniele/LatticeLinks/index.html)
+- [Lattice Estimator](https://github.com/malb/lattice-estimator/)
+
+
 
 [//]: # (# 💬 Invited Talks)
 [//]: # (- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
