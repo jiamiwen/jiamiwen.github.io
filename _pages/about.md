@@ -20,7 +20,7 @@ redirect_from:
 I am **Jiaming Wen (文嘉明)**, a Ph.D. student working on cryptography and cyber security. Recently, my passion lies in constructing signature schemes and zero-knowledge proof systems based on quantum-resistant assumptions, e.g., Lattice, Multivariate, and Code.
 
 ## Contact
-Email: <wenjm@whu.edu.cn>; <cryptowjm@163.com>
+Email: <wenjm@whu.edu.cn> ; <cryptowjm@163.com>
 
 Wechat: jiamiwen
 
