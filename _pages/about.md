@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Jiaming Wen (文嘉明)**, a Ph.D. student working on cryptography. Recently, my passion lies in constructing various signature schemes and zero-knowledge proof systems based on quantum-resistant assumptions, e.g., Lattice, Multivariate, and Code.
+I am **Jiaming Wen (文嘉明)**, a Ph.D. student working on cryptography and cyber security. Recently, my passion lies in constructing signature schemes and zero-knowledge proof systems based on quantum-resistant assumptions, e.g., Lattice, Multivariate, and Code.
 
 Email: <wenjm@whu.edu.cn>
 
@@ -64,7 +64,7 @@ Email: <wenjm@whu.edu.cn>
 
   Houzhen Wang, **Jiaming Wen***, Jinhui Liu, and Huanguo Zhang (Corresponding author & First author is my co-advisor)
 
-  *IEEE Internet of Things Journal (IOT-J) 2023* [Journal, JCR Q1]
+  *IEEE Internet of Things Journal (IoT-J) 2023* [Journal, JCR Q1]
 
 # 🎖 Honors and Awards
 - *2022.10*: **Shenzhen Stock Exchange Scholarship**, Wuhan University. (award rate: $5/286\approx 1.7\%$) 
