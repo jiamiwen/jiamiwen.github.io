@@ -77,7 +77,7 @@ Email: <wenjm@whu.edu.cn>
 - [Vadim Lyubashevsky's Homepage](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-vad) and [Survey about Lattice-based Cryptography](https://drive.google.com/file/d/1JTdW5ryznp-dUBBjN12QbvWz9R41NDGU/view)
 - [Chris Peikert's Homepage](https://web.eecs.umich.edu/~cpeikert/) and [Survey about Lattice-based Cryptography](https://web.eecs.umich.edu/~cpeikert/pubs/lattice-survey.pdf)
 - [Journal of WoCrypt](https://documents.uow.edu.au/~fuchun/jow.html)
-- [Lattice Estimator](https://github.com/malb/lattice-estimator/)
+[//]: # (- [Lattice Estimator](https://github.com/malb/lattice-estimator/))
 - [IACR ePrint](https://eprint.iacr.org/)
 
 
