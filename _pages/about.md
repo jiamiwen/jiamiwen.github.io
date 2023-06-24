@@ -40,11 +40,21 @@ I am **Jiaming Wen (文嘉明)**, a Ph.D. student working on cryptography. Recen
 # 📝 Publications 
 ## Lattice
 - [WWLZ23][Aitps: A Two-Party Signature from Asymmetry Module Lattice Problem](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202220533)
-  Jiaming Wen, Houzhen Wang, Jinhui Liu, and Huanguo Zhang
+
+  *Jiaming Wen*, Houzhen Wang, Jinhui Liu, and Huanguo Zhang
+
   **Journal of Computer Research and Development 2023** (CCF-A in Chinese)
+- [LWZ+23][A post quantum secure multi-party collaborative signature with deterability in the Industrial Internet of Things](https://www.sciencedirect.com/science/article/pii/S0167739X22003983?via%3Dihub)
+
+  Jinhui Liu, *Jiaming Wen*, Bowen Zhang, Shunyu Dong, Bo Tang, and Yong Yu
+
+  **Future Generation Computer Systems 2023** (JCR Q1)
 
 ## Multivariate
-
+- [WWZ23][Aitps: A Two-Party Signature from Asymmetry Module Lattice Problem](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202220533)
+  *Jiaming Wen*, Houzhen Wang, Jinhui Liu, and Huanguo Zhang
+  **Journal of Computer Research and Development 2023** (CCF-A in Chinese)
+  
 ## Others
 
 
