@@ -43,26 +43,26 @@ I am **Jiaming Wen (文嘉明)**, a Ph.D. student working on cryptography. Recen
 
   **Jiaming Wen**, Houzhen Wang, Jinhui Liu, and Huanguo Zhang
 
-  *Journal of Computer Research and Development 2023* (CCF-A in Chinese)
+  *Journal of Computer Research and Development 2023* (Journal, CCF-A in Chinese)
 - [LWZ+23] [A post quantum secure multi-party collaborative signature with deterability in the Industrial Internet of Things](https://www.sciencedirect.com/science/article/pii/S0167739X22003983?via%3Dihub)
 
   Jinhui Liu, **Jiaming Wen**, Bowen Zhang, Shunyu Dong, Bo Tang, and Yong Yu
 
-  *Future Generation Computer Systems (FGCS) 2023* (JCR Q1)
+  *Future Generation Computer Systems (FGCS) 2023* (Journal, JCR Q1)
 
 ## Multivariate
 - [WWZ23] [Post-quantum Sigma Protocols and Signatures from Low-Rank Matrix Completions](https://provsec2023.github.io/ProvSec2023/#)
 
   **Jiaming Wen**, Houzhen Wang, and Huanguo Zhang
   
-  *ProvSec 2023* (CACR-C)
+  *ProvSec 2023* (Conference, CACR-C)
   
 ## Pre-quantum
 - [WWLZ23] [ACKE: Asymmetric Computing Key Exchange Protocol for IoT Environments](https://ieeexplore.ieee.org/document/10131978)
 
   Houzhen Wang, **Jiaming Wen***, Jinhui Liu, and Huanguo Zhang (Corresponding author & First author is my co-advisor)
 
-  *IEEE Internet of Things Journal (IOT-J) 2023* (JCR Q1)
+  *IEEE Internet of Things Journal (IOT-J) 2023* (Journal, JCR Q1)
 
 # 🎖 Honors and Awards
 - *2022.10*: **Shenzhen Stock Exchange Scholarship**, Wuhan University. (award rate $5/286\approx 1.7%$) 
