@@ -60,7 +60,7 @@ I am **Jiaming Wen (文嘉明)**, a Ph.D. student working on cryptography. Recen
 ## Others
 - [WWLZ23] [ACKE: Asymmetric Computing Key Exchange Protocol for IoT Environments](https://ieeexplore.ieee.org/document/10131978)
 
-  Houzhen Wang, **Jiaming Wen***, Jinhui Liu, and Huanguo Zhang (Corresponding author & First author is my co-advisor)
+  Houzhen Wang, **Jiaming Wen***, Jinhui Liu, and Huanguo Zhang (Corresponding author $&$ First author is my co-advisor)
 
   *IEEE Internet of Things Journal (IOT-J) 2023* (JCR Q1)
 
