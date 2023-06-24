@@ -67,7 +67,7 @@ Email: <wenjm@whu.edu.cn>
   *IEEE Internet of Things Journal (IOT-J) 2023* [Journal, JCR Q1]
 
 # 🎖 Honors and Awards
-- *2022.10*: **Shenzhen Stock Exchange Scholarship**, Wuhan University. (award rate $5/286\approx 1.7%$) 
+- *2022.10*: **Shenzhen Stock Exchange Scholarship**, Wuhan University. (award rate: $5/286\approx 1.7\%$) 
 
 # 💻 Miscellaneous
 - [What is Lattice-based Cryptography?](https://thelatticeclub.com/)
