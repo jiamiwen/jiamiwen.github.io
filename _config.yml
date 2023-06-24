@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiaming Wen"
-description              : "PhD student, Wuhan University"
+description              : # "PhD student, Wuhan University"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
