@@ -29,12 +29,12 @@ I am **Jiaming Wen (文嘉明)**, a Ph.D. student working on cryptography. Recen
 # 📖 Education
 - *2020.09 - now*: **Ph.D. in Cryptography**
   
-  [School of Cyber Science and Engineering (SCSE), Wuhan University](https://cse.whu.edu.cn/)
+  [School of Cyber Science and Engineering (SCSE), Wuhan University, China](https://cse.whu.edu.cn/)
 
   Supervisor: Prof. Huanguo Zhang
 - *2016.09 - 2020.06*: **B.S. in Mathematics**
 
-  [School of Mathematics and Statistics (SMATHS), Wuhan University](http://maths.whu.edu.cn/)
+  [School of Mathematics and Statistics (SMATHS), Wuhan University, China](http://maths.whu.edu.cn/)
   
 
 # 📝 Publications 
