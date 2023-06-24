@@ -20,26 +20,23 @@ redirect_from:
 I am **Jiaming Wen (文嘉明)**, a Ph.D. student working on cryptography and cyber security. Recently, my passion lies in constructing signature schemes and zero-knowledge proof systems based on quantum-resistant assumptions, e.g., Lattice, Multivariate, and Code.
 
 ## Contact
-Email: <wenjm@whu.edu.cn> ; <cryptowjm@163.com>
+Email: <wenjm@whu.edu.cn>
 
 Wechat: [jiamiwen](https://jiamiwen.github.io/images/wechat.jpg)
 
 Current Address: Xinjia Building, Wuhan University, Linkonggang Avenue, Dongxihu District, Wuhan, Hubei, China
-
-[//]: # (I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).)
-
 
 [//]: # (# 🔥 News)
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📖 Education
-- *2020.09 - now*: **Ph.D. in Cryptography**
+- 2020.09 - now: **Ph.D. in Cryptography**
   
   [School of Cyber Science and Engineering (SCSE), Wuhan University, China](https://cse.whu.edu.cn/)
 
   Supervisor: Prof. Huanguo Zhang
-- *2016.09 - 2020.06*: **B.S. in Mathematics**
+- 2016.09 - 2020.06: **B.S. in Mathematics**
 
   [School of Mathematics and Statistics (SMATHS), Wuhan University, China](http://maths.whu.edu.cn/)
   
@@ -72,7 +69,7 @@ Current Address: Xinjia Building, Wuhan University, Linkonggang Avenue, Dongxihu
   *IEEE Internet of Things Journal (IoT-J) 2023* [Journal, JCR Q1]
 
 # 🎖 Honors and Awards
-- *2022.10*: **Shenzhen Stock Exchange Scholarship**, Wuhan University. (award rate: $5/286\approx 1.7\%$) 
+- 2022.10: **Shenzhen Stock Exchange Scholarship**, Wuhan University. (award rate: $5/286\approx 1.7\%$) 
 
 # 💻 Miscellaneous
 - [What is Lattice-based Cryptography?](https://thelatticeclub.com/)
