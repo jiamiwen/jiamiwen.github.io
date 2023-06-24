@@ -39,7 +39,7 @@ I am **Jiaming Wen (文嘉明)**, a Ph.D. student working on cryptography. Recen
 
 # 📝 Publications 
 ## Lattice
-- [WWLZ23] [Aitps: A Two-Party Signature from Asymmetry Module Lattice Problem](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202220533)
+- [WWLZ22] [Aitps: A Two-Party Signature from Asymmetry Module Lattice Problem](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202220533)
 
   *Jiaming Wen*, Houzhen Wang, Jinhui Liu, and Huanguo Zhang
 
@@ -48,19 +48,23 @@ I am **Jiaming Wen (文嘉明)**, a Ph.D. student working on cryptography. Recen
 
   Jinhui Liu, *Jiaming Wen*, Bowen Zhang, Shunyu Dong, Bo Tang, and Yong Yu
 
-  **Future Generation Computer Systems 2023** (JCR Q1)
+  **Future Generation Computer Systems (FGCS) 2023** (JCR Q1)
 
 ## Multivariate
-- [WWZ23][Aitps: A Two-Party Signature from Asymmetry Module Lattice Problem](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202220533)
-  *Jiaming Wen*, Houzhen Wang, Jinhui Liu, and Huanguo Zhang
-  **Journal of Computer Research and Development 2023** (CCF-A in Chinese)
+- [WWZ23][Post-quantum Sigma Protocols and Signatures from Low-Rank Matrix Completions](https://provsec2023.github.io/ProvSec2023/#)
+
+  *Jiaming Wen*, Houzhen Wang, and Huanguo Zhang
+  **ProvSec 2023** (CACR-C)
   
 ## Others
+- [WWLZ23] [ACKE: Asymmetric Computing Key Exchange Protocol for IoT Environments](https://ieeexplore.ieee.org/document/10131978)
 
+  Houzhen Wang, *Jiaming Wen**, Jinhui Liu, and Huanguo Zhang (Corresponding author & First author is my co-advisor)
+
+  **IEEE Internet of Things Journal (IOTJ) 2023** (JCR Q1)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.10* Shenzhen Stock Exchange Scholarship, Wuhan University. (award rate 5/286\approx 1.7%) 
 
 # 💻 Miscellaneous
 - [What is Lattice-based Cryptography?](https://thelatticeclub.com/)
