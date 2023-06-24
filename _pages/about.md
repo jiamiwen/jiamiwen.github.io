@@ -84,10 +84,8 @@ Email: <wenjm@whu.edu.cn>
 [//]: # (# 💻 Internships)
 [//]: # (- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.)
 
-<br />
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=R64MvUM6DybiEtejqk6X9tsNW3AunMLx0_F5WxQNmHo&cl=ffffff&w=a"></script>
-<br />
+[//]: # (<br />)
+[//]: # (<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=R64MvUM6DybiEtejqk6X9tsNW3AunMLx0_F5WxQNmHo&cl=ffffff&w=a"></script>)
+[//]: # (<br />)
 
-<font size="2"; color="#A0A0A0";>
 <p style="text-align:center">Updating time: 2023/06/24</p>
-</font>
