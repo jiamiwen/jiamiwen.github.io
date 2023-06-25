@@ -49,7 +49,7 @@ Current Address: Xinjia Building, Wuhan University, Linkonggang Avenue, Dongxihu
 
   **Jiaming Wen**, Houzhen Wang, Jinhui Liu, and Huanguo Zhang
 
-  *Journal of Computer Research and Development (计算机研究与发展) 2023* [Journal, CCF-A in Chinese]
+  *Journal of Computer Research and Development (计算机研究与发展) 2023* [Journal, CCF-A in Chinese, [slides](https://jiamiwen.github.io/slides/aitps-slides.pptx)]
 - [LWZ+23] [A post quantum secure multi-party collaborative signature with deterability in the Industrial Internet of Things](https://www.sciencedirect.com/science/article/pii/S0167739X22003983?via%3Dihub)
 
   Jinhui Liu, **Jiaming Wen**, Bowen Zhang, Shunyu Dong, Bo Tang, and Yong Yu
