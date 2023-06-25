@@ -19,6 +19,12 @@ redirect_from:
 
 I am **Jiaming Wen (文嘉明)**, a Ph.D. student working on cryptography and cyber security. Recently, my passion lies in analyzing and designing various signature schemes and zero-knowledge proof systems based on quantum-resistant assumptions, e.g., Lattice, Multivariate, and Code.
 
+I can be reached at
+- Email: <wenjm@whu.edu.cn>
+- Wechat: [jiamiwen](https://jiamiwen.github.io/images/wechat.jpg)
+- Bilibili: [wjm11](https://space.bilibili.com/59630141)
+- Current Address: Xinjia Building, Wuhan University, Linkonggang Avenue, Dongxihu District, Wuhan, Hubei, China
+
 [//]: # (# 🔥 News)
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
@@ -70,15 +76,6 @@ I am **Jiaming Wen (文嘉明)**, a Ph.D. student working on cryptography and cy
 - [Kai-Min Chung's Homepage](https://homepage.iis.sinica.edu.tw/~kmchung/), including high-quality cryptography courses in Chinese.
 - [Journal of WoCrypt](https://documents.uow.edu.au/~fuchun/jow.html)
 - [IACR ePrint](https://eprint.iacr.org/)
-
-## I can be reached at
-Email: <wenjm@whu.edu.cn>
-
-Wechat: [jiamiwen](https://jiamiwen.github.io/images/wechat.jpg)
-
-Bilibili: [wjm11](https://space.bilibili.com/59630141)
-
-Current Address: Xinjia Building, Wuhan University, Linkonggang Avenue, Dongxihu District, Wuhan, Hubei, China
 
 
 [//]: # (# 💬 Invited Talks)
