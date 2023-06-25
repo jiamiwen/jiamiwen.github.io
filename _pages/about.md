@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Jiaming Wen (文嘉明)**, a Ph.D. student working on cryptography and cyber security. Recently, my passion lies in constructing various signature schemes and zero-knowledge proof systems based on quantum-resistant assumptions, e.g., Lattice, Multivariate, and Code.
+I am **Jiaming Wen (文嘉明)**, a Ph.D. student working on cryptography and cyber security. Recently, my passion lies in analyzing and designing various signature schemes and zero-knowledge proof systems based on quantum-resistant assumptions, e.g., Lattice, Multivariate, and Code.
 
 ## Contact
 Email: <wenjm@whu.edu.cn>
@@ -43,7 +43,7 @@ Current Address: Xinjia Building, Wuhan University, Linkonggang Avenue, Dongxihu
 
 # 📝 Publications 
 ## Lattice
-- [WWLZ22] [Aitps: A Two-Party Signature from Asymmetry Module Lattice Problem](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202220533)
+- [WWLZ22] [Aitps: A Two-Party Signature from Asymmetry Module Lattice Problem](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202220533) (in Chinese)
 
   **Jiaming Wen**, Houzhen Wang, Jinhui Liu, and Huanguo Zhang
 
