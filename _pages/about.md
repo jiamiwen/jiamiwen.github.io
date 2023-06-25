@@ -72,7 +72,7 @@ Current Address: Xinjia Building, Wuhan University, Linkonggang Avenue, Dongxihu
 
 # 🎖 Selected Honors and Awards
 - 2022: **Shenzhen Stock Exchange Scholarship**, Wuhan University. (award rate: $5/286\approx 1.7\%$)
-- 2021--2023: **National Cybersecurity Center (NCC) Excellent Scholarship**, SCSE, WHU. 
+- 2021--2023: **National Cybersecurity Center (NCC) Excellent Scholarship**, SCSE, Wuhan University. 
 - 2020: **Graduation with Honors (for undergraduates)**, SMATHS, Wuhan University.
 - 2017--2019: **Math Base Class Scholarship**, SMATHS, Wuhan University.
 - 2017: **First Prize, The 9th Chinese Mathematics Competitions (CMC)**, Hubei, China.
