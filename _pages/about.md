@@ -70,20 +70,7 @@ Current Address: Xinjia Building, Wuhan University, Linkonggang Avenue, Dongxihu
 
   *IEEE Internet of Things Journal (IoT-J) 2023* [Journal, JCR Q1]
 
-# 🎖 Selected Honors and Awards
-- 2022: **Shenzhen Stock Exchange Scholarship**, Wuhan University. (award rate: $5/286\approx 1.7\%$)
-- 2021--2023: **National Cybersecurity Center (NCC) Excellent Scholarship**, SCSE, Wuhan University. 
-- 2020: **Graduation with Honors (for undergraduates)**, SMATHS, Wuhan University.
-- 2017--2019: **Math Base Class Scholarship**, SMATHS, Wuhan University.
-- 2017: **First Prize, The 9th Chinese Mathematics Competitions (CMC)**, Hubei, China.
-
-  (around 50 undergraduates in the whole province)
-- 2017: **First Prize, The 6th Hubei Mathematics Competition for College Students**, Hubei, China.
-
-  (around 70 undergraduates in the whole province)
-- 2014: **First Prize, The 30th National High School Mathematics League**, Hubei, China.
-
-  (around 50 senior high school students in the whole province)
+[//]: # (# 🎖 Selected Honors and Awards)
 
 # 💻 Miscellaneous
 - [The Lattice Club](https://thelatticeclub.com/), including so many resources about Lattice-based Cryptography.
