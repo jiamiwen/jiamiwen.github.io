@@ -24,6 +24,8 @@ Email: <wenjm@whu.edu.cn>
 
 Wechat: [jiamiwen](https://jiamiwen.github.io/images/wechat.jpg)
 
+Bilibili: [wjm11](https://space.bilibili.com/59630141)
+
 Current Address: Xinjia Building, Wuhan University, Linkonggang Avenue, Dongxihu District, Wuhan, Hubei, China
 
 [//]: # (# 🔥 News)
