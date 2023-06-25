@@ -43,7 +43,7 @@ Current Address: Xinjia Building, Wuhan University, Linkonggang Avenue, Dongxihu
   [School of Mathematics and Statistics (SMATHS), Wuhan University, China](http://maths.whu.edu.cn/)
   
 
-# 📝 Publications 
+# 📝 Selected Publications 
 ## Lattice
 - [WWLZ22] [Aitps: A Two-Party Signature from Asymmetry Module Lattice Problem](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202220533) (in Chinese)
 
@@ -70,7 +70,7 @@ Current Address: Xinjia Building, Wuhan University, Linkonggang Avenue, Dongxihu
 
   *IEEE Internet of Things Journal (IoT-J) 2023* [Journal, JCR Q1]
 
-# 🎖 Honors and Awards
+# 🎖 Selected Honors and Awards
 - 2022: **Shenzhen Stock Exchange Scholarship**, Wuhan University. (award rate: $5/286\approx 1.7\%$)
 - 2021--2023: **National Cybersecurity Center (NCC) Excellent Scholarship**, SCSE, WHU. 
 - 2020: **Graduation with Honors (for undergraduates)**, SMATHS, Wuhan University.
