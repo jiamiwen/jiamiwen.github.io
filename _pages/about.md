@@ -75,8 +75,8 @@ Current Address: Xinjia Building, Wuhan University, Linkonggang Avenue, Dongxihu
 - 2021--2023: **National Cybersecurity Center (NCC) Excellent Scholarship**, SCSE, WHU. 
 - 2020: **Graduation with Honors (for undergraduates)**, SMATHS, Wuhan University.
 - 2017--2019: **Math Base Class Scholarship**, SMATHS, Wuhan University.
-- 2014: **First Prize, The 9th Chinese Mathematics Competitions (CMC)**, Hubei, China. (around 50 undergraduates in the whole province)
-- 2014: **First Prize, The 6th Hubei Mathematics Competition for College Students**, Hubei, China. (around 70 undergraduates in the whole province)
+- 2017: **First Prize, The 9th Chinese Mathematics Competitions (CMC)**, Hubei, China. (around 50 undergraduates in the whole province)
+- 2017: **First Prize, The 6th Hubei Mathematics Competition for College Students**, Hubei, China. (around 70 undergraduates in the whole province)
 - 2014: **First Prize, The 30th National High School Mathematics League**, Hubei, China. (around 50 senior high school students in the whole province)
 
 # 💻 Miscellaneous
