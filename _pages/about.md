@@ -32,11 +32,11 @@ I can be reached via
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📖 Education
-- 2020.09 - now: **Ph.D. candidate in Cryptography**
+- 2020.09 - now: **Ph.D. Candidate in Cryptography**
   
   [School of Cyber Science and Engineering (SCSE), Wuhan University, China](https://cse.whu.edu.cn/)
 
-  Supervisor: Prof. Huanguo Zhang
+  Supervisor: Prof. [Huanguo Zhang](http://openday.whu.edu.cn/yxzq/grxy/mingshimingjia/2018-06-23/2332.html)
 - 2016.09 - 2020.06: **B.S. in Mathematics**
 
   [School of Mathematics and Statistics (SMATHS), Wuhan University, China](http://maths.whu.edu.cn/)
