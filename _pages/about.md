@@ -72,7 +72,9 @@ I can be reached via
 [//]: # (# 🎖 Selected Honors and Awards)
 
 # 💻 Miscellaneous
-My name starts with "jiami" (Chinese for "encrypt"), and ends with "mingwen" (Chinese for "plaintext"). I remove "ng" from it to obtain "miwen" (Chinese for "ciphertext") for several usernames of mine, e.g., wechat and github, as I believe it is more suitable for spreading over the public channel :-).
+My name starts with "jiami" (Chinese for "encrypt"), and ends with "mingwen" (Chinese for "plaintext"). 
+
+I remove "ng" from it to obtain "miwen" (Chinese for "ciphertext") for several usernames of mine, e.g., wechat and github, as I believe it is more suitable for spreading over the public channel :-).
 ## Some useful links
 - [The Lattice Club](https://thelatticeclub.com/), including so many resources about Lattice-based Cryptography.
 - [Keita Xagawa's Homepage](https://xagawa.net/), including Bibliography on Lattice-based/Code-based Cryptosystems.
