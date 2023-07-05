@@ -96,5 +96,3 @@ I remove "ng" from it to obtain "miwen" (Chinese for "ciphertext") for several u
 
 *Last updated: June 26, 2023. Thanks for visiting.*
 
-[//]: # (<p style="text-align:center">Last updated: June 26, 2023 | Thanks for visiting.</p>)
-
