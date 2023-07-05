@@ -42,7 +42,8 @@ I can be reached via
   [School of Mathematics and Statistics (SMATHS), Wuhan University, China](http://maths.whu.edu.cn/)
   
 
-# 📝 Publications 
+# 📝 Publications
+"Tell me and I forget. Teach me and I remember. Involve me and I learn." - Benjamin Franklin
 ## Lattice
 - [WWLZ22] [Aitps: A Two-Party Signature from Asymmetry Module Lattice Problem](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202220533) (in Chinese)
 
