@@ -94,4 +94,4 @@ I remove "ng" from it to obtain "miwen" (Chinese for "ciphertext") for several u
 [//]: # (<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=R64MvUM6DybiEtejqk6X9tsNW3AunMLx0_F5WxQNmHo&cl=ffffff&w=a"></script>)
 [//]: # (<br />)
 
-<p style="text-align:center">Updating time: 2023/06/26</p>
+<p style="text-align:center">Last modified: June 26, 2023. Thanks for visiting.</p>
