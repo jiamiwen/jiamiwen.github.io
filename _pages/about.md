@@ -43,7 +43,7 @@ I can be reached via
   
 
 # 📝 Publications
-"Tell me and I forget. Teach me and I remember. Involve me and I learn." - Benjamin Franklin
+"不聞不若聞之, 聞之不若見之, 見之不若知之, 知之不若行之, 學至於行之而止矣." - 《荀子 · 儒效》
 ## Lattice
 - [WWLZ22] [Aitps: A Two-Party Signature from Asymmetry Module Lattice Problem](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202220533) (in Chinese)
 
