@@ -19,13 +19,7 @@ redirect_from:
 
 I am **Jiaming Wen (文嘉明)**, a Ph.D. student at [Wuhan University (WHU)](https://whu.edu.cn/), working on cryptography and cyber security. Recently, my passion lies in analyzing and designing various signature schemes and zero-knowledge proof systems based on quantum-resistant assumptions, e.g., Lattice, Multivariate, and Code.
 
-I can be reached via
-- Email: <wenjm@whu.edu.cn> ; <cryptowjm@163.com>
-- Wechat: [jiamiwen](https://jiamiwen.github.io/images/wechat.jpg)
-- Bilibili: [wjm11](https://space.bilibili.com/59630141)
-- Current Address:
-
-  Xinjia Building, School of Cyber Science and Engineering, Wuhan University, Linkonggang Avenue, Dongxihu District, Wuhan, Hubei, China
+I can be reached at <wenjm@whu.edu.cn> ; <cryptowjm@163.com>
 
 [//]: # (# 🔥 News)
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
@@ -74,13 +68,15 @@ I can be reached via
 # 💻 Miscellaneous
 My name starts with "jiami" (Chinese for "encrypt"), and ends with "mingwen" (Chinese for "plaintext"). 
 
-I remove "ng" from it to obtain "miwen" (Chinese for "ciphertext") for several usernames of mine, e.g., wechat, twitter and github, as I believe it is more suitable for spreading over the public channel :-).
+I remove "ng" from it to obtain "miwen" (Chinese for "ciphertext") for several usernames of mine, e.g., [wechat](https://jiamiwen.github.io/images/wechat.jpg), twitter and github, as I believe it is more suitable for spreading over the public channel :-).
 ## Some useful links
+- [My bilibili channel](https://space.bilibili.com/59630141)
 - [The Lattice Club](https://thelatticeclub.com/), including so many resources about Lattice-based Cryptography.
 - [Keita Xagawa's Homepage](https://xagawa.net/), including Bibliography on Lattice-based/Code-based Cryptosystems.
 - [Kai-Min Chung's Homepage](https://homepage.iis.sinica.edu.tw/~kmchung/), including high-quality cryptography courses in Chinese.
 - [Journal of WoCrypt](https://documents.uow.edu.au/~fuchun/jow.html)
 - [IACR ePrint](https://eprint.iacr.org/)
+
 
 
 [//]: # (# 💬 Invited Talks)
