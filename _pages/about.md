@@ -36,8 +36,8 @@ Feel free to reach me via <wenjm@whu.edu.cn> or <cryptowjm@163.com>.
   [School of Mathematics and Statistics (SMATHS), Wuhan University, China](http://maths.whu.edu.cn/)
 
 # 💻 Experience
-- 2021.09 - 2022.01: **Teaching Assistant**, Cryptography (undergraduate course in Fall 2021), SCSE, WHU
-- 2023.02 - 2023.06: **Teaching Assistant**, Programming Design and Experiments (undergraduate course in Spring 2023), SCSE, WHU
+- 2021.09 - 2022.01: **Teaching Assistant**, Cryptography (undergraduate course in Fall 2021), [SCSE, WHU](https://cse.whu.edu.cn/)
+- 2023.02 - 2023.06: **Teaching Assistant**, Programming Design and Experiments (undergraduate course in Spring 2023), [SCSE, WHU](https://cse.whu.edu.cn/)
 
 # 📝 Publications
 ## Lattice
@@ -86,11 +86,5 @@ I remove "ng" from it to obtain "miwen" (Chinese for "ciphertext") for several u
 [//]: # (- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/))
 
-[//]: # (# 💻 Internships)
-[//]: # (- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.)
-
-[//]: # (<br />)
-[//]: # (<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=R64MvUM6DybiEtejqk6X9tsNW3AunMLx0_F5WxQNmHo&cl=ffffff&w=a"></script>)
-[//]: # (<br />)
 
 <p style="text-align:center">Last updated: 26/06/2023 </p>
