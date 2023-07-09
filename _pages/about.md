@@ -19,7 +19,7 @@ redirect_from:
 
 I am **Jiaming Wen (文嘉明)**, a Ph.D. student at [Wuhan University (WHU)](https://whu.edu.cn/), working on cryptography and cyber security. Recently, my passion lies in analyzing and designing various signature schemes and zero-knowledge proof systems based on quantum-resistant assumptions, e.g., Lattice, Multivariate, and Code.
 
-Feel free to reached me at <wenjm@whu.edu.cn> or <cryptowjm@163.com>.
+Feel free to reach me via <wenjm@whu.edu.cn> or <cryptowjm@163.com>.
 
 [//]: # (# 🔥 News)
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
