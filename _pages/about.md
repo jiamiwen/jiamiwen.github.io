@@ -36,8 +36,8 @@ Feel free to reach me via <wenjm@whu.edu.cn> or <cryptowjm@163.com>.
   [School of Mathematics and Statistics (SMATHS), Wuhan University, China](http://maths.whu.edu.cn/)
 
 # 💻 Experience
-- 2021.09 - 2022.01: **Teaching Assistant**, Cryptography (undergraduate course in Fall 2021), SCSE, WHU
 - 2023.02 - 2023.06: **Teaching Assistant**, Programming Design and Experiments (undergraduate course in Spring 2023), SCSE, WHU
+- 2021.09 - 2022.01: **Teaching Assistant**, Cryptography (undergraduate course in Fall 2021), SCSE, WHU
 
 # 📝 Publications
 ## Lattice
