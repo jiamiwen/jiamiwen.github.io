@@ -70,7 +70,7 @@ My name starts with "jiami" (Chinese for "encrypt"), and ends with "mingwen" (Ch
 
 I remove "ng" from it to obtain "miwen" (Chinese for "ciphertext") for several usernames of mine, e.g., [wechat](https://jiamiwen.github.io/images/wechat.jpg), twitter and github, as I believe it is more suitable for spreading over the public channel :-).
 ## Some useful links
-- [My bilibili space](https://space.bilibili.com/59630141)
+- [My bilibili space](https://space.bilibili.com/59630141), including several talks I am or have been interested in.
 - [The Lattice Club](https://thelatticeclub.com/), including so many resources about Lattice-based Cryptography.
 - [Keita Xagawa's Homepage](https://xagawa.net/), including Bibliography on Lattice-based/Code-based Cryptosystems.
 - [Kai-Min Chung's Homepage](https://homepage.iis.sinica.edu.tw/~kmchung/), including high-quality cryptography courses in Chinese.
