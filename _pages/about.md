@@ -30,7 +30,7 @@ I can be reached via <wenjm@whu.edu.cn> or <cryptowjm@163.com>.
   
   [School of Cyber Science and Engineering (SCSE), Wuhan University](https://cse.whu.edu.cn/)
 
-  <div style="font-size:16px"><span style="float:right">China</span>[School of Cyber Science and Engineering (SCSE), Wuhan University](https://cse.whu.edu.cn/) </div>
+  <div style="font-size:16px"><span style="float:right">China</span>[<a href="https://cse.whu.edu.cn/" title="SCSE">School of Cyber Science and Engineering (SCSE), Wuhan University</a>] </div>
 
   Supervisor: Prof. [Huanguo Zhang](http://openday.whu.edu.cn/yxzq/grxy/mingshimingjia/2018-06-23/2332.html)
 - 09/2016 - 06/2020: **B.S. in Mathematics**
