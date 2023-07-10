@@ -38,10 +38,10 @@ I can be reached via <wenjm@whu.edu.cn> or <cryptowjm@163.com>.
 # 💻 Experiences
 - 02/2023 - 06/2023: **Teaching Assistant**
 
-  Programming Design and Experiments (undergraduate course in Spring 2023), SCSE, WHU
+  Programming Design and Experiments (undergraduate course in Spring 2023), SCSE, Wuhan University
 - 09/2021 - 01/2022: **Teaching Assistant**
 
-  Cryptography (undergraduate course in Fall 2021), SCSE, WHU
+  Cryptography (undergraduate course in Fall 2021), SCSE, Wuhan University
 
 # 📝 Publications
 ## Lattice
