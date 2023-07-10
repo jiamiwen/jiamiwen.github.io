@@ -26,18 +26,22 @@ I can be reached via <wenjm@whu.edu.cn> or <cryptowjm@163.com>.
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📖 Education
-- 2020.09 - now: **Ph.D. Candidate in Cryptography**
+- 09/2020 - now: **Ph.D. Candidate in Cryptography**
   
   [School of Cyber Science and Engineering (SCSE), Wuhan University, China](https://cse.whu.edu.cn/)
 
   Supervisor: Prof. [Huanguo Zhang](http://openday.whu.edu.cn/yxzq/grxy/mingshimingjia/2018-06-23/2332.html)
-- 2016.09 - 2020.06: **B.S. in Mathematics**
+- 09/2016 - 06/2020: **B.S. in Mathematics**
 
   [School of Mathematics and Statistics (SMATHS), Wuhan University, China](http://maths.whu.edu.cn/)
 
 # 💻 Experiences
-- 2023.02 - 2023.06: **Teaching Assistant**, Programming Design and Experiments (undergraduate course in Spring 2023), SCSE, WHU
-- 2021.09 - 2022.01: **Teaching Assistant**, Cryptography (undergraduate course in Fall 2021), SCSE, WHU
+- 02/2023 - 06/2023: **Teaching Assistant**
+
+  Programming Design and Experiments (undergraduate course in Spring 2023), SCSE, WHU
+- 09/2021 - 01/2022: **Teaching Assistant**
+
+  Cryptography (undergraduate course in Fall 2021), SCSE, WHU
 
 # 📝 Publications
 ## Lattice
