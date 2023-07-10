@@ -74,6 +74,7 @@ I can be reached via <wenjm@whu.edu.cn> or <cryptowjm@163.com>.
 [//]: # (# 🎖 Selected Honors and Awards)
 
 # 🧰 Miscellaneous
+## Serendipity
 My name starts with "jiami" (Chinese for "encrypt"), and ends with "mingwen" (Chinese for "plaintext"). 
 
 I remove "ng" from it to obtain "miwen" (Chinese for "ciphertext") for several usernames of mine, e.g., [wechat](https://jiamiwen.github.io/images/wechat.jpg), twitter and github, as I believe it is more suitable for spreading over the public channel :-).
