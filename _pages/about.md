@@ -84,7 +84,7 @@ I remove "ng" from it to obtain "miwen" (Chinese for "ciphertext") for several u
 - [Keita Xagawa's Homepage](https://xagawa.net/), including Bibliography on Lattice-based/Code-based Cryptosystems.
 - [Kai-Min Chung's Homepage](https://homepage.iis.sinica.edu.tw/~kmchung/), including high-quality cryptography courses in Chinese.
 - [Journal of WoCrypt](https://documents.uow.edu.au/~fuchun/jow.html)
-- [IACR ePrint](https://eprint.iacr.org/)
+- [IACR ePrint Archive](https://eprint.iacr.org/)
 
 
 
