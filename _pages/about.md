@@ -77,7 +77,7 @@ I can be reached via <wenjm@whu.edu.cn> or <cryptowjm@163.com>.
 ## Serendipity
 My name starts with "jiami" (Chinese for "encrypt"), and ends with "mingwen" (Chinese for "plaintext"). 
 
-I remove "ng" from it to obtain "miwen" (Chinese for "ciphertext") for several usernames of mine, e.g., [wechat](https://jiamiwen.github.io/images/wechat.jpg), twitter and github, as I believe it is more suitable for spreading over the public channel :-).
+I remove "ng" from it to obtain "miwen" (Chinese for "ciphertext") for several usernames of mine, e.g., [wechat](https://jiamiwen.github.io/images/wechat.jpg), twitter, and github, as I believe it is more suitable for spreading over the public channel :-).
 ## Some useful links
 - [My bilibili space](https://space.bilibili.com/59630141), including several talks/courses I am or was interested in.
 - [The Lattice Club](https://thelatticeclub.com/), including so many resources about Lattice-based Cryptography.
