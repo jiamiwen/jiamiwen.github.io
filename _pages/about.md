@@ -26,7 +26,7 @@ I can be reached via <wenjm@whu.edu.cn> or <cryptowjm@163.com>.
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📖 Education
-- 09/2020 - now: **Ph.D. Candidate in Cryptography**
+- 09/2020 - 11/2025 (expected): **Ph.D. Candidate in Cryptography**
 
   <div style="font-size:16px"><span style="float:right">Wuhan, China</span><a href="https://cse.whu.edu.cn/" title="School of Cyber Science and Engineering (SCSE), Wuhan University"> School of Cyber Science and Engineering (SCSE), Wuhan University</a> </div>
 
