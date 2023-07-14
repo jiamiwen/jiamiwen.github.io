@@ -32,7 +32,7 @@ I can be reached via <wenjm@whu.edu.cn> or <cryptowjm@163.com>.
 
   Supervisor: Prof. [Huanguo Zhang](http://openday.whu.edu.cn/yxzq/grxy/mingshimingjia/2018-06-23/2332.html)
 
-- 10/2023 - 01/2025: **Joint Ph.D. Program in Cryptography**
+- 10/2023 - 01/2025 (expected): **Joint Ph.D. Program in Cryptography**
 
   <div style="font-size:16px"><span style="float:right">Keiraville, NSW, Australia</span><a href="https://cse.whu.edu.cn/" title="School of Computing and Information Technology (SCIT), University of Wollongong"> School of Computing and Information Technology (SCIT), University of Wollongong</a> </div>
 
