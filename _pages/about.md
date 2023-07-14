@@ -34,7 +34,7 @@ I can be reached via <wenjm@whu.edu.cn> or <cryptowjm@163.com>.
 
 - 10/2023 - 01/2025 (expected): **Joint Ph.D. Program in Cryptography**
 
-  <div style="font-size:16px"><span style="float:right">Keiraville, NSW, Australia</span><a href="https://cse.whu.edu.cn/" title="School of Computing and Information Technology (SCIT), University of Wollongong"> School of Computing and Information Technology (SCIT), University of Wollongong</a> </div>
+  <div style="font-size:16px"><span style="float:right">Keiraville, NSW, Australia</span><a href="https://www.uow.edu.au/engineering-information-sciences/schools-entities/scit/" title="School of Computing and Information Technology (SCIT), University of Wollongong"> School of Computing and Information Technology (SCIT), University of Wollongong</a> </div>
 
   Supervisors: Prof. [Willy ](https://scholars.uow.edu.au/willy-susilo)[Susilo](https://sites.google.com/view/willy-susilo) and Prof. [Fuchun ](https://scholars.uow.edu.au/fuchun-guo)[Guo](https://documents.uow.edu.au/~fuchun/)
 
