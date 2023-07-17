@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Jiaming Wen (文嘉明)**, a Ph.D. student at [Wuhan University (WHU)](https://whu.edu.cn/), and an upcoming Joint Ph.D. student at [University of Wollongong (UOW)](http://uow.edu.au/), working on cryptography and cyber security. Recently, my passion lies in analyzing and designing various signature schemes and zero-knowledge proof systems based on quantum-resistant assumptions, e.g., Lattice, Multivariate, and Code.
+I am **Jiaming Wen (文嘉明)**, a Ph.D. student at [Wuhan University (WHU)](https://whu.edu.cn/), and an incoming Joint Ph.D. student at [University of Wollongong (UOW)](http://uow.edu.au/), working on cryptography and cyber security. Recently, my passion lies in analyzing and designing various signature schemes and zero-knowledge proof systems based on quantum-resistant assumptions, e.g., Lattice, Multivariate, and Code.
 
 I can be reached via <wenjm@whu.edu.cn> or <cryptowjm@163.com>.
 
