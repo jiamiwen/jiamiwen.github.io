@@ -88,7 +88,7 @@ I remove "ng" from it to obtain "miwen" (Chinese for "ciphertext") for several u
 ## Some useful links
 - [My bilibili space](https://space.bilibili.com/59630141), including several talks/courses I am or was interested in.
 - [The Lattice Club](https://thelatticeclub.com/), including so many resources about Lattice-based Cryptography.
-- [Post-Quantum Signatures Zoo](https://pqshield.github.io/nist-sigs-zoo/), including so many resources about Post-Quantum Signatures.
+- [Post-Quantum Signatures Zoo](https://pqshield.github.io/nist-sigs-zoo/), including an overview of Post-Quantum Signatures.
 - [Keita Xagawa's Homepage](https://xagawa.net/), including Bibliography on Lattice-based/Code-based Cryptosystems.
 - [Kai-Min Chung's Homepage](https://homepage.iis.sinica.edu.tw/~kmchung/), including high-quality cryptography courses in Chinese.
 - [Journal of WoCrypt](https://documents.uow.edu.au/~fuchun/jow.html)
