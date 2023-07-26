@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Jiaming Wen (文嘉明)**, a Ph.D. student at [Wuhan University (WHU)](https://whu.edu.cn/), as well as an incoming Joint Ph.D. student at [University of Wollongong (UOW)](http://uow.edu.au/), working on cryptography and cyber security. Recently, my passion lies in analyzing and designing various signature schemes and zero-knowledge proof systems based on quantum-resistant assumptions, e.g., Lattice, Multivariate, and Code.
+I am **Jiaming Wen (文嘉明)**, a Ph.D. student at [Wuhan University (WHU)](https://whu.edu.cn/), and an incoming CSC Joint Ph.D. student at [University of Wollongong (UOW)](http://uow.edu.au/), working on cryptography and cyber security. Recently, my passion lies in analyzing and designing various signature schemes and zero-knowledge proof systems based on quantum-resistant assumptions, e.g., Lattice, Multivariate, and Code.
 
 I can be reached via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>.
 
@@ -32,7 +32,7 @@ I can be reached via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>.
 
   Supervisor: Prof. [Huanguo Zhang](http://openday.whu.edu.cn/yxzq/grxy/mingshimingjia/2018-06-23/2332.html)
 
-- 10/2023 - 01/2025 (expected): **CSC Joint Ph.D. Program in Cryptography**
+- 10/2023 - 01/2025 (expected): **Joint Ph.D. Program in Cryptography (funded by [CSC](https://www.csc.edu.cn/))**
 
   <div style="font-size:16px"><span style="float:right">Keiraville, NSW, Australia</span><a href="https://www.uow.edu.au/engineering-information-sciences/schools-entities/scit/" title="School of Computing and Information Technology (SCIT), University of Wollongong"> School of Computing and Information Technology (SCIT), University of Wollongong</a> </div>
 
