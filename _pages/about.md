@@ -32,7 +32,7 @@ I can be reached via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>.
 
   Supervisor: Prof. [Huanguo Zhang](http://openday.whu.edu.cn/yxzq/grxy/mingshimingjia/2018-06-23/2332.html)
 
-- 10/2023 - 01/2025 (expected): **Joint Ph.D. Program in Cryptography**
+- 10/2023 - 01/2025 (expected): **CSC Joint Ph.D. Program in Cryptography**
 
   <div style="font-size:16px"><span style="float:right">Keiraville, NSW, Australia</span><a href="https://www.uow.edu.au/engineering-information-sciences/schools-entities/scit/" title="School of Computing and Information Technology (SCIT), University of Wollongong"> School of Computing and Information Technology (SCIT), University of Wollongong</a> </div>
 
@@ -101,4 +101,4 @@ I remove "ng" from it to obtain "miwen" (Chinese for "ciphertext") for several u
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/))
 
 
-<p style="text-align:center">Last updated: 20/07/2023 </p>
+<p style="text-align:center">Last updated: 26/07/2023 </p>
