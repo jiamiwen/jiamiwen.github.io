@@ -74,7 +74,7 @@ I can be reached via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>.
 ## Pre-quantum
 - [WWLZ23] [ACKE: Asymmetric Computing Key Exchange Protocol for IoT Environments](https://ieeexplore.ieee.org/document/10131978)
 
-  Houzhen Wang, **Jiaming Wen***, Jinhui Liu, and Huanguo Zhang (First Author is my co-advisor & I am the Corresponding Author)
+  Houzhen Wang, **Jiaming Wen***, Jinhui Liu, and Huanguo Zhang (First Author is my co-advisor & Corresponding Author)
 
   *IEEE Internet of Things Journal (IoT-J) 2023* [Journal, JCR Q1]
 
