@@ -57,7 +57,7 @@ I can be reached via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>.
 
   **Jiaming Wen**, Lu Bai, Zhichao Yang, Huanguo Zhang, Houzhen Wang, and Debiao He
 
-  *IEEE Transactions on Vehicular Technology (T-VT) 2023* [Journal, JCR Q1, [slides]()]
+  *IEEE Transactions on Vehicular Technology (T-VT) 2023* [Journal, JCR Q1, [slides](https://jiamiwen.github.io/slides/larrs-slides.pdf)]
   
 - [WWLZ22] [Aitps: A Two-Party Signature from Asymmetry Module Lattice Problem](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202220533) (in Chinese)
 
