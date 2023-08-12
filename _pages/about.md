@@ -28,19 +28,19 @@ I can be reached via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>.
 # 📖 Education
 - 09/2020 - 11/2025 (expected): **Ph.D. Candidate in Cryptography**
 
-  <div style="font-size:16px"><span style="float:right">Wuhan, Hubei, China</span><a href="https://cse.whu.edu.cn/" title="School of Cyber Science and Engineering (SCSE), Wuhan University"> School of Cyber Science and Engineering (SCSE), Wuhan University</a> </div>
+  <div style="font-size:18px"><span style="float:right">Wuhan, Hubei, China</span><a href="https://cse.whu.edu.cn/" title="School of Cyber Science and Engineering (SCSE), Wuhan University"> School of Cyber Science and Engineering (SCSE), Wuhan University</a> </div>
 
   Supervisor: Prof. [Huanguo Zhang](http://openday.whu.edu.cn/yxzq/grxy/mingshimingjia/2018-06-23/2332.html)
 
 - 10/2023 - 01/2025 (expected): **Joint Ph.D. Program in Cryptography (funded by [CSC](https://www.csc.edu.cn/))**
 
-  <div style="font-size:16px"><span style="float:right">Keiraville, NSW, Australia</span><a href="https://www.uow.edu.au/engineering-information-sciences/schools-entities/scit/" title="School of Computing and Information Technology (SCIT), University of Wollongong"> School of Computing and Information Technology (SCIT), University of Wollongong</a> </div>
+  <div style="font-size:18px"><span style="float:right">Keiraville, NSW, Australia</span><a href="https://www.uow.edu.au/engineering-information-sciences/schools-entities/scit/" title="School of Computing and Information Technology (SCIT), University of Wollongong"> School of Computing and Information Technology (SCIT), University of Wollongong</a> </div>
 
   Supervisors: Prof. [Willy ](https://scholars.uow.edu.au/willy-susilo)[Susilo](https://sites.google.com/view/willy-susilo) and Prof. [Fuchun ](https://scholars.uow.edu.au/fuchun-guo)[Guo](https://documents.uow.edu.au/~fuchun/)
 
 - 09/2016 - 06/2020: **B.S. in Mathematics**
 
-  <div style="font-size:16px"><span style="float:right">Wuhan, Hubei, China</span><a href="http://maths.whu.edu.cn/" title="School of Mathematics and Statistics (SMATHS), Wuhan University"> School of Mathematics and Statistics (SMATHS), Wuhan University</a> </div>
+  <div style="font-size:18px"><span style="float:right">Wuhan, Hubei, China</span><a href="http://maths.whu.edu.cn/" title="School of Mathematics and Statistics (SMATHS), Wuhan University"> School of Mathematics and Statistics (SMATHS), Wuhan University</a> </div>
 
 # 💻 Experience
 ## Teaching
