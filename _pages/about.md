@@ -42,15 +42,6 @@ I can be reached via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>.
 
   <div style="font-size:18px"><span style="float:right">Wuhan, Hubei, China</span><a href="http://maths.whu.edu.cn/" title="School of Mathematics and Statistics (SMATHS), Wuhan University"> School of Mathematics and Statistics (SMATHS), Wuhan University</a> </div>
 
-# 💻 Experience
-## Teaching
-- 02/2023 - 06/2023: **Teaching Assistant**
-
-  Programming Design and Experiments (undergraduate course in Spring 2023), SCSE, Wuhan University
-- 09/2021 - 01/2022: **Teaching Assistant**
-
-  Cryptography (undergraduate course in Fall 2021), SCSE, Wuhan University
-
 # 📝 Publications
 ## Lattice
 - [WBY+23] [LaRRS: Lattice-Based Revocable Ring Signature and its application for VANETs](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25)
@@ -86,6 +77,19 @@ I can be reached via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>.
   *IEEE Internet of Things Journal (IoT-J) 2023* [Journal, JCR Q1]
 
 [//]: # (# 🎖 Selected Honors and Awards)
+
+# 💻 Services
+## Teaching
+- 02/2023 - 06/2023: **Teaching Assistant**
+
+  Programming Design and Experiments (undergraduate course in Spring 2023), SCSE, Wuhan University
+- 09/2021 - 01/2022: **Teaching Assistant**
+
+  Cryptography (undergraduate course in Fall 2021), SCSE, Wuhan University
+
+## Review
+- Journal: *IEEE Systems Journal*, *Journal of Information Security and Applications*
+- Conference: *Inscrypt 2023*
 
 # 🧰 Miscellaneous
 ## Serendipity
