@@ -44,7 +44,7 @@ I can be reached via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>.
 
 # 📝 Publications
 ## Lattice
-- [WBY+23] [LaRRS: Lattice-Based Revocable Ring Signature and its application for VANETs](https://ieeexplore.ieee.org/document/10219003/authors)
+- [WBY+23] [LaRRS: Lattice-Based Revocable Ring Signature and its application for VANETs](https://ieeexplore.ieee.org/document/10219003)
 
   **Jiaming Wen**, Lu Bai, Zhichao Yang, Huanguo Zhang, Houzhen Wang, and Debiao He
 
