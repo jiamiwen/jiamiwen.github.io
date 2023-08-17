@@ -81,6 +81,7 @@ I can be reached via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>.
   **Jiaming Wen**, Lu Bai, Jinhui Liu, Huanguo Zhang, and Houzhen Wang
 
   *SSRN 4542699*, Preprint submitted for review.
+  
 [//]: # (# 🎖 Selected Honors and Awards)
 
 # 💻 Services
