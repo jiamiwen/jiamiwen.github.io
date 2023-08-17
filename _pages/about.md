@@ -76,6 +76,11 @@ I can be reached via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>.
 
   *IEEE Internet of Things Journal (IoT-J) 2023* [Journal, JCR Q1]
 
+- [WBL+23] [Analysis and Improvement of a Conditional Privacy-Preserving Authentication Scheme with double-insurance in VANETs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4542699)
+
+  **Jiaming Wen**, Lu Bai, Jinhui Liu, Huanguo Zhang, and Houzhen Wang
+
+  *SSRN 4542699*, Preprint submitted for review.
 [//]: # (# 🎖 Selected Honors and Awards)
 
 # 💻 Services
