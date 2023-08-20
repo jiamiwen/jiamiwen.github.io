@@ -89,7 +89,7 @@ I can be reached via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>.
 
 ## Review
 - Journal: *IEEE Systems Journal*, *Journal of Information Security and Applications*, et al.
-- Conference: *Inscrypt 2023*
+- Conference: *Inscrypt 2023*.
 
 # 🧰 Miscellaneous
 ## Serendipity
