@@ -60,7 +60,7 @@ I can be reached via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>.
 
   Jinhui Liu, **Jiaming Wen**, Bowen Zhang, Shunyu Dong, Bo Tang, and Yong Yu
 
-  *Future Generation Computer Systems (FGCS) 2023* [Journal, JCR Q1, [CCF-C](https://www.ccf.org.cn/Academic_Evaluation/By_category/)]
+  *Future Generation Computer Systems (FGCS) 2023* [Journal, JCR Q1]
 
 ## Multivariate
 - [WWZ23] [Post-quantum Sigma Protocols and Signatures from Low-Rank Matrix Completions](https://provsec2023.github.io/ProvSec2023/#)
@@ -74,7 +74,7 @@ I can be reached via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>.
 
   Houzhen Wang, **Jiaming Wen***, Jinhui Liu, and Huanguo Zhang (First Author is my co-advisor & Corresponding Author)
 
-  *IEEE Internet of Things Journal (IoT-J) 2023* [Journal, JCR Q1, [CCF-C](https://www.ccf.org.cn/Academic_Evaluation/By_category/)]
+  *IEEE Internet of Things Journal (IoT-J) 2023* [Journal, JCR Q1]
 
 [//]: # (# 🎖 Selected Honors and Awards)
 
