@@ -88,8 +88,8 @@ I can be reached via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>.
   Cryptography (undergraduate course in Fall 2021), SCSE, Wuhan University
 
 ## Review
-- Journal: *IEEE Systems Journal*, *Journal of Information Security and Applications*, et al.
-- Conference: *Inscrypt 2023*.
+- Journals: *IEEE Systems Journal*, *Journal of Information Security and Applications*, et al.
+- Conferences: *Inscrypt 2023*.
 
 # 🧰 Miscellaneous
 ## Serendipity
