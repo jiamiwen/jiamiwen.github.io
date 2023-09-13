@@ -43,7 +43,7 @@ I can be reached via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>.
   <div style="font-size:18px"><span style="float:right">Wuhan, Hubei, China</span><a href="http://maths.whu.edu.cn/" title="School of Mathematics and Statistics (SMATHS), Wuhan University"> School of Mathematics and Statistics (SMATHS), Wuhan University</a> </div>
 
 # 📝 Publications
-Roughly, my existing publications can be divided according to Post-quantum (Lattice, Multivariate), and Pre-quantum. Most of them are irrigations and not worth reading. I have also been looking forward and trying my best to do works that please me. However, they have been rejected until now.
+Roughly, my existing publications can be categorized into Post-quantum (Lattice, Multivariate), and Pre-quantum. Most of them are irrigations and not worth reading. I have also been looking forward and trying my best to do works that please me. However, they have always been rejected until now.
 ## Lattice
 - [WBY+23] [LaRRS: Lattice-Based Revocable Ring Signature and its application for VANETs](https://ieeexplore.ieee.org/document/10219003)
 
