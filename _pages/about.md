@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🥷 About Me
+[//]: # (# 🥷 About Me)
 
 I am **Jiaming Wen (文嘉明)**, a Ph.D. student at [Wuhan University (WHU)](https://whu.edu.cn/), as well as an incoming Joint Ph.D. student at [University of Wollongong (UOW)](http://uow.edu.au/), working on cryptography and cyber security. Recently, my passion lies in analyzing and designing various signature schemes and zero-knowledge protocols based on quantum-resistant assumptions, e.g., Lattice, Multivariate, and Code.
 
