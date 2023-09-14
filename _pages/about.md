@@ -100,7 +100,7 @@ Roughly, my existing publications can be categorized into Post-quantum (Lattice,
 - Journals: *IEEE Systems Journal*, *Journal of Information Security and Applications*, et al.
 - Conferences: *Inscrypt 2023*, et al.
 
-# 🧰 Miscellaneous
+# 🧰 Misc
 ## Serendipity
 My name starts with "jiami" (Chinese for "encrypt"), and ends with "mingwen" (Chinese for "plaintext"). 
 
