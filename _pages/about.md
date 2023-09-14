@@ -111,7 +111,7 @@ I remove "ng" from it to obtain "miwen" (Chinese for "ciphertext") for several u
 - [Post-Quantum Signatures Zoo](https://pqshield.github.io/nist-sigs-zoo/), including an overview of Post-Quantum Signatures.
 - [Keita Xagawa's Homepage](https://xagawa.net/), including Bibliography on Lattice-based/Code-based Cryptosystems.
 - [Kai-Min Chung's Homepage](https://homepage.iis.sinica.edu.tw/~kmchung/), including high-quality cryptography courses in Chinese.
-- [Journal of WoCrypt](https://documents.uow.edu.au/~fuchun/jow.html), a very serious fake journal, whose outcomes include [Research Philosophy of Modern Cryptography](https://eprint.iacr.org/2023/715.pdf) and [PPTs](https://documents.uow.edu.au/~fuchun/methodology.html).
+- [Journal of WoCrypt](https://documents.uow.edu.au/~fuchun/jow.html), a very serious fake journal, whose outcomes include [数字签名密史](https://documents.uow.edu.au/~fuchun/cryptologic-history.html), [English Version](https://eprint.iacr.org/2023/715.pdf), [PPTs](https://documents.uow.edu.au/~fuchun/methodology.html).
 - [IACR ePrint Archive](https://eprint.iacr.org/), a mysterious website suggested visiting every day.
 
 
