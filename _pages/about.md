@@ -52,41 +52,31 @@ Roughly, my existing publications can be categorized into Post-quantum (Lattice,
   <br>*Journal of Computer Research and Development (计算机研究与发展) 2023* [Journal, [Chinese CCF-T1](https://www.ccf.org.cn/ccftjgjxskwml/), [slides](https://jiamiwen.github.io/documents/aitps-slides.pdf)]
   
 - [LWZ+23] [A post quantum secure multi-party collaborative signature with deterability in the Industrial Internet of Things](https://www.sciencedirect.com/science/article/pii/S0167739X22003983?via%3Dihub)
-
-  Jinhui Liu, **Jiaming Wen**, Bowen Zhang, Shunyu Dong, Bo Tang, and Yong Yu
-
-  *Future Generation Computer Systems (FGCS) 2023* [Journal, JCR Q1]
+  <br>Jinhui Liu, **Jiaming Wen**, Bowen Zhang, Shunyu Dong, Bo Tang, and Yong Yu
+  <br>*Future Generation Computer Systems (FGCS) 2023* [Journal, JCR Q1]
 
 - [AWBWZ23] [Spatial optimization for CRYSTALS-Dilithium Digital Signature Scheme](http://xblx.whu.edu.cn/zh/article/doi/10.14188/j.1671-8836.2022.0199/) (in Chinese)
-
-  Sifan Ao, Houzhen Wang, Lu Bai, **Jiaming Wen**, and Huanguo Zhang
-
-  *Journal of Wuhan University (武汉大学学报) 2023* [Journal, Chinese Core]
+  <br>Sifan Ao, Houzhen Wang, Lu Bai, **Jiaming Wen**, and Huanguo Zhang
+  <br>*Journal of Wuhan University (武汉大学学报) 2023* [Journal, Chinese Core]
 
 ## Multivariate
 - [WWZ23] [Post-quantum Sigma Protocols and Signatures from Low-Rank Matrix Completions](https://provsec2023.github.io/ProvSec2023/#)
-
-  **Jiaming Wen**, Houzhen Wang, and Huanguo Zhang
-  
-  *ProvSec 2023* [Conference, [CACR-C](https://www.cacrnet.org.cn/site/content/1290.html)]
+  <br>**Jiaming Wen**, Houzhen Wang, and Huanguo Zhang
+  <br>*ProvSec 2023* [Conference, [CACR-C](https://www.cacrnet.org.cn/site/content/1290.html)]
   
 ## Pre-quantum
 - [WWLZ23] [ACKE: Asymmetric Computing Key Exchange Protocol for IoT Environments](https://ieeexplore.ieee.org/document/10131978)
-
-  Houzhen Wang, **Jiaming Wen***, Jinhui Liu, and Huanguo Zhang (First Author is my co-advisor & Corresponding Author)
-
-  *IEEE Internet of Things Journal (IoT-J) 2023* [Journal, JCR Q1]
+  <br>Houzhen Wang, **Jiaming Wen***, Jinhui Liu, and Huanguo Zhang (First Author is my co-advisor & Corresponding Author)
+  <br>*IEEE Internet of Things Journal (IoT-J) 2023* [Journal, JCR Q1]
 
 [//]: # (# 🎖 Selected Honors and Awards)
 
 # 💻 Services
 ## Teaching
 - 02/2023 - 06/2023: **Teaching Assistant**
-
-  Programming Design and Experiments (undergraduate course in Spring 2023), SCSE, Wuhan University
+  <br>Programming Design and Experiments (undergraduate course in Spring 2023), SCSE, Wuhan University
 - 09/2021 - 01/2022: **Teaching Assistant**
-
-  Cryptography (undergraduate course in Fall 2021), SCSE, Wuhan University
+  <br>Cryptography (undergraduate course in Fall 2021), SCSE, Wuhan University
 
 ## Reviewer
 - Journals: *IEEE Systems Journal*, *Journal of Information Security and Applications*, et al.
