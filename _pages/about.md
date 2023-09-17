@@ -51,13 +51,13 @@ Roughly, my existing publications can be categorized into Post-quantum (Lattice,
 
   **Jiaming Wen**, Lu Bai, Zhichao Yang, Huanguo Zhang, Houzhen Wang, and Debiao He
 
-  *IEEE Transactions on Vehicular Technology (T-VT) 2023* [Journal, JCR Q1, [slides](https://jiamiwen.github.io/slides/larrs-slides.pdf)]
+  *IEEE Transactions on Vehicular Technology (T-VT) 2023* [Journal, JCR Q1, [slides](https://jiamiwen.github.io/documents/larrs-slides.pdf)]
   
 - [WWLZ22] [Aitps: A Two-Party Signature Scheme from Asymmetry Module Lattice Problems](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202220533) (in Chinese)
 
   **Jiaming Wen**, Houzhen Wang, Jinhui Liu, and Huanguo Zhang
 
-  *Journal of Computer Research and Development (计算机研究与发展) 2023* [Journal, [Chinese CCF-T1](https://www.ccf.org.cn/ccftjgjxskwml/), [slides](https://jiamiwen.github.io/slides/aitps-slides.pdf)]
+  *Journal of Computer Research and Development (计算机研究与发展) 2023* [Journal, [Chinese CCF-T1](https://www.ccf.org.cn/ccftjgjxskwml/), [slides](https://jiamiwen.github.io/documents/aitps-slides.pdf)]
   
 - [LWZ+23] [A post quantum secure multi-party collaborative signature with deterability in the Industrial Internet of Things](https://www.sciencedirect.com/science/article/pii/S0167739X22003983?via%3Dihub)
 
