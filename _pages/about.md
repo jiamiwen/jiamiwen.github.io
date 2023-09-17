@@ -112,7 +112,7 @@ I remove "ng" from it to obtain "miwen" (Chinese for "ciphertext") for several u
 - [Post-Quantum Signatures Zoo](https://pqshield.github.io/nist-sigs-zoo/), including an overview of Post-Quantum Signatures.
 - [Keita Xagawa's Homepage](https://xagawa.net/), including Bibliography on Lattice-based/Code-based Cryptosystems.
 - [Kai-Min Chung's Homepage](https://homepage.iis.sinica.edu.tw/~kmchung/), including high-quality cryptography courses in Chinese.
-- [Journal of WoCrypt](https://documents.uow.edu.au/~fuchun/jow.html), a very serious fake journal, whose outcomes include ["安全归约导论"](https://documents.uow.edu.au/~fuchun/book.html), ["数字签名密史"](https://documents.uow.edu.au/~fuchun/cryptologic-history.html) and its [slides](https://documents.uow.edu.au/~fuchun/methodology.html). Here are my [notes for the former](https://jiamiwen.github.io/documents/notes.pdf) and [xmind for the latter](https://jiamiwen.github.io/documents/notes.pdf), which is the salute to Prof. Guo 
+- [Journal of WoCrypt](https://documents.uow.edu.au/~fuchun/jow.html), a very serious fake journal, whose outcomes include ["安全归约导论"](https://documents.uow.edu.au/~fuchun/book.html), ["数字签名密史"](https://documents.uow.edu.au/~fuchun/cryptologic-history.html) and its [slides](https://documents.uow.edu.au/~fuchun/methodology.html). Here are my [notes for the former](https://jiamiwen.github.io/documents/notes.pdf) and [xmind for the latter](https://jiamiwen.github.io/documents/notes.pdf), which are the salutes to Prof. Guo 🖖
 
 
 [//]: # (# 💬 Invited Talks)
