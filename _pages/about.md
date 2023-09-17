@@ -67,7 +67,7 @@ Roughly, my existing publications can be categorized into Post-quantum (Lattice,
 ## Pre-quantum
 - [WWLZ23] [ACKE: Asymmetric Computing Key Exchange Protocol for IoT Environments](https://ieeexplore.ieee.org/document/10131978)
   <br>Houzhen Wang, **Jiaming Wen***, Jinhui Liu, and Huanguo Zhang (First Author is my co-advisor & Corresponding Author)
-  <br>*IEEE Internet of Things Journal (IoT-J) 2023 [Journal, JCR Q1]
+  <br>*IEEE Internet of Things Journal (IoT-J) 2023* [Journal, JCR Q1]
 
 [//]: # (# 🎖 Selected Honors and Awards)
 
