@@ -29,36 +29,27 @@ I can be reached via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>.
 
 # 📖 Education
 - 09/2020 - Now: **Ph.D. Candidate in Cryptography**
-
-  <div style="font-size:18px"><span style="float:right">Wuhan, Hubei, China</span><a href="https://cse.whu.edu.cn/" title="School of Cyber Science and Engineering (SCSE), Wuhan University"> School of Cyber Science and Engineering (SCSE), Wuhan University</a> </div>
-
-  Supervisor: Prof. [Huanguo Zhang](http://openday.whu.edu.cn/yxzq/grxy/mingshimingjia/2018-06-23/2332.html)
+  <br><div style="font-size:18px"><span style="float:right">Wuhan, Hubei, China</span><a href="https://cse.whu.edu.cn/" title="School of Cyber Science and Engineering (SCSE), Wuhan University"> School of Cyber Science and Engineering (SCSE), Wuhan University</a> </div>
+  <br>Supervisor: Prof. [Huanguo Zhang](http://openday.whu.edu.cn/yxzq/grxy/mingshimingjia/2018-06-23/2332.html)
   <br>Selected Honors and Awards: [Shenzhen Stock Exchange Scholarship 2022](https://tmp8.whu.edu.cn/info/1222/2137.htm) (5 out of 286 mphil students)
 
 - 10/2023 - 01/2025 (expected): **Joint Ph.D. Program in Cryptography, funded by [CSC State Scholarship](https://www.csc.edu.cn/chuguo)**
-
-  <div style="font-size:18px"><span style="float:right">Keiraville, NSW, Australia</span><a href="https://www.uow.edu.au/engineering-information-sciences/schools-entities/scit/" title="School of Computing and Information Technology (SCIT), University of Wollongong"> School of Computing and Information Technology (SCIT), University of Wollongong</a> </div>
-
-  Supervisors: Prof. [Willy ](https://scholars.uow.edu.au/willy-susilo)[Susilo](https://sites.google.com/view/willy-susilo) and Prof. [Fuchun ](https://scholars.uow.edu.au/fuchun-guo)[Guo](https://documents.uow.edu.au/~fuchun/)
+  <br><div style="font-size:18px"><span style="float:right">Keiraville, NSW, Australia</span><a href="https://www.uow.edu.au/engineering-information-sciences/schools-entities/scit/" title="School of Computing and Information Technology (SCIT), University of Wollongong"> School of Computing and Information Technology (SCIT), University of Wollongong</a> </div>
+  <br>Supervisors: Prof. [Willy ](https://scholars.uow.edu.au/willy-susilo)[Susilo](https://sites.google.com/view/willy-susilo) and Prof. [Fuchun ](https://scholars.uow.edu.au/fuchun-guo)[Guo](https://documents.uow.edu.au/~fuchun/)
 
 - 09/2016 - 06/2020: **B.S. in Mathematics**
-
-  <div style="font-size:18px"><span style="float:right">Wuhan, Hubei, China</span><a href="http://maths.whu.edu.cn/" title="School of Mathematics and Statistics (SMATHS), Wuhan University"> School of Mathematics and Statistics (SMATHS), Wuhan University</a> </div>
+  <br><div style="font-size:18px"><span style="float:right">Wuhan, Hubei, China</span><a href="http://maths.whu.edu.cn/" title="School of Mathematics and Statistics (SMATHS), Wuhan University"> School of Mathematics and Statistics (SMATHS), Wuhan University</a> </div>
 
 # 📝 Publications
 Roughly, my existing publications can be categorized into Post-quantum (Lattice, Multivariate), and Pre-quantum (DL, Pairing). Most of them are irrigations and not worth reading. I have also been looking forward and trying my best to dominate works that please me. Unfortunately, they have been rejected until now.
 ## Lattice
 - [WBY+23] [LaRRS: Lattice-Based Revocable Ring Signature and its application for VANETs](https://ieeexplore.ieee.org/document/10219003)
-
-  **Jiaming Wen**, Lu Bai, Zhichao Yang, Huanguo Zhang, Houzhen Wang, and Debiao He
-
-  *IEEE Transactions on Vehicular Technology (T-VT) 2023* [Journal, JCR Q1, [slides](https://jiamiwen.github.io/documents/larrs-slides.pdf)]
+  <br>**Jiaming Wen**, Lu Bai, Zhichao Yang, Huanguo Zhang, Houzhen Wang, and Debiao He
+  <br>*IEEE Transactions on Vehicular Technology (T-VT) 2023* [Journal, JCR Q1, [slides](https://jiamiwen.github.io/documents/larrs-slides.pdf)]
   
 - [WWLZ22] [Aitps: A Two-Party Signature Scheme from Asymmetry Module Lattice Problems](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202220533) (in Chinese)
-
-  **Jiaming Wen**, Houzhen Wang, Jinhui Liu, and Huanguo Zhang
-
-  *Journal of Computer Research and Development (计算机研究与发展) 2023* [Journal, [Chinese CCF-T1](https://www.ccf.org.cn/ccftjgjxskwml/), [slides](https://jiamiwen.github.io/documents/aitps-slides.pdf)]
+  <br>**Jiaming Wen**, Houzhen Wang, Jinhui Liu, and Huanguo Zhang
+  <br>*Journal of Computer Research and Development (计算机研究与发展) 2023* [Journal, [Chinese CCF-T1](https://www.ccf.org.cn/ccftjgjxskwml/), [slides](https://jiamiwen.github.io/documents/aitps-slides.pdf)]
   
 - [LWZ+23] [A post quantum secure multi-party collaborative signature with deterability in the Industrial Internet of Things](https://www.sciencedirect.com/science/article/pii/S0167739X22003983?via%3Dihub)
 
