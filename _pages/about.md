@@ -107,12 +107,12 @@ My name starts with "jiami" (Chinese for "encrypt"), and ends with "mingwen" (Ch
 I remove "ng" from it to obtain "miwen" (Chinese for "ciphertext") for several usernames of mine, e.g., [wechat](https://jiamiwen.github.io/images/wechat.jpg), twitter, and github, as I believe it is more suitable for spreading over the public channel :-).
 ## Some useful links
 - [My bilibili space](https://space.bilibili.com/59630141), including several talks/courses I am or was interested in.
+- [IACR ePrint Archive](https://eprint.iacr.org/), a mysterious website suggested visiting every day.
 - [The Lattice Club](https://thelatticeclub.com/), including so many resources about Lattice-based Cryptography.
 - [Post-Quantum Signatures Zoo](https://pqshield.github.io/nist-sigs-zoo/), including an overview of Post-Quantum Signatures.
 - [Keita Xagawa's Homepage](https://xagawa.net/), including Bibliography on Lattice-based/Code-based Cryptosystems.
 - [Kai-Min Chung's Homepage](https://homepage.iis.sinica.edu.tw/~kmchung/), including high-quality cryptography courses in Chinese.
-- [Journal of WoCrypt](https://documents.uow.edu.au/~fuchun/jow.html), a very serious fake journal, whose outcomes include ["数字签名密史"](https://documents.uow.edu.au/~fuchun/cryptologic-history.html) and [slides](https://documents.uow.edu.au/~fuchun/methodology.html).
-- [IACR ePrint Archive](https://eprint.iacr.org/), a mysterious website suggested visiting every day.
+- [Journal of WoCrypt](https://documents.uow.edu.au/~fuchun/jow.html), a very serious fake journal, whose outcomes include ["安全归约导论"](https://documents.uow.edu.au/~fuchun/book.html), ["数字签名密史"](https://documents.uow.edu.au/~fuchun/cryptologic-history.html) and [slides](https://documents.uow.edu.au/~fuchun/methodology.html). Here are my [notes for the former](https://jiamiwen.github.io/documents/notes.pdf) and [xmind for the latter](https://jiamiwen.github.io/documents/notes.pdf), which is the salute to Prof. Guo
 
 
 [//]: # (# 💬 Invited Talks)
