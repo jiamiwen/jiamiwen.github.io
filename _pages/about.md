@@ -33,7 +33,7 @@ I can be reached via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>.
 - 09/2020 - Now: **Ph.D. Candidate in Cryptography**
   <div style="font-size:18px"><span style="float:right">Wuhan, Hubei, China</span><a href="https://cse.whu.edu.cn/" title="School of Cyber Science and Engineering (SCSE), Wuhan University"> School of Cyber Science and Engineering (SCSE), Wuhan University</a> </div>
   Supervisor: Prof. [Huanguo Zhang](http://openday.whu.edu.cn/yxzq/grxy/mingshimingjia/2018-06-23/2332.html)
-  <br>Selected Honors and Awards: [Shenzhen Stock Exchange Scholarship 2022](https://tmp8.whu.edu.cn/info/2601/17821.htm) (5 out of 286 master students), and yearly First Prize of Outstanding Academic Scholarship (Top 10% in the same grade)
+  <br>Selected Honors and Awards: [Shenzhen Stock Exchange Scholarship 2022](https://tmp8.whu.edu.cn/info/2601/17821.htm) (5 out of 286 master students), and per year First Prize of Outstanding Academic Scholarship (Top 10% in the same grade)
 
 - 10/2023 - 01/2025 (expected): **Joint Ph.D. Program in Cryptography, funded by [CSC State Scholarship](https://www.csc.edu.cn/chuguo)**
   <div style="font-size:18px"><span style="float:right">Keiraville, NSW, Australia</span><a href="https://www.uow.edu.au/engineering-information-sciences/schools-entities/scit/" title="School of Computing and Information Technology (SCIT), University of Wollongong"> School of Computing and Information Technology (SCIT), University of Wollongong</a> </div>
