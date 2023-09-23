@@ -21,7 +21,7 @@ redirect_from:
 
 I am **Jiaming Wen (文嘉明)**, a Ph.D. student at [Wuhan University (WHU)](https://whu.edu.cn/), also an incoming Joint Ph.D. student at [University of Wollongong (UOW)](http://uow.edu.au/), working on cryptography and cyber security. To be more specific,
 - Recently, my passion lies in analyzing and designing various signature schemes and zero-knowledge protocols based on quantum-resistant assumptions, e.g., Lattice, Multivariate, and Code.
-- In the long term, I hope using technologies to establish trust among individuals at almost zero cost, which I consider to be the most subtle and remarkable aspect of cryptography.
+- In the long term, I hope using technologies to establish trust among individuals at almost zero cost, which I consider to be the most subtle and great aspect of cryptography.
 
 I can be reached via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>.
 
@@ -33,7 +33,7 @@ I can be reached via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>.
 - 09/2020 - Now: **Ph.D. Candidate in Cryptography**
   <div style="font-size:18px"><span style="float:right">Wuhan, Hubei, China</span><a href="https://cse.whu.edu.cn/" title="School of Cyber Science and Engineering (SCSE), Wuhan University"> School of Cyber Science and Engineering (SCSE), Wuhan University</a> </div>
   Supervisor: Prof. [Huanguo Zhang](http://openday.whu.edu.cn/yxzq/grxy/mingshimingjia/2018-06-23/2332.html)
-  <br>Selected Honors and Awards: [Shenzhen Stock Exchange Scholarship 2022](http://info.whu.edu.cn/info/3343/26271.htm) (5 out of 286 master students)
+  <br>Selected Honors and Awards: [Shenzhen Stock Exchange Scholarship 2022](http://cncc.bingj.com/cache.aspx?q=%e6%ad%a6%e6%b1%89%e5%a4%a7%e5%ad%a6%e6%b7%b1%e4%ba%a4%e6%89%80%e5%a5%96%e5%ad%a6%e9%87%91&d=2644197984781&mkt=zh-CN&setlang=zh-CN&w=4a7vEfqXnMkJ949tqLNEDWQdtkmGyWzo) (5 out of 286 master students)
 
 - 10/2023 - 01/2025 (expected): **Joint Ph.D. Program in Cryptography, funded by [CSC State Scholarship](https://www.csc.edu.cn/chuguo)**
   <div style="font-size:18px"><span style="float:right">Keiraville, NSW, Australia</span><a href="https://www.uow.edu.au/engineering-information-sciences/schools-entities/scit/" title="School of Computing and Information Technology (SCIT), University of Wollongong"> School of Computing and Information Technology (SCIT), University of Wollongong</a> </div>
