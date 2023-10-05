@@ -23,7 +23,7 @@ I am **Jiaming Wen (文嘉明)**, a Ph.D. student at [Wuhan University (WHU)](ht
 - Recently, my passion lies in analyzing and designing various signature schemes and zero-knowledge protocols based on quantum-resistant assumptions, e.g., Lattice, Multivariate, and Code.
 - In the long term, I hope using technologies to establish trust among individuals at almost zero cost, which I consider to be the most subtle and great aspect of cryptography.
 
-I can be reached via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>.
+I can be reached via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn> 📧
 
 [//]: # (# 🔥 News)
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
@@ -76,7 +76,7 @@ Roughly, my existing publications can be categorized into Post-quantum (Lattice,
 # 💻 Services
 ## Teaching
 - 02/2023 - 06/2023: **Teaching Assistant**
-  <br>Programming Design and Experiments (undergraduate course in Spring 2023), SCSE, Wuhan University
+  <br>Programming Design and Experiment (undergraduate course in Spring 2023), SCSE, Wuhan University
 - 09/2021 - 01/2022: **Teaching Assistant**
   <br>Cryptography (undergraduate course in Fall 2021), SCSE, Wuhan University
 
