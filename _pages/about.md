@@ -61,9 +61,10 @@ Roughly, my existing publications can be categorized into Post-quantum (Lattice,
   <br> *Journal of Wuhan University (武汉大学学报) 2023* [Journal, Chinese Core]
 
 ## Multivariate
-- [WWZ23] [Post-quantum Sigma Protocols and Signatures from Low-Rank Matrix Completions](https://provsec2023.github.io/ProvSec2023/#)
+- [WWZ23] [Post-quantum Sigma Protocols and Signatures from Low-Rank Matrix Completions](https://link.springer.com/chapter/10.1007/978-3-031-45513-1_11)
   <br> **Jiaming Wen**, Houzhen Wang, and Huanguo Zhang
-  <br> *ProvSec 2023* [Conference, [CACR-C](https://www.cacrnet.org.cn/site/content/1290.html)]
+  <br> *[ProvSec 2023](https://provsec2023.github.io/ProvSec2023/#)* [Conference, [CACR-C](https://www.cacrnet.org.cn/site/content/1290.html)]
+
   
 ## Pre-quantum
 - [WWLZ23] [ACKE: Asymmetric Computing Key Exchange Protocol for IoT Environments](https://ieeexplore.ieee.org/document/10131978)
