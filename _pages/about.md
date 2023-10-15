@@ -80,7 +80,7 @@ Roughly, my existing publications can be categorized into Post-quantum (Lattice,
 - 09/2021 - 01/2022: **Teaching Assistant**
   <br>Cryptography (undergraduate course in Fall 2021), SCSE, Wuhan University
 
-## Reviewer
+## Serving as Reviewer
 - Journals: *IEEE Systems Journal*, *Journal of Information Security and Applications*, et al.
 - Conferences: *Inscrypt 2023*, et al.
 
