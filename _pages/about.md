@@ -32,7 +32,7 @@ Feel free to reach me via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>,
 # 🏃 Experience
 - 09/2020 - Now: **Ph.D. Candidate in Cryptography**
   <div style="font-size:18px"><span style="float:right">Wuhan, Hubei, China</span><a href="https://cse.whu.edu.cn/" title="School of Cyber Science and Engineering (SCSE), Wuhan University"> School of Cyber Science and Engineering (SCSE), Wuhan University</a> </div>
-  Supervisor: Prof. [Huanguo Zhang](https://jiamiwen.github.io/documents/Prof_Huanguo_Zhang.mhtml)
+  Supervisor: Prof. [Huanguo Zhang](https://www.icourses.cn/web/sword/portal/teacherDetails?userId=ff80808140dacd7a0140e3346ea7050d)
 
 - 10/2023 - 01/2025 (expected): **Joint Ph.D. Program in Cryptography, funded by [CSC State Scholarship](https://www.csc.edu.cn/chuguo)**
   <div style="font-size:18px"><span style="float:right">Keiraville, NSW, Australia</span><a href="https://www.uow.edu.au/engineering-information-sciences/schools-entities/scit/" title="School of Computing and Information Technology (SCIT), University of Wollongong"> School of Computing and Information Technology (SCIT), University of Wollongong</a> </div>
