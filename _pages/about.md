@@ -48,7 +48,7 @@ Roughly, my existing publications can be categorized into Post-quantum (Lattice,
   <br> **Jiaming Wen**, Lu Bai, Zhichao Yang, Huanguo Zhang, Houzhen Wang, and Debiao He
   <br> *IEEE Transactions on Vehicular Technology (T-VT) 2023* [Journal, JCR Q1, [slides](https://jiamiwen.github.io/documents/larrs-slides.pdf)]
   
-- [**W**WLZ22] [Aitps: A Two-Party Signature Scheme from Asymmetry Module Lattice Problems](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202220533) (in Chinese)
+- [<text color="red">W</text>WLZ22] [Aitps: A Two-Party Signature Scheme from Asymmetry Module Lattice Problems](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202220533) (in Chinese)
   <br> **Jiaming Wen**, Houzhen Wang, Jinhui Liu, and Huanguo Zhang
   <br> *Journal of Computer Research and Development (计算机研究与发展) 2023* [Journal, [Chinese CCF-T1](https://www.ccf.org.cn/ccftjgjxskwml/), [slides](https://jiamiwen.github.io/documents/aitps-slides.pdf)]
   
