@@ -25,9 +25,8 @@ I am **Jiaming Wen (文嘉明)**, a Ph.D. student at [Wuhan University (WHU)](ht
 
 Feel free to reach me via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>, if questions or we share common tastes.
 
-[//]: # (# 🔥 News)
-[//]: # (- 11/2023: After a long wait, I will move to Australia to begin a new life since early next month.)
-[//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+# 🔥 News
+- 11/2023: After a long wait, my visa was finally granted, and I will move to Australia to begin a new life early next month.
 
 # 🏃 Experience
 - 09/2020 - Now: **Ph.D. Candidate in Cryptography**
