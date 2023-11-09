@@ -29,7 +29,7 @@ Feel free to reach me via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>,
 - <font color=Red>2023/11: After a wait, my visa was finally granted, and I will move to Australia to begin a new life early next month. Thanks to whoever assisted me during the application and the China Scholarship Council (CSC), WHU, UOW.</font>
 [//]: # (- 2023/10/31: Coauthors and I let a paper be minor revision, after being rejected and recommend resubmitted months ago.)
 - 2023/10: Coauthors and I got two papers rejected :(
-- 2023/10: I submitted to the Journal of WoCrypt for the first time, and it was accepted. I put it at the bottom of this page.
+- 2023/10: I submitted to the Journal of WoCrypt for the first time, and it was accepted. See the bottom of this page.
 
 # 🏃 Experience
 - 2020/09 - Now: **Ph.D. Candidate in Cryptography**
