@@ -26,7 +26,7 @@ I am **Jiaming Wen (文嘉明)**, a Ph.D. student at [Wuhan University (WHU)](ht
 Feel free to reach me via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>, if questions or we share common tastes.
 
 # 🔥 News
-- 2023/11/09: After a wait, my visa was finally granted, and I will move to Australia to begin a new life early next month. Thanks to whoever assisted me during the application and the China Scholarship Council (CSC), WHU, UOW.
+- <font color=Red>2023/11/09: After a wait, my visa was finally granted, and I will move to Australia to begin a new life early next month. Thanks to whoever assisted me during the application and the China Scholarship Council (CSC), WHU, UOW.</font>
 - 2023/10/31: Coauthors and I got a paper with minor revision, after being rejected and resubmitted.
 - 2023/10/16: Coauthors and I got a paper rejected.
 - 2023/10/04: Coauthors and I got a paper rejected.
