@@ -26,18 +26,18 @@ I am **Jiaming Wen (文嘉明)**, a Ph.D. student at [Wuhan University (WHU)](ht
 Feel free to reach me via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>, if questions or we share common tastes.
 
 # 🔥 News
-- 11/2023: After a long wait, my visa was finally granted, and I will move to Australia to begin a new life early next month. Thanks to whoever assisted me during the application and CSC, WHU, UOW.
+- 2023/11/09: After a long wait, my visa was finally granted, and I will move to Australia to begin a new life early next month. Thanks to whoever assisted me during the application and CSC, WHU, UOW.
 
 # 🏃 Experience
-- 09/2020 - Now: **Ph.D. Candidate in Cryptography**
+- 2020/09 - Now: **Ph.D. Candidate in Cryptography**
   <div style="font-size:18px"><span style="float:right">Wuhan, Hubei, China</span><a href="https://cse.whu.edu.cn/" title="School of Cyber Science and Engineering (SCSE), Wuhan University"> School of Cyber Science and Engineering (SCSE), Wuhan University</a> </div>
   Supervisor: Prof. [Huanguo Zhang](https://jiamiwen.github.io/documents/Zhang.pdf)
 
-- 12/2023 - 03/2025 (expected): **Joint Ph.D. Program in Cryptography, funded by [CSC State Scholarship](https://www.csc.edu.cn/chuguo)**
+- 2023/12 - 2025/03 (expected): **Joint Ph.D. Program in Cryptography, funded by [CSC State Scholarship](https://www.csc.edu.cn/chuguo)**
   <div style="font-size:18px"><span style="float:right">Keiraville, NSW, Australia</span><a href="https://www.uow.edu.au/engineering-information-sciences/schools-entities/scit/" title="School of Computing and Information Technology (SCIT), University of Wollongong"> School of Computing and Information Technology (SCIT), University of Wollongong</a> </div>
   Supervisors: Prof. [Willy ](https://scholars.uow.edu.au/willy-susilo)[Susilo](https://sites.google.com/view/willy-susilo) and Prof. [Fuchun ](https://scholars.uow.edu.au/fuchun-guo)[Guo](https://documents.uow.edu.au/~fuchun/)
 
-- 09/2016 - 06/2020: **B.S. in Mathematics**
+- 2016/09 - 2020/06: **B.S. in Mathematics**
   <div style="font-size:18px"><span style="float:right">Wuhan, Hubei, China</span><a href="http://maths.whu.edu.cn/" title="School of Mathematics and Statistics (SMATHS), Wuhan University"> School of Mathematics and Statistics (SMATHS), Wuhan University</a> </div>
 
 # 📜 Publications
@@ -77,9 +77,9 @@ Roughly, my existing publications can be categorized into Post-quantum (Lattice,
 
 # 💻 Services
 ## Teaching
-- 02/2023 - 06/2023: **Teaching Assistant**
+- 2023/02 - 2023/06: **Teaching Assistant**
   <br>Programming Design and Experiment (undergraduate course in Spring 2023), SCSE, Wuhan University
-- 09/2021 - 01/2022: **Teaching Assistant**
+- 2021/09 - 2022/01: **Teaching Assistant**
   <br>Cryptography (undergraduate course in Fall 2021), SCSE, Wuhan University
 
 ## Serving as Reviewer
@@ -105,4 +105,4 @@ My name starts with "jiami" (Chinese for "encrypt"), and ends with "mingwen" (Ch
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/))
 
 
-<p style="text-align:center">Last updated: 09/11/2023 </p>
+<p style="text-align:center">Last updated: 2023/11/09 </p>
