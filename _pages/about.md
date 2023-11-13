@@ -19,7 +19,7 @@ redirect_from:
 
 [//]: # (# 🥷 About Me 📖 📝 📧 🖖)
 
-I am **Jiaming Wen (文嘉明)**, a Ph.D. student at [Wuhan University (WHU)](https://whu.edu.cn/), and a Joint Ph.D. student at the [University of Wollongong (UOW)](http://uow.edu.au/), working on cryptography and cyber security. To be more specific,
+I am **Jiaming Wen (文嘉明)**, a Ph.D. student at [Wuhan University (WHU)](https://whu.edu.cn/), as well as a Joint Ph.D. student at the [University of Wollongong (UOW)](http://uow.edu.au/), working on cryptography and cyber security. To be more specific,
 - Recently, my passion lies in analyzing and designing various signature schemes and zero-knowledge protocols based on quantum-resistant assumptions, e.g., Lattice, Multivariate, and Code.
 - In the long term, I hope using technologies to establish trust among individuals at almost zero cost, which I consider to be the most subtle and great aspect of cryptography.
 
