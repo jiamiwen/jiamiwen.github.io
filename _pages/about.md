@@ -26,7 +26,7 @@ I am **Jiaming Wen (文嘉明)**, a Ph.D. student at [Wuhan University (WHU)](ht
 Feel free to reach me via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>, if questions or we share common tastes.
 
 # 🔥 News
-- <font color=Red>2023/11: After a wait, my visa was finally granted, and I will move to Australia to begin a new journey early next month. Thanks to whoever assisted me during the application and the China Scholarship Council (CSC), WHU, UOW.</font>
+- <font color=Red>2023/12: I have moved to Australia to begin a new journey. Thanks to whoever assisted me and the China Scholarship Council (CSC).</font>
 [//]: # (- 2023/10/31: Coauthors and I let a paper be minor revision, after being rejected and recommend resubmitted months ago.)
 - 2023/10: My coauthors and I got two papers rejected :(
 - 2023/10: My first submission to the [Journal of WoCrypt](https://documents.uow.edu.au/~fuchun/jow.html) was accepted by the Editor-in-Chieeeeeeeeeeeeef after revisions. See the bottom of this page and [the Publisher's website](https://documents.uow.edu.au/~fuchun/methodology.html).
@@ -109,4 +109,4 @@ My name starts with "jiami" (Chinese for "encrypt"), and ends with "mingwen" (Ch
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/))
 
 
-<p style="text-align:center">Last updated: 2023/11/09 </p>
+<p style="text-align:center">Last updated: 2023/12/01 </p>
