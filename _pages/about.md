@@ -26,7 +26,7 @@ I am **Jiaming Wen (文嘉明)**, a Ph.D. student at [Wuhan University (WHU)](ht
 Feel free to reach me via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>, if questions or we share common tastes.
 
 # 🔥 News
-- <font color=Red>2023/12: I have moved to AU to begin a new journey. Thanks to whoever assisted me and the China Scholarship Council.</font>
+- <font color=Red>2023/12: I moved to AU to begin a new journey. Thanks to whoever assisted me and the China Scholarship Council (CSC).</font>
 - 2023/10: My coauthors and I got two papers rejected :(
 - 2023/10: My first submission to the [Journal of WoCrypt](https://documents.uow.edu.au/~fuchun/jow.html) was accepted by the Editor-in-Chieeeeeeeeeeeeef after revisions. See the bottom of this page and [the Publisher's website](https://documents.uow.edu.au/~fuchun/methodology.html).
 - 2023/09: Finally, I got this homepage done.
