@@ -73,7 +73,9 @@ Roughly, my existing publications can be categorized into Post-quantum (Lattice,
   <br> Houzhen Wang, **Jiaming Wen**✉️, Jinhui Liu, and Huanguo Zhang (First Author is my co-advisor & Corresponding Author)
   <br> *IEEE Internet of Things Journal (IoT-J) 2023* [[Journal](https://ieee-iotj.org/), JCR Q1]
 
-
+- [LD<font color=Red>W</font>+23] [TBSCrowd: A Blockchain Assisted Privacy-Preserving Mobile Crowdsourcing Scheme from Threshold Blind Signature](https://ieeexplore.ieee.org/document/10131978)
+  <br> Jinhui Liu, Shunyu Dong, **Jiaming Wen**, Bo Tang, and Yong Yu
+  <br> *IEEE Internet of Things Journal (IoT-J) 2023* [Journal, JCR Q1]
 
 
 [//]: # (# 🎖 Selected Honors and Awards)
@@ -108,4 +110,4 @@ My name starts with "jiami" (Chinese for "encrypt"), and ends with "mingwen" (Ch
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/))
 
 
-<p style="text-align:center">Last updated: 2023/12/01 </p>
+<p style="text-align:center">Last updated: 2023/12/04 </p>
