@@ -46,7 +46,7 @@ Feel free to reach me via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>,
 # 📜 Publications
 Roughly, my existing publications can be categorized into Post-quantum (Lattice, Multivariate), and Pre-quantum (DL, Pairing). Most of them are irrigations and not worth reading. I have also been looking forward and trying my best to dominate works that please me. Unfortunately, they have been rejected until now.
 ## Lattice
-- [<font color=Red>W</font>BYZ+23] [LaRRS: Lattice-Based Revocable Ring Signature and its application for VANETs](https://ieeexplore.ieee.org/document/10219003)
+- [<font color=Red>W</font>BY+23] [LaRRS: Lattice-Based Revocable Ring Signature and its application for VANETs](https://ieeexplore.ieee.org/document/10219003)
   <br> **Jiaming Wen**, Lu Bai, Zhichao Yang, Huanguo Zhang, Houzhen Wang, and Debiao He
   <br> *IEEE Transactions on Vehicular Technology (T-VT) 2023* [[Journal](https://vtsociety.org/publication/ieee-transactions-vehicular-technology), JCR Q1, [slides](https://jiamiwen.github.io/documents/larrs-slides.pdf)]
   
@@ -54,7 +54,7 @@ Roughly, my existing publications can be categorized into Post-quantum (Lattice,
   <br> **Jiaming Wen**, Houzhen Wang, Jinhui Liu, and Huanguo Zhang
   <br> *Journal of Computer Research and Development (计算机研究与发展) 2023* [[Journal](https://crad.ict.ac.cn/), [Chinese CCF-T1](https://www.ccf.org.cn/ccftjgjxskwml/), [slides](https://jiamiwen.github.io/documents/aitps-slides.pdf)]
   
-- [L<font color=Red>W</font>ZD+23] [A post quantum secure multi-party collaborative signature with deterability in the Industrial Internet of Things](https://www.sciencedirect.com/science/article/pii/S0167739X22003983?via%3Dihub)
+- [L<font color=Red>W</font>Z+23] [A post quantum secure multi-party collaborative signature with deterability in the Industrial Internet of Things](https://www.sciencedirect.com/science/article/pii/S0167739X22003983?via%3Dihub)
   <br> Jinhui Liu, **Jiaming Wen**, Bowen Zhang, Shunyu Dong, Bo Tang, and Yong Yu
   <br> *Future Generation Computer Systems (FGCS) 2023* [[Journal](https://www.sciencedirect.com/journal/future-generation-computer-systems), JCR Q1]
 
@@ -73,7 +73,7 @@ Roughly, my existing publications can be categorized into Post-quantum (Lattice,
   <br> Houzhen Wang, **Jiaming Wen**✉️, Jinhui Liu, and Huanguo Zhang (First Author is my co-advisor & Corresponding Author)
   <br> *IEEE Internet of Things Journal (IoT-J) 2023* [[Journal](https://ieee-iotj.org/), JCR Q1]
 
-- [LD<font color=Red>W</font>TY23] [TBSCrowd: A Blockchain Assisted Privacy-Preserving Mobile Crowdsourcing Scheme from Threshold Blind Signature](https://ieeexplore.ieee.org/document/10131978)
+- [LD<font color=Red>W</font>+23] [TBSCrowd: A Blockchain Assisted Privacy-Preserving Mobile Crowdsourcing Scheme from Threshold Blind Signature](https://ieeexplore.ieee.org/document/10131978)
   <br> Jinhui Liu, Shunyu Dong, **Jiaming Wen**, Bo Tang, and Yong Yu
   <br> *IEEE Internet of Things Journal (IoT-J) 2023* [Journal, JCR Q1]
 
