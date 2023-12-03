@@ -75,7 +75,7 @@ Roughly, my existing publications can be categorized into Post-quantum (Lattice,
 
 - [LDW+23] [TBSCrowd: A Blockchain Assisted Privacy-Preserving Mobile Crowdsourcing Scheme from Threshold Blind Signature](https://ieeexplore.ieee.org/document/10131978)
   <br> Jinhui Liu, Shunyu Dong, **Jiaming Wen**, Bo Tang, and Yong Yu
-  <br> *IEEE Internet of Things Journal (IoT-J) 2023* [Journal, JCR Q1]
+  <br> *IEEE Internet of Things Journal (IoT-J) 2023* [[Journal](https://ieee-iotj.org/), JCR Q1]
 
 
 [//]: # (# 🎖 Selected Honors and Awards)
