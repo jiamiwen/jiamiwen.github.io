@@ -38,7 +38,7 @@ Feel free to reach me via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>,
 
 - 2023/12 - 2025/03 (expected): **Joint Ph.D. Program in Cryptography, funded by the [CSC State Scholarship](https://www.csc.edu.cn/chuguo)**
   <div style="font-size:18px"><span style="float:right">Keiraville, NSW, Australia</span><a href="https://www.uow.edu.au/engineering-information-sciences/schools-entities/scit/" title="School of Computing and Information Technology (SCIT), University of Wollongong"> School of Computing and Information Technology (SCIT), University of Wollongong</a> </div>
-  Supervisors: Prof. [Willy ](https://scholars.uow.edu.au/willy-susilo)[Susilo](https://sites.google.com/view/willy-susilo) and Prof. [Fuchun ](https://scholars.uow.edu.au/fuchun-guo)[Guo](https://documents.uow.edu.au/~fuchun/)
+  Supervisors: Prof. [Willy ](https://scholars.uow.edu.au/willy-susilo)[Susilo](https://sites.google.com/view/willy-susilo), Prof. [Fuchun ](https://scholars.uow.edu.au/fuchun-guo)[Guo](https://documents.uow.edu.au/~fuchun/), Prof. [Khoa ](https://scholars.uow.edu.au/khoa-nguyen)[Nguyen](https://sites.google.com/view/khoantt/teaching-students)
 
 - 2016/09 - 2020/06: **B.S. in Mathematics**
   <div style="font-size:18px"><span style="float:right">Wuhan, Hubei, China</span><a href="http://maths.whu.edu.cn/" title="School of Mathematics and Statistics (SMATHS), Wuhan University"> School of Mathematics and Statistics (SMATHS), Wuhan University</a> </div>
