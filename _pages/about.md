@@ -48,7 +48,7 @@ Roughly, my existing publications can be categorized into Post-quantum (Lattice,
 ## Lattice
 - [WBY+23] [LaRRS: Lattice-Based Revocable Ring Signature and its application for VANETs](https://ieeexplore.ieee.org/document/10219003)
   <br> **Jiaming Wen**, Lu Bai, Zhichao Yang, Huanguo Zhang, Houzhen Wang, and Debiao He
-  <br> *IEEE Transactions on Vehicular Technology (T-VT) 2023* [[Journal](https://vtsociety.org/publication/ieee-transactions-vehicular-technology), JCR Q1, [slides](https://jiamiwen.github.io/documents/larrs-slides.pdf)]
+  <br> *IEEE Transactions on Vehicular Technology (T-VT) 2023* [[Journal](https://vtsociety.org/publication/ieee-transactions-vehicular-technology), JCR Q1, 中科院2区, [slides](https://jiamiwen.github.io/documents/larrs-slides.pdf)]
   
 - [WWLZ22] [Aitps: A Two-Party Signature Scheme from Asymmetry Module Lattice Problems](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202220533) (in Chinese)
   <br> **Jiaming Wen**, Houzhen Wang, Jinhui Liu, and Huanguo Zhang
@@ -56,7 +56,7 @@ Roughly, my existing publications can be categorized into Post-quantum (Lattice,
   
 - [LWZ+23] [A post quantum secure multi-party collaborative signature with deterability in the Industrial Internet of Things](https://www.sciencedirect.com/science/article/pii/S0167739X22003983?via%3Dihub)
   <br> Jinhui Liu, **Jiaming Wen**, Bowen Zhang, Shunyu Dong, Bo Tang, and Yong Yu
-  <br> *Future Generation Computer Systems (FGCS) 2023* [[Journal](https://www.sciencedirect.com/journal/future-generation-computer-systems), JCR Q1]
+  <br> *Future Generation Computer Systems (FGCS) 2023* [[Journal](https://www.sciencedirect.com/journal/future-generation-computer-systems), JCR Q1, 中科院2区]
 
 - [AWBW23] [Spatial optimization for CRYSTALS-Dilithium Digital Signature Scheme](http://xblx.whu.edu.cn/zh/article/doi/10.14188/j.1671-8836.2022.0199/) (in Chinese)
   <br> Sifan Ao, Houzhen Wang, Lu Bai, **Jiaming Wen**, and Huanguo Zhang
@@ -71,11 +71,11 @@ Roughly, my existing publications can be categorized into Post-quantum (Lattice,
 ## Pre-quantum
 - [WWLZ23] [ACKE: Asymmetric Computing Key Exchange Protocol for IoT Environments](https://ieeexplore.ieee.org/document/10131978)
   <br> Houzhen Wang, **Jiaming Wen**✉️, Jinhui Liu, and Huanguo Zhang (First Author is my co-advisor & Corresponding Author)
-  <br> *IEEE Internet of Things Journal (IoT-J) 2023* [[Journal](https://ieee-iotj.org/), JCR Q1]
+  <br> *IEEE Internet of Things Journal (IoT-J) 2023* [[Journal](https://ieee-iotj.org/), JCR Q1, 中科院1区]
 
 - [LDW+23] [TBSCrowd: A Blockchain Assisted Privacy-Preserving Mobile Crowdsourcing Scheme from Threshold Blind Signature](https://ieeexplore.ieee.org/document/10354463)
   <br> Jinhui Liu, Shunyu Dong, **Jiaming Wen**, Bo Tang, and Yong Yu
-  <br> *IEEE Internet of Things Journal (IoT-J) 2023* [[Journal](https://ieee-iotj.org/), JCR Q1]
+  <br> *IEEE Internet of Things Journal (IoT-J) 2023* [[Journal](https://ieee-iotj.org/), JCR Q1, 中科院1区]
 
 
 [//]: # (# 🎖 Selected Honors and Awards)
@@ -110,4 +110,4 @@ My name starts with "jiami" (Chinese for "encrypt"), and ends with "mingwen" (Ch
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/))
 
 
-<p style="text-align:center">Last updated: 2023/12/06 </p>
+<p style="text-align:center">Last updated: 2024/01/23 </p>
