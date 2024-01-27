@@ -31,7 +31,7 @@ Feel free to reach me via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>,
 - 2023/10: My first submission to the [Journal of WoCrypt](https://documents.uow.edu.au/~fuchun/jow.html) was accepted by the Editor-in-Chieeeeeeeeeeeeef after revisions. See the bottom of this page and [the Publisher's website](https://documents.uow.edu.au/~fuchun/methodology.html).
 - 2023/09: Finally, I got this homepage done.
 
-# 🥷 Experiences
+# 🏃 Experiences
 - 2020/09 - Now: **Ph.D. Candidate in Cryptography**
   <div style="font-size:18px"><span style="float:right">Wuhan, Hubei, China</span><a href="https://cse.whu.edu.cn/" title="School of Cyber Science and Engineering (SCSE), Wuhan University"> School of Cyber Science and Engineering (SCSE), Wuhan University</a> </div>
   Supervisor: [Huanguo Zhang](https://jiamiwen.github.io/documents/Zhang.pdf)
