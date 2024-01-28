@@ -58,7 +58,11 @@ Roughly, my existing publications can be categorized into Post-quantum (Lattice,
   <br> Jinhui Liu, **Jiaming Wen**, Bowen Zhang, Shunyu Dong, Bo Tang, and Yong Yu
   <br> *Future Generation Computer Systems (FGCS) 2023* [[Journal](https://www.sciencedirect.com/journal/future-generation-computer-systems), JCR Q1, 中科院2区]
 
-- [AWBW23] [Spatial optimization for CRYSTALS-Dilithium Digital Signature Scheme](http://xblx.whu.edu.cn/zh/article/doi/10.14188/j.1671-8836.2022.0199/) (in Chinese)
+- [LHCWY23] [An Efficient Quantum-resistant Undeniable Signature Protocol for the E-voting System]()
+  <br> Quanrun Li, Debiao He, Yitao Chen, **Jiaming Wen**, and Zhichao Yang
+  <br> *Journal of Information Security and Applications (JISA) 2024* [[Journal](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications), JCR Q1, 中科院2区]
+
+- [AWBWZ23] [Spatial optimization for CRYSTALS-Dilithium Digital Signature Scheme](http://xblx.whu.edu.cn/zh/article/doi/10.14188/j.1671-8836.2022.0199/) (in Chinese)
   <br> Sifan Ao, Houzhen Wang, Lu Bai, **Jiaming Wen**, and Huanguo Zhang
   <br> *Journal of Wuhan University (武汉大学学报) 2023* [[Journal](http://xblx.whu.edu.cn/), Chinese Core]
 
@@ -88,7 +92,7 @@ Roughly, my existing publications can be categorized into Post-quantum (Lattice,
   <br>Cryptography (undergraduate course in Fall 2021), SCSE, Wuhan University
 
 ## Serving as Reviewers
-- Journals: *IEEE Internet of Things Journal (IoT-J)*, *IEEE Systems Journal*, *Journal of Information Security and Applications (JISA)*, et al.
+- Journals: *IEEE Internet of Things Journal (IoT-J)*, *Journal of Information Security and Applications (JISA)*, *IEEE Systems Journal*, et al.
 - Conferences: *Inscrypt 2023*, et al.
 
 # 🧰 Misc
