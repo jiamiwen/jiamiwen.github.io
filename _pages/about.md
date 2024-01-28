@@ -114,4 +114,4 @@ My name starts with "jiami" (Chinese for "encrypt"), and ends with "mingwen" (Ch
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/))
 
 
-<p style="text-align:center">Last updated: 2024/01/27 </p>
+<p style="text-align:center">Last updated: 2024/01/28 </p>
