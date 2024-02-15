@@ -58,7 +58,7 @@ Roughly, my existing publications can be categorized into Post-quantum (Lattice,
   <br> Jinhui Liu, **Jiaming Wen**, Bowen Zhang, Shunyu Dong, Bo Tang, and Yong Yu
   <br> *Future Generation Computer Systems (FGCS) 2023* [[Journal](https://www.sciencedirect.com/journal/future-generation-computer-systems), JCR Q1, 中科院2区]
 
-- [LHCWY24] [An Efficient Quantum-resistant Undeniable Signature Protocol for the E-voting System](https://www.sciencedirect.com/science/article/pii/S2214212624000176)
+- [LHCWY24] [An Efficient Quantum-resistant Undeniable Signature Protocol for the E-voting System]()
   <br> Quanrun Li, Debiao He, Yitao Chen, **Jiaming Wen**, and Zhichao Yang
   <br> *Journal of Information Security and Applications (JISA) 2024* [[Journal](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications), JCR Q1, 中科院2区]
 
