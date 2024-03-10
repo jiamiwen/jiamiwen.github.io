@@ -92,7 +92,7 @@ Roughly, my existing publications can be categorized into Post-quantum (Lattice,
   <br>Cryptography (undergraduate course in Fall 2021), SCSE, Wuhan University
 
 ## Serving as Reviewers
-- Journals: *IEEE Internet of Things Journal (IoT-J)*, *Journal of Information Security and Applications (JISA)*, *IEEE Systems Journal*, et al.
+- Journals: *Computer Networks (CN)*, *IEEE Internet of Things Journal (IoT-J)*, *Journal of Information Security and Applications (JISA)*, *IEEE Systems Journal*, et al.
 - Conferences: *Inscrypt 2023*, et al.
 
 # 🧰 Misc
