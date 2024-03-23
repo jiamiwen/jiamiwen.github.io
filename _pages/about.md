@@ -19,7 +19,9 @@ redirect_from:
 
 [//]: # (# 🥷🏃 About Me 📖 📝 📧 🖖)
 
-I am **Jiaming Wen (文嘉明)**, now pursuing my Ph.D. at [Wuhan University (WHU)](https://whu.edu.cn/), with a concurrent Joint Ph.D. Program at the [University of Wollongong (UOW)](http://uow.edu.au/). I am working on cryptography and cyber security, to be more specific:
+I am **Jiaming Wen (文嘉明)**, now pursuing my Ph.D. at [Wuhan University (WHU)](https://whu.edu.cn/), supervised by [Huanguo Zhang](https://jiamiwen.github.io/documents/Zhang.pdf). I am also a CSC Joint Ph.D. Program at the [University of Wollongong (UOW)](http://uow.edu.au/), supervised by [Willy ](https://scholars.uow.edu.au/willy-susilo)[Susilo](https://sites.google.com/view/willy-susilo). Previously, I obtained my bachelor degree in mathematics from Wuhan University in 2020.
+
+I am working on cryptography and cyber security, to be more specific:
 - Recently, my passion lies in analyzing and designing zero-knowledge protocols and signature schemes derived from them, mainly based on quantum-resistant assumptions, e.g., Lattice, Multivariate, and Code.
 - In the long term, I hope using technologies to establish trust among individuals at almost zero cost, which I consider to be the most subtle and great aspect of cryptography.
 
@@ -30,18 +32,6 @@ Feel free to reach me via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>,
 [//]: # (- 2023/10: My coauthors and I got two papers rejected )
 - 2023/10: My first submission to the [Journal of WoCrypt](https://documents.uow.edu.au/~fuchun/jow.html) was accepted by the Editor-in-Chieeeeeeeeeeeeef after revisions. See the bottom of this page and [the Publisher's website](https://documents.uow.edu.au/~fuchun/methodology.html).
 - 2023/09: Finally, I got this homepage done.
-
-# 🏃 Experiences
-- 2020/09 - Now: **Ph.D. Candidate in Cryptography**
-  <div style="font-size:18px"><span style="float:right">Wuhan, Hubei, China</span><a href="https://cse.whu.edu.cn/" title="School of Cyber Science and Engineering (SCSE), Wuhan University"> School of Cyber Science and Engineering (SCSE), Wuhan University</a> </div>
-  Supervisor: [Huanguo Zhang](https://jiamiwen.github.io/documents/Zhang.pdf)
-
-- 2023/12 - 2025/03 (expected): **Joint Ph.D. Program in Cryptography, funded by the [CSC State Scholarship](https://www.csc.edu.cn/chuguo)**
-  <div style="font-size:18px"><span style="float:right">Keiraville, NSW, Australia</span><a href="https://www.uow.edu.au/engineering-information-sciences/schools-entities/scit/" title="School of Computing and Information Technology (SCIT), University of Wollongong"> School of Computing and Information Technology (SCIT), University of Wollongong</a> </div>
-  Supervisors: [Willy ](https://scholars.uow.edu.au/willy-susilo)[Susilo](https://sites.google.com/view/willy-susilo), [Fuchun ](https://scholars.uow.edu.au/fuchun-guo)[Guo](https://documents.uow.edu.au/~fuchun/), and [Khoa ](https://scholars.uow.edu.au/khoa-nguyen)[Nguyen](https://sites.google.com/view/khoantt/home)
-
-- 2016/09 - 2020/06: **B.S. in Mathematics**
-  <div style="font-size:18px"><span style="float:right">Wuhan, Hubei, China</span><a href="http://maths.whu.edu.cn/" title="School of Mathematics and Statistics (SMATHS), Wuhan University"> School of Mathematics and Statistics (SMATHS), Wuhan University</a> </div>
 
 # 📜 Publications
 Roughly, my existing publications can be categorized into Post-quantum (Lattice, Multivariate), and Pre-quantum (DL, Pairing). Most of them are irrigations and not worth reading. I have also been looking forward and trying my best to dominate works that please me. Unfortunately, they have been rejected until now.
