@@ -19,7 +19,7 @@ redirect_from:
 
 [//]: # (# 🥷🏃 About Me 📖 📝 📧 🖖)
 
-I am **Jiaming Wen (文嘉明)**, now pursuing my Ph.D. in cryptography at [Wuhan University (WHU)](https://whu.edu.cn/), supervised by [Huanguo Zhang](https://jiamiwen.github.io/documents/Zhang.pdf). I am also a CSC Joint Ph.D. student at the [University of Wollongong (UOW)](http://uow.edu.au/), supervised by [Willy ](https://scholars.uow.edu.au/willy-susilo)[Susilo](https://sites.google.com/view/willy-susilo). Before, I obtained my bachelor degree in mathematics from Wuhan University in 2020.
+I am **Jiaming Wen (文嘉明)**, now pursuing my Ph.D. in cryptography at [Wuhan University (WHU)](https://whu.edu.cn/), supervised by [Huanguo Zhang](https://jiamiwen.github.io/documents/Zhang.pdf). I am also a CSC Joint Ph.D. student at the [University of Wollongong (UOW)](http://uow.edu.au/), working with the group lead by [Willy ](https://scholars.uow.edu.au/willy-susilo)[Susilo](https://sites.google.com/view/willy-susilo). Before, I obtained my bachelor degree in mathematics from Wuhan University in 2020.
 
 I am working on cryptography and cyber security, to be more specific:
 - Recently, my passion lies in analyzing and designing zero-knowledge protocols and signature schemes derived from them, mainly based on quantum-resistant assumptions, e.g., Lattice, Multivariate, and Code.
