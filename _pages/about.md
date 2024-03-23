@@ -26,8 +26,7 @@ I am **Jiaming Wen (文嘉明)**, now pursuing my Ph.D. in Cryptography at [Wuha
 I am working on cryptography and cyber security, to be more specific:
 <br> - Recently, my passion lies in analyzing and designing zero-knowledge protocols and signature schemes derived from them, mainly based on quantum-resistant assumptions, e.g., Lattice, Multivariate, and Code.
 <br> - In the long term, I hope using technologies to establish trust among individuals at almost zero cost, which I consider to be the most subtle and great aspect of cryptography.
-
-Feel free to reach me via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>, if questions or we share common tastes.
+<br>Feel free to reach me via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>, if questions or we share common tastes.
 
 # 📰 News
 - <font color=Red>2023/12: I moved to AU to begin a new journey. Thanks to whoever assisted me and the China Scholarship Council (CSC).</font>
