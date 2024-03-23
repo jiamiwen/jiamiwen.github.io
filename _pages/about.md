@@ -77,9 +77,9 @@ Roughly, my existing publications can be categorized into Post-quantum (Lattice,
 # 💻 Services
 ## Teaching
 - 2023/02 - 2023/06: **Teaching Assistant**
-  <br>Programming Design and Experiment (undergraduate course in Spring 2023), SCSE, Wuhan University
+  <br>Programming Design and Experiment (undergraduate course in Spring 2023), Wuhan University
 - 2021/09 - 2022/01: **Teaching Assistant**
-  <br>Cryptography (undergraduate course in Fall 2021), SCSE, Wuhan University
+  <br>Cryptography (undergraduate course in Fall 2021), Wuhan University
 
 ## Serving as Reviewers
 - Journals: *IEEE Internet of Things Journal (IoT-J)*, *Computer Networks*, *Journal of Information Security and Applications (JISA)*, *IEEE Systems Journal*, et al.
