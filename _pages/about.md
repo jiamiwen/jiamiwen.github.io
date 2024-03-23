@@ -23,7 +23,7 @@ I am **Jiaming Wen (文嘉明)**, now pursuing my Ph.D. in Cryptography at [Wuha
 <br> I am also a CSC Joint Ph.D. student at the [University of Wollongong (UOW)](http://uow.edu.au/), hosted by [Willy ](https://scholars.uow.edu.au/willy-susilo)[Susilo](https://sites.google.com/view/willy-susilo) and studied with the [IC$^2$](https://www.uow.edu.au/engineering-information-sciences/research/institute-cybersecurity-cryptology/). 
 <br> Previously, I obtained my B.S. in Mathematics from Wuhan University in 2020.
 
-I am working on cryptography and cyber security, to be more specific:
+My research interests are about cryptography and cyber security, to be more specific:
 <br> - Recently, my passion lies in analyzing and designing zero-knowledge protocols and signature schemes derived from them, mainly based on quantum-resistant assumptions, e.g., Lattice, Multivariate, and Code.
 <br> - In the long term, I hope using technologies to establish trust among individuals at almost zero cost, which I consider to be the most subtle and great aspect of cryptography.
 
