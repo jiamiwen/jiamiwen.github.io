@@ -36,7 +36,10 @@ Feel free to reach me via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>,
 - 2023/09: Finally, I got this homepage done.
 
 # 📜 Publications (First Author & Corresponding Author)
-Roughly, my existing publications can be categorized into Post-quantum (Lattice, Multivariate), and Pre-quantum (DL, Pairing). Most of them are irrigations and not worth reading. I have also been looking forward and trying my best to dominate works that please me. Unfortunately, they have been rejected until now. Here are papers that I am the First or Corresponding Author.
+Roughly, my existing publications can be categorized into Post-quantum (Lattice, Multivariate), and Pre-quantum (DL, Pairing). Most of them are irrigations and not worth reading. I have also been looking forward and trying my best to dominate works that please me. Unfortunately, they have been rejected until now. 
+
+Here are papers that I am the First Author or Corresponding Author. For more, please see [Google Scholar](https://scholar.google.com/citations?user=IoWa4fYAAAAJ) and [DBLP](https://dblp.uni-trier.de/pid/324/5245-1.html).
+
 ## Post-quantum
 - [WWZ23] [Post-quantum Sigma Protocols and Signatures from Low-Rank Matrix Completions](https://link.springer.com/chapter/10.1007/978-3-031-45513-1_11)
   <br> **Jiaming Wen**, Houzhen Wang, and Huanguo Zhang
