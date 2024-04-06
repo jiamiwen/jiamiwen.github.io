@@ -50,27 +50,10 @@ Roughly, my existing publications can be categorized into Post-quantum (Lattice,
   <br> **Jiaming Wen**, Houzhen Wang, Jinhui Liu, and Huanguo Zhang
   <br> *Journal of Computer Research and Development (计算机研究与发展) 2023* [[Journal](https://crad.ict.ac.cn/), [Chinese CCF-T1](https://www.ccf.org.cn/ccftjgjxskwml/), [slides](https://jiamiwen.github.io/documents/aitps-slides.pdf)]
   
-- [LWZ+23] [A post quantum secure multi-party collaborative signature with deterability in the Industrial Internet of Things](https://www.sciencedirect.com/science/article/pii/S0167739X22003983?via%3Dihub)
-  <br> Jinhui Liu, **Jiaming Wen**, Bowen Zhang, Shunyu Dong, Bo Tang, and Yong Yu
-  <br> *Future Generation Computer Systems (FGCS) 2023* [[Journal](https://www.sciencedirect.com/journal/future-generation-computer-systems), JCR Q1, 中科院2区]
-
-- [LHCWY24] [An Efficient Quantum-resistant Undeniable Signature Protocol for the E-voting System](https://www.sciencedirect.com/science/article/abs/pii/S2214212624000176)
-  <br> Quanrun Li, Debiao He, Yitao Chen, **Jiaming Wen**, and Zhichao Yang
-  <br> *Journal of Information Security and Applications (JISA) 2024* [[Journal](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications), JCR Q1, 中科院2区]
-
-- [AWBWZ23] [Spatial optimization for CRYSTALS-Dilithium Digital Signature Scheme](http://xblx.whu.edu.cn/zh/article/doi/10.14188/j.1671-8836.2022.0199/) (in Chinese)
-  <br> Sifan Ao, Houzhen Wang, Lu Bai, **Jiaming Wen**, and Huanguo Zhang
-  <br> *Journal of Wuhan University (武汉大学学报) 2023* [[Journal](http://xblx.whu.edu.cn/), Chinese Core]
-
 ## Pre-quantum
 - [WWLZ23] [ACKE: Asymmetric Computing Key Exchange Protocol for IoT Environments](https://ieeexplore.ieee.org/document/10131978)
   <br> Houzhen Wang, **Jiaming Wen**✉️, Jinhui Liu, and Huanguo Zhang (First Author is my co-advisor & Corresponding Author)
   <br> *IEEE Internet of Things Journal (IoT-J) 2023* [[Journal](https://ieee-iotj.org/), JCR Q1, 中科院1区]
-
-- [LDW+23] [TBSCrowd: A Blockchain Assisted Privacy-Preserving Mobile Crowdsourcing Scheme from Threshold Blind Signature](https://ieeexplore.ieee.org/document/10354463)
-  <br> Jinhui Liu, Shunyu Dong, **Jiaming Wen**, Bo Tang, and Yong Yu
-  <br> *IEEE Internet of Things Journal (IoT-J) 2023* [[Journal](https://ieee-iotj.org/), JCR Q1, 中科院1区]
-
 
 [//]: # (# 🎖 Selected Honors and Awards)
 
