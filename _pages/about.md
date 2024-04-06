@@ -35,7 +35,7 @@ Feel free to reach me via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>,
 - 2023/10: My first submission to the [Journal of WoCrypt](https://documents.uow.edu.au/~fuchun/jow.html) was accepted by the [Editor-in-Chieeeeeeeeeeeeef](https://documents.uow.edu.au/~fuchun/) after revisions. See the bottom of this page and [the Publisher's website](https://documents.uow.edu.au/~fuchun/methodology.html).
 - 2023/09: Finally, I got this homepage done.
 
-# 📜 Publications (First Author & Corresponding Author)
+# 📜 Publications
 Roughly, my existing publications can be categorized into Post-quantum (Lattice, Multivariate), and Pre-quantum (DL, Pairing). Most of them are irrigations and not worth reading. I have also been looking forward and trying my best to dominate works that please me. Unfortunately, they have been rejected until now. 
 
 Here are papers that I am the First Author or Corresponding Author. For more, please see [Google Scholar](https://scholar.google.com/citations?user=IoWa4fYAAAAJ) and [DBLP](https://dblp.uni-trier.de/pid/324/5245-1.html).
