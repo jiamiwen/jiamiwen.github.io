@@ -36,7 +36,7 @@ Feel free to reach me via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>,
 - 2023/09: Finally, I got this homepage done.
 
 # 📜 Publications
-Here are papers that I am the First Author or Corresponding Author. For more, please refer to [Google Scholar](https://scholar.google.com/citations?user=IoWa4fYAAAAJ) and [DBLP](https://dblp.uni-trier.de/pid/324/5245-1.html).
+Here are research papers that I am the First Author or Corresponding Author. For more, please refer to [Google Scholar](https://scholar.google.com/citations?user=IoWa4fYAAAAJ) and [DBLP](https://dblp.uni-trier.de/pid/324/5245-1.html).
 
 Roughly, my existing publications can be categorized into Post-quantum (Lattice, Multivariate), and Pre-quantum (DL, Pairing). Most of them are irrigations and not worth reading. I am also looking forward to dominate works that please me. Unfortunately, I have not succeeded yet.
 
