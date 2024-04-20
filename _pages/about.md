@@ -45,7 +45,7 @@ Roughly, my existing publications can be categorized into Post-quantum (Lattice,
   <br> **Jiaming Wen**, Houzhen Wang, and Huanguo Zhang
   <br> *ProvSec 2023* [[Conference](https://provsec2023.github.io/ProvSec2023/#), [CACR-C](https://www.cacrnet.org.cn/site/content/1290.html), [slides](https://jiamiwen.github.io/documents/lrmc-slides.pdf)]
 
-- [WBY+23] [LaRRS: Lattice-Based Revocable Ring Signature and its application for VANETs](https://ieeexplore.ieee.org/document/10219003)
+- [WBYZWH23] [LaRRS: Lattice-Based Revocable Ring Signature and its application for VANETs](https://ieeexplore.ieee.org/document/10219003)
   <br> **Jiaming Wen**, Lu Bai, Zhichao Yang, Huanguo Zhang, Houzhen Wang, and Debiao He
   <br> *IEEE Transactions on Vehicular Technology (T-VT) 2023* [[Journal](https://vtsociety.org/publication/ieee-transactions-vehicular-technology), JCR Q1, 中科院2区, [slides](https://jiamiwen.github.io/documents/larrs-slides.pdf)]
   
