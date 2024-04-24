@@ -27,7 +27,7 @@ My research interests are about cryptography and cyber security, to be more spec
 - Recently, my passion lies in analyzing and designing zero-knowledge protocols and signature schemes derived from them, mainly based on quantum-resistant assumptions, e.g., Lattice, Multivariate, and Code.
 - In the long term, I hope using technologies to establish trust among individuals at almost zero cost, which I consider to be the most subtle and elegant aspect of cryptography.
 
-Feel free to reach me via <cryptowjm@163.com> (preferred) or <wenjm@whu.edu.cn>, if questions or we share common tastes.
+Feel free to reach me via [cryptowjm at 163.com](mailto:cryptowjm@163.com) (preferred) or [wenjm at whu.edu.cn](mailto:wenjm@whu.edu.cn), if questions or we share common tastes.
 
 # 📰 News
 - <font color=Red>2023/12: I moved to AU to begin a new journey. Thanks to whoever assisted me and the China Scholarship Council (CSC).</font>
