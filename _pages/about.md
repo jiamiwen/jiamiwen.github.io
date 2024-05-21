@@ -24,7 +24,7 @@ I am **Jiaming Wen (文嘉明)**, now pursuing my Ph.D. in Cryptography at [Wuha
 <br> Before, I obtained my B.Sc. in Mathematics from Wuhan University in 2020.
 
 My research interests are about cryptography and cyber security, to be more specific:
-- Recently, my passion lies in analyzing and designing zero-knowledge protocols and signature schemes derived from them, mainly based on linear algebra problems that conjectured quantum-resistant (e.g., Lattice, Multivariate, and Code).
+- Recently, my passion lies in analyzing and designing zero-knowledge protocols and signature schemes derived from them, mainly based on linear algebra assumptions that conjectured quantum-resistant (e.g., Lattice, Multivariate, and Code).
 - In the long term, I hope using technologies to establish trust among individuals at almost zero cost, which I consider to be the most subtle and elegant aspect of cryptography.
 
 Feel free to reach me via [cryptowjm at 163.com](mailto:cryptowjm@163.com) (preferred) or [wenjm at whu.edu.cn](mailto:wenjm@whu.edu.cn), if questions or we share common tastes.
