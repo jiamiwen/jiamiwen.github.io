@@ -48,12 +48,12 @@ Roughly, my existing publications can be categorized into Post-quantum (Lattice,
   <br> **Jiaming Wen**, Lu Bai, Zhichao Yang, Huanguo Zhang, Houzhen Wang, and Debiao He
   <br> *IEEE Transactions on Vehicular Technology (T-VT) 2023* [[Journal](https://vtsociety.org/publication/ieee-transactions-vehicular-technology), JCR Q1, 中科院2区, [slides](https://jiamiwen.github.io/documents/larrs-slides.pdf)]
   
-- [WWLZ22] [Aitps: A Two-Party Signature Scheme from Asymmetry Module Lattice Problems](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202220533) (in Chinese)
+- [WWLZ23a] [Aitps: A Two-Party Signature Scheme from Asymmetry Module Lattice Problems](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202220533) (in Chinese)
   <br> **Jiaming Wen**, Houzhen Wang, Jinhui Liu, and Huanguo Zhang
   <br> *Journal of Computer Research and Development (计算机研究与发展) 2023* [[Journal](https://crad.ict.ac.cn/), [Chinese CCF-T1](https://www.ccf.org.cn/ccftjgjxskwml/), [slides](https://jiamiwen.github.io/documents/aitps-slides.pdf)]
   
 ## Pre-quantum
-- [WWLZ23] [ACKE: Asymmetric Computing Key Exchange Protocol for IoT Environments](https://ieeexplore.ieee.org/document/10131978)
+- [WWLZ23b] [ACKE: Asymmetric Computing Key Exchange Protocol for IoT Environments](https://ieeexplore.ieee.org/document/10131978)
   <br> Houzhen Wang, **Jiaming Wen**✉️, Jinhui Liu, and Huanguo Zhang (First Author is my co-advisor & Corresponding Author)
   <br> *IEEE Internet of Things Journal (IoT-J) 2023* [[Journal](https://ieee-iotj.org/), JCR Q1, 中科院1区]
 
