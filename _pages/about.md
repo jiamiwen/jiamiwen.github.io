@@ -54,7 +54,6 @@ Roughly, my existing publications can be categorized into Post-quantum (Lattice,
   
 ## Pre-quantum
 These were done when I was a beginner in cryptography, but were published much later.
-
 - [WBW+24] [Analysis and Improvement of a Conditional Privacy-Preserving Authentication Scheme with Double-Insurance in VANETs](https://jiamiwen.github.io/)
   <br> **Jiaming Wen**, Lu Bai, Houzhen Wang, Jinhui Liu, Yahui Wang, and Huanguo Zhang
   <br> *IEEE Transactions on Vehicular Technology (T-VT) 2024* [[Journal](https://vtsociety.org/publication/ieee-transactions-vehicular-technology), JCR Q1, 中科院2区]
