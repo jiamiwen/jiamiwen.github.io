@@ -40,7 +40,7 @@ Here are research papers that I am the First Author or Corresponding Author. For
 Roughly, my existing publications can be categorized into Post-quantum (Lattice, Multivariate), and Pre-quantum (DL, Pairing). Most of them are irrigation (Based on the evaluation of item 22 in [JoW-001](https://documents.uow.edu.au/~fuchun/jow/001-revisited.pdf)). I am also looking forward to dominating works that please me and are recognized by good conferences. Unfortunately, I have not succeeded yet.
 
 ## Post-quantum
-- [WSYYZ24][Revocable Ring Signatures with CCA-Anonymity from Standard Lattices](https://jiamiwen.github.io/)
+- [WSYYZ24][Revocable Ring Signatures with CCA-Anonymity from Standard Lattices](https://www.sciencedirect.com/science/article/pii/S092054892400062X?via%3Dihub)
   <br> **Jiaming Wen**, Willy Susilo, Rupeng Yang, Zuoxia Yu, and Huanguo Zhang
   <br> *Computer Standards & Interfaces (CSI) 2024* [[Journal](https://www.sciencedirect.com/journal/computer-standards-and-interfaces), JCR Q1, 中科院2区]
 
