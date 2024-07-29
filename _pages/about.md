@@ -62,7 +62,7 @@ All in this category were done when I was a newcomer to the crypto world, but we
   <br> **Jiaming Wen**, Lu Bai, Houzhen Wang, Jinhui Liu, Yahui Wang, and Huanguo Zhang
   <br> *IEEE Transactions on Vehicular Technology (T-VT) 2024* [[Journal](https://vtsociety.org/publication/ieee-transactions-vehicular-technology), JCR Q1, 中科院2区]
 
-- [BW24][Conditional Privacy-Preserving Authentication Protocol for Vehicle Ad-Hoc Networks based on SM2 Signature Algorithm](https://ieeexplore.ieee.org/document/10592652)
+- [B24][Conditional Privacy-Preserving Authentication Protocol for Vehicle Ad-Hoc Networks based on SM2 Signature Algorithm](https://ieeexplore.ieee.org/document/10592652)
 
 - [WWLZ23][ACKE: Asymmetric Computing Key Exchange Protocol for IoT Environments](https://ieeexplore.ieee.org/document/10131978)
   <br> Houzhen Wang, **Jiaming Wen**✉️, Jinhui Liu, and Huanguo Zhang (First Author is my co-advisor & Corresponding Author)
