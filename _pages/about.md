@@ -32,7 +32,7 @@ Feel free to reach me via [cryptowjm at 163.com](mailto:cryptowjm@163.com) (pref
 # 📜 Publications
 Here are research papers that I am the First Author or Corresponding Author. For more, please refer to [Google Scholar](https://scholar.google.com/citations?user=IoWa4fYAAAAJ) and [DBLP](https://dblp.uni-trier.de/pid/324/5245-1.html). 
 
-Roughly, my existing publications can be categorized into Post-quantum (Lattice, Multivariate), and Pre-quantum (DL, Pairing). Most of them are irrigation (Based on the evaluation of item 22 in [JoW-001](https://documents.uow.edu.au/~fuchun/jow/001-revisited.pdf)). I am also looking forward to dominating works that please me and are recognized by good conferences. Unfortunately, I have not succeeded yet.
+Roughly, my existing publications can be categorized into Post-quantum (Lattice, Multivariate), and Pre-quantum (DL, Pairing).
 
 ## Post-quantum
 - [WSYYZ24][Revocable ring signatures with CCA-Anonymity from standard lattices](https://www.sciencedirect.com/science/article/pii/S092054892400062X?via%3Dihub)
