@@ -35,7 +35,7 @@ Here are research papers that I am the First Author or Corresponding Author. For
 ## Post-quantum
 - [WSZGZ24][Designated-Verifier Ring Signatures: Strong Definitions, Generic Constructions and Efficient Instantiations]()
   <br> **Jiaming Wen**, Willy Susilo, Yanhua Zhang, Fuchun Guo, and Huanguo Zhang
-  <br> *ICISC 2024* [[Conference](http://www.icisc.org/static/callforpapers), [CACR-C](https://www.cacrnet.org.cn/site/content/1290.html), [slides]()]
+  <br> *ICISC 2024* [[Conference](http://www.icisc.org/), [CACR-C](https://www.cacrnet.org.cn/site/content/1290.html), [slides]()]
 
 - [WSYYZ24][Revocable ring signatures with CCA-Anonymity from standard lattices](https://www.sciencedirect.com/science/article/pii/S092054892400062X?via%3Dihub)
   <br> **Jiaming Wen**, Willy Susilo, Rupeng Yang, Zuoxia Yu, and Huanguo Zhang
