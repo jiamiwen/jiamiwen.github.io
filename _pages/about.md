@@ -74,7 +74,7 @@ All in this category were done when I was a newcomer to the crypto world, but we
 
 ## Serving as Reviewers
 - Journals: *IEEE Internet of Things Journal (IoT-J)*, *IEEE Transactions on Vehicular Technology (T-VT)*, *Computer Networks*, *Journal of Information Security and Applications (JISA)*, *IEEE Systems Journal*, et al.
-- Conferences: *ICISC 2024*,*Inscrypt 2023*, et al.
+- Conferences: *ICISC 2024*, *Inscrypt 2023*, et al.
 
 # 🧰 Misc
 ## Serendipity
