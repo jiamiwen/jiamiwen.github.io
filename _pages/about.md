@@ -33,6 +33,10 @@ Feel free to reach me via [cryptowjm at 163.com](mailto:cryptowjm@163.com) (pref
 Here are research papers that I am the First Author or Corresponding Author. For more, please refer to [Google Scholar](https://scholar.google.com/citations?user=IoWa4fYAAAAJ) and [DBLP](https://dblp.uni-trier.de/pid/324/5245-1.html). Roughly, they can be categorized into Post-quantum (Lattice, Multivariate) and Pre-quantum (DL, Pairing).
 
 ## Post-quantum
+- [WWZ23][Designated-Verifier Ring Signatures: Strong Definitions, Generic Constructions and Efficient Instantiations]()
+  <br> **Jiaming Wen**, Willy Susilo, Yanhua Zhang, Fuchun Guo, and Huanguo Zhang
+  <br> *ICISC 2024* [[Conference](http://www.icisc.org/static/callforpapers), [CACR-C](https://www.cacrnet.org.cn/site/content/1290.html), [slides]()]
+
 - [WSYYZ24][Revocable ring signatures with CCA-Anonymity from standard lattices](https://www.sciencedirect.com/science/article/pii/S092054892400062X?via%3Dihub)
   <br> **Jiaming Wen**, Willy Susilo, Rupeng Yang, Zuoxia Yu, and Huanguo Zhang
   <br> *Computer Standards & Interfaces (CSI) 2024* [[Journal](https://www.sciencedirect.com/journal/computer-standards-and-interfaces), JCR Q1, 中科院2区]
@@ -70,7 +74,7 @@ All in this category were done when I was a newcomer to the crypto world, but we
 
 ## Serving as Reviewers
 - Journals: *IEEE Internet of Things Journal (IoT-J)*, *IEEE Transactions on Vehicular Technology (T-VT)*, *Computer Networks*, *Journal of Information Security and Applications (JISA)*, *IEEE Systems Journal*, et al.
-- Conferences: *Inscrypt 2023*, et al.
+- Conferences: *ICISC 2024*,*Inscrypt 2023*, et al.
 
 # 🧰 Misc
 ## Serendipity
