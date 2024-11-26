@@ -30,7 +30,7 @@ My research interests are about cryptography and cyber security, to be more spec
 Feel free to reach me via [cryptowjm at 163.com](mailto:cryptowjm@163.com) (preferred) or [wenjm at whu.edu.cn](mailto:wenjm@whu.edu.cn), if questions or we share common tastes.
 
 # 📜 Publications
-Here are publications that I am a main contributor (also, as first author or corresponding author). For more, please refer to [Google Scholar](https://scholar.google.com/citations?user=IoWa4fYAAAAJ) and [DBLP](https://dblp.uni-trier.de/pid/324/5245-1.html). Roughly, they can be categorized into Post-quantum (Lattice, Multivariate) and Pre-quantum (DL).
+Here are publications that I am the main contributor (also, as first author or corresponding author). For more, please refer to [Google Scholar](https://scholar.google.com/citations?user=IoWa4fYAAAAJ) and [DBLP](https://dblp.uni-trier.de/pid/324/5245-1.html). Roughly, they can be categorized into Post-quantum (Lattice, Multivariate) and Pre-quantum (DL).
 
 ## Post-quantum
 - [WSZGZ24][Designated-Verifier Ring Signatures: Strong Definitions, Generic Constructions and Efficient Instantiations](http://www.icisc.org/static/program)
@@ -94,4 +94,4 @@ My name starts with "jiami" (Chinese for "encrypt"), and ends with "mingwen" (Ch
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/))
 
 
-<p style="text-align:center">Last updated: 2024/11/05 </p>
+<p style="text-align:center">Last updated: 2024/11/26 </p>
