@@ -30,7 +30,9 @@ My research interests are about cryptography and cyber security, to be more spec
 Feel free to reach me via [cryptowjm at 163.com](mailto:cryptowjm@163.com) (preferred) or [wenjm at whu.edu.cn](mailto:wenjm@whu.edu.cn), if questions or we share common tastes.
 
 # 📜 Publications
-Here are research papers that I am the First Author or Corresponding Author. For more, please refer to [Google Scholar](https://scholar.google.com/citations?user=IoWa4fYAAAAJ) and [DBLP](https://dblp.uni-trier.de/pid/324/5245-1.html). Roughly, they can be categorized into Post-quantum (Lattice, Multivariate) and Pre-quantum (DL, Pairing).
+Here are publications that I am a main contributor (also, as first author or corresponding author). Roughly, they can be categorized into Post-quantum (Lattice, Multivariate) and Pre-quantum (DL, Pairing).
+
+[//]: # (# For more, please refer to [Google Scholar](https://scholar.google.com/citations?user=IoWa4fYAAAAJ) and [DBLP](https://dblp.uni-trier.de/pid/324/5245-1.html). )
 
 ## Post-quantum
 - [WSZGZ24][Designated-Verifier Ring Signatures: Strong Definitions, Generic Constructions and Efficient Instantiations](http://www.icisc.org/static/program)
