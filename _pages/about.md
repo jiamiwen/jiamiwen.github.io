@@ -35,7 +35,7 @@ Here are publications that I am the main contributor (also, as First Author or C
 ## Post-quantum
 - [WSZGZ24][Designated-Verifier Ring Signatures: Strong Definitions, Generic Constructions and Efficient Instantiations](http://www.icisc.org/static/program)
   <br> **Jiaming Wen**, Willy Susilo, Yanhua Zhang, Fuchun Guo, Huanguo Zhang
-  <br> *ICISC 2024* [[Conference](http://www.icisc.org/), [CACR-C](https://www.cacrnet.org.cn/site/content/1290.html), [Full Version](https://jiamiwen.github.io/documents/WSZGZ24-FullVersion.pdf), [Slides](https://jiamiwen.github.io/documents/DVRS-slides.pdf)]
+  <br> *ICISC 2024* [[Conference](http://www.icisc.org/), [CACR-C](https://www.cacrnet.org.cn/site/content/1290.html), [Full Version](https://jiamiwen.github.io/documents/WSZGZ24.pdf), [Slides](https://jiamiwen.github.io/documents/DVRS-slides.pdf)]
 
 - [WSYYZ24][Revocable ring signatures with CCA-Anonymity from standard lattices](https://www.sciencedirect.com/science/article/pii/S092054892400062X?via%3Dihub)
   <br> **Jiaming Wen**, Willy Susilo, Rupeng Yang, Zuoxia Yu, and Huanguo Zhang
