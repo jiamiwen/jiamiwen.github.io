@@ -35,7 +35,7 @@ Here are publications that I am the main contributor (also, as First Author or C
 ## Post-quantum
 - [WSZGZ24][Designated-Verifier Ring Signatures: Strong Definitions, Generic Constructions and Efficient Instantiations](http://www.icisc.org/static/program)
   <br> **Jiaming Wen**, Willy Susilo, Yanhua Zhang, Fuchun Guo, Huanguo Zhang
-  <br> *ICISC 2024* [[Conference](http://www.icisc.org/), [CACR-C](https://www.cacrnet.org.cn/site/content/1290.html), [full version](https://jiamiwen.github.io/documents/WSZGZ24-FullVersion.pdf), [slides](https://jiamiwen.github.io/documents/DVRS-slides.pdf)]
+  <br> *ICISC 2024* [[Conference](http://www.icisc.org/), [CACR-C](https://www.cacrnet.org.cn/site/content/1290.html), [Full Version](https://jiamiwen.github.io/documents/WSZGZ24-FullVersion.pdf), [Slides](https://jiamiwen.github.io/documents/DVRS-slides.pdf)]
 
 - [WSYYZ24][Revocable ring signatures with CCA-Anonymity from standard lattices](https://www.sciencedirect.com/science/article/pii/S092054892400062X?via%3Dihub)
   <br> **Jiaming Wen**, Willy Susilo, Rupeng Yang, Zuoxia Yu, and Huanguo Zhang
@@ -43,7 +43,7 @@ Here are publications that I am the main contributor (also, as First Author or C
 
 - [WWZ23][Post-quantum Sigma Protocols and Signatures from Low-Rank Matrix Completions](https://link.springer.com/chapter/10.1007/978-3-031-45513-1_11)
   <br> **Jiaming Wen**, Houzhen Wang, and Huanguo Zhang
-  <br> *ProvSec 2023* [[Conference](https://provsec2023.github.io/ProvSec2023/#), [CACR-C](https://www.cacrnet.org.cn/site/content/1290.html), [slides](https://jiamiwen.github.io/documents/lrmc-slides.pdf)]
+  <br> *ProvSec 2023* [[Conference](https://provsec2023.github.io/ProvSec2023/#), [CACR-C](https://www.cacrnet.org.cn/site/content/1290.html), [Slides](https://jiamiwen.github.io/documents/lrmc-slides.pdf)]
 
 - [WBYZWH23][LaRRS: Lattice-Based Revocable Ring Signature and its application for VANETs](https://ieeexplore.ieee.org/document/10219003)
   <br> **Jiaming Wen**, Lu Bai, Zhichao Yang, Huanguo Zhang, Houzhen Wang, and Debiao He
