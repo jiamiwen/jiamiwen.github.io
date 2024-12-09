@@ -21,7 +21,8 @@ redirect_from:
 
 I am currently pursuing my Ph.D. in Cryptography at [Wuhan University (WHU)](https://whu.edu.cn/), supervised by [Huanguo Zhang](https://jiamiwen.github.io/documents/Zhang.pdf). 
 <br> I am also a CSC Joint Ph.D. student at the [University of Wollongong (UOW)](http://uow.edu.au/), hosted by [Willy ](https://scholars.uow.edu.au/willy-susilo)[Susilo](https://sites.google.com/view/willy-susilo) and studying with the [iC$^2$](https://www.uow.edu.au/engineering-information-sciences/research/institute-cybersecurity-cryptology/). 
-<br> Before, I obtained my B.Sc. in Mathematics from Wuhan University in 2020.
+
+Before (Jun 2020), I obtained my B.Sc. in Mathematics from Wuhan University.
 
 My research interests are about cryptography and cyber security, to be more specific:
 - Recently, my passion lies in analyzing and designing zero-knowledge protocols and signature schemes derived from them, mainly based on algebraic assumptions that conjectured quantum-resistant (e.g., Lattice, Multivariate, and Code).
@@ -67,9 +68,9 @@ All in this category were done when I was a newcomer to the crypto world, but we
 
 # 💻 Services
 ## Teaching
-- 2023/02 - 2023/06: **Teaching Assistant**
+- Feb 2023 - Jun 2023: **Teaching Assistant**
   <br>Programming Design and Experiment (undergraduate course in Spring 2023), Wuhan University
-- 2021/09 - 2022/01: **Teaching Assistant**
+- Sep 2021 - Jan 2022: **Teaching Assistant**
   <br>Cryptography (undergraduate course in Fall 2021), Wuhan University
 
 ## Serving as Reviewers
