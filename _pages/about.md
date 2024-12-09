@@ -86,7 +86,6 @@ My name starts with "jiami" (Chinese for "encrypt"), and ends with "mingwen" (Ch
 - [IACR ePrint Archive](https://eprint.iacr.org/), a mysterious website suggested visiting every day.
 - [The Lattice Club](https://thelatticeclub.com/), including so many resources about Lattice-based Cryptography.
 - [Post-Quantum Signatures Zoo](https://pqshield.github.io/nist-sigs-zoo/), including an overview of Post-Quantum Signatures.
-- [Keita Xagawa's Homepage](https://xagawa.net/), including Bibliography on Lattice-based/Code-based Cryptosystems.
 - [Kai-Min Chung's Homepage](https://homepage.iis.sinica.edu.tw/~kmchung/), including high-quality cryptography courses in Chinese.
 - [Journal of WoCrypt](https://documents.uow.edu.au/~fuchun/jow.html), a very serious fake journal, whose outcomes include ["安全归约导论"](https://documents.uow.edu.au/~fuchun/book.html), ["数字签名密史"](https://documents.uow.edu.au/~fuchun/cryptologic-history.html) and its [slides](https://documents.uow.edu.au/~fuchun/methodology.html). Here are my always-unfinished [notes for the former](https://jiamiwen.github.io/documents/notes.pdf) and [xmind for the latter](https://jiamiwen.github.io/documents/xmind.pdf), which I hope are salutes to Prof. [Fuchun](https://documents.uow.edu.au/~fuchun/). 
 
