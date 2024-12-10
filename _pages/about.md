@@ -22,7 +22,7 @@ redirect_from:
 I am currently pursuing my Ph.D. in Cryptography at [Wuhan University (WHU)](https://whu.edu.cn/), supervised by [Huanguo Zhang](https://jiamiwen.github.io/documents/Zhang.pdf). 
 <br> I am also a CSC Joint Ph.D. student at the [University of Wollongong (UOW)](http://uow.edu.au/), hosted by [Willy ](https://scholars.uow.edu.au/willy-susilo)[Susilo](https://sites.google.com/view/willy-susilo) and studying with the [iC$^2$](https://www.uow.edu.au/engineering-information-sciences/research/institute-cybersecurity-cryptology/). 
 
-Before (Sep 2016 - Jun 2020), I earned my B.Sc. in Mathematics from Wuhan University.
+Before (Sep 2016 - Jun 2020), I completed my B.Sc. in Mathematics from Wuhan University.
 
 My research interests are about cryptography and cyber security, to be more specific:
 - Recently, my passion lies in analyzing and designing zero-knowledge protocols and signature schemes derived from them, mainly based on algebraic assumptions that conjectured quantum-resistant (e.g., Lattice, Multivariate, and Code).
