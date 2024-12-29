@@ -31,7 +31,7 @@ My research interests are about cryptography and cyber security, to be more spec
 Feel free to reach me via [cryptowjm at 163.com](mailto:cryptowjm@163.com) (perferred) or [wenjm at whu.edu.cn](mailto:wenjm@whu.edu.cn), if questions or we share common tastes.
 
 # 📜 Publications
-Here are publications that I am the main contributor (also, as First Author or Corresponding Author). Roughly, they can be classified into Conjectured Post-quantum and Pre-quantum. For others, please refer to [Google Scholar](https://scholar.google.com/citations?user=IoWa4fYAAAAJ) and [DBLP](https://dblp.uni-trier.de/pid/324/5245-1.html).
+Here are the publications that I am the main contributor (also, as First Author or Corresponding Author). Generally, they can be classified into Conjectured Post-quantum and Pre-quantum. For others, please refer to [Google Scholar](https://scholar.google.com/citations?user=IoWa4fYAAAAJ) and [DBLP](https://dblp.uni-trier.de/pid/324/5245-1.html).
 
 ## Conjectured Post-quantum (e.g., Lattice, Multivariate, and Code) 
 - [WSZGZ24][Designated-Verifier Ring Signatures: Strong Definitions, Generic Constructions and Efficient Instantiations](http://www.icisc.org/static/program)
