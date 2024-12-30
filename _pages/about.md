@@ -25,7 +25,7 @@ I am currently pursuing my Ph.D. in Cryptography at [Wuhan University (WHU)](htt
 Before (Sep 2016 - Jun 2020), I completed my B.Sc. in Mathematics, also at Wuhan University.
 
 My research interests are about cryptography and cyber security, to be more specific:
-- Recently, my passion lies in analyzing and designing zero-knowledge protocols and signature schemes derived from them, mainly based on linear algebra assumptions that conjectured quantum-resistant (e.g., Lattice, Multivariate, and Code).
+- Recently, my passion lies in analyzing and designing zero-knowledge protocols and signature schemes derived from them, mainly based on linear algebra assumptions that conjectured quantum-resistant (e.g., Lattice, Code, and Rank).
 - In the long term, I hope using technologies to establish trust among individuals at almost zero cost, which I consider to be the most subtle and elegant aspect of cryptography.
 
 Feel free to reach me via [cryptowjm at 163.com](mailto:cryptowjm@163.com) (perferred) or [wenjm at whu.edu.cn](mailto:wenjm@whu.edu.cn), if questions or we share common tastes.
@@ -33,7 +33,7 @@ Feel free to reach me via [cryptowjm at 163.com](mailto:cryptowjm@163.com) (perf
 # 📜 Publications
 Here are the publications that I am the main contributor (also, as First Author or Corresponding Author). Generally, they can be classified into Conjectured Post-quantum and Pre-quantum. For other works, please refer to [Google Scholar](https://scholar.google.com/citations?user=IoWa4fYAAAAJ) and [DBLP](https://dblp.uni-trier.de/pid/324/5245-1.html).
 
-## Conjectured Post-quantum (e.g., Lattice, Multivariate, and Code) 
+## Conjectured Post-quantum (e.g., Lattice, Code, and Rank) 
 - [WSZGZ24][Designated-Verifier Ring Signatures: Strong Definitions, Generic Constructions and Efficient Instantiations](http://www.icisc.org/static/program)
   <br> **Jiaming Wen**, Willy Susilo, Yanhua Zhang, Fuchun Guo, Huanguo Zhang
   <br> *ICISC 2024* [[Conference](http://www.icisc.org/), [CACR-C](https://www.cacrnet.org.cn/site/content/1290.html), [Full Version](https://jiamiwen.github.io/documents/WSZGZ24.pdf), [Slides](https://jiamiwen.github.io/documents/DVRS-slides.pdf)]
