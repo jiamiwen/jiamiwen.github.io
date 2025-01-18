@@ -69,7 +69,7 @@ All in this category were done when I was a newcomer to the crypto world, but we
 # 💻 Services
 ## Teaching
 - Feb 2023 - Jun 2023: **Teaching Assistant**
-  <br>Programming Design and Experiment (undergraduate course in Spring 2023), Wuhan University
+  <br>Program Design and Experimentation (undergraduate course in Spring 2023), Wuhan University
 - Sep 2021 - Jan 2022: **Teaching Assistant**
   <br>Cryptography (undergraduate course in Fall 2021), Wuhan University
 
