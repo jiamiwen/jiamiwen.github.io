@@ -55,6 +55,11 @@ Here are the publications that I am the main contributor (also, as First Author 
 - [WWLZ22][Aitps: A Two-Party Signature Scheme from Asymmetry Module Lattice Problems](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202220533) (in Chinese)
   <br> **Jiaming Wen**, Houzhen Wang, Jinhui Liu, and Huanguo Zhang
   <br> *Journal of Computer Research and Development (计算机研究与发展) 2023* [[Journal](https://crad.ict.ac.cn/), [Chinese CCF-T1](https://www.ccf.org.cn/ccftjgjxskwml/)]
+
+- [WDWWZ25][Olithium: A Lattice-Based Online/Offline Signature Scheme without Trapdoors]() (in Chinese)
+  <br> Houzhen Wang, Xiaochao Duan, **Jiaming Wen**✉️, Yahui Wang, and Huanguo Zhang (Supervision & Corresponding Author)
+  <br> *Chinese Journal of Computers (计算机学报) 2025* [[Journal](http://cjc.ict.ac.cn/), [Chinese CCF-T1](https://www.ccf.org.cn/ccftjgjxskwml/), [Code](https://github.com/jiamiwen/Olithium)]
+  
   
 ## Pre-quantum (e.g., Group, Pairing, and RSA)
 All in this category were done when I was a newcomer to the crypto world, but were accepted and published a long time later.
@@ -96,4 +101,4 @@ My name starts with "jiami" (Chinese for "encrypt"), and ends with "mingwen" (Ch
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/))
 
 
-<p style="text-align:center">Last updated: 30 Dec 2024 </p>
+<p style="text-align:center">Last updated: 06 Feb 2025 </p>
