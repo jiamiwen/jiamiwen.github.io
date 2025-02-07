@@ -25,7 +25,7 @@ I am currently pursuing my Ph.D. in Cryptography at [Wuhan University (WHU)](htt
 Before (Sep 2016 - Jun 2020), I completed my B.Sc. in Mathematics, also at Wuhan University.
 
 My research interests are about cryptography and cyber security, to be more specific:
-- Recently, my passion mainly lies in zero-knowledge proofs and privacy-preserving cryptographic primitives derived from them, mainly based on linear algebra assumptions that conjectured quantum-resistant (e.g., Lattice, Code, and Rank).
+- Recently, my passion lies in zero-knowledge proofs and privacy-preserving cryptographic primitives derived from them, mainly based on linear algebra assumptions that conjectured quantum-resistant (e.g., Lattice, Code, and Rank).
 - In the long term, I hope using technologies to establish trust among individuals at almost zero cost, which I consider to be the most subtle and elegant aspect of cryptography.
 
 Feel free to reach me via [cryptowjm at 163.com](mailto:cryptowjm@163.com) (perferred) or [wenjm at whu.edu.cn](mailto:wenjm@whu.edu.cn), if questions or we share common tastes.
