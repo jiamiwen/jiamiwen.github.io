@@ -31,11 +31,11 @@ My research interests are about cryptography and cyber security, to be more spec
 Feel free to reach me via [cryptowjm at 163.com](mailto:cryptowjm@163.com) (perferred) or [wenjm at whu.edu.cn](mailto:wenjm@whu.edu.cn), if questions or we share common tastes.
 
 # 📜 Publications
-Here are the publications that I am the main contributor (also, as First Author or Corresponding Author). Generally, they can be classified into Conjectured Post-quantum and Pre-quantum. For other works, please see the links on the left panel of this page.
+Here are the publications that I am the main contributor (also, as First Author or Corresponding Author). Generally, they can be classified into Conjectured Post-Quantum and Pre-Quantum. For other works, please see the links on the left panel of this page.
 
 [//]: # (# [Google Scholar](https://scholar.google.com/citations?user=IoWa4fYAAAAJ) and [DBLP](https://dblp.uni-trier.de/pid/324/5245-1.html).)
 
-## Conjectured Post-quantum (e.g., Lattice, Code, and Rank) 
+## Conjectured Post-Quantum (e.g., Lattice, Code, and Rank) 
 - [WSZGZ24][Designated-Verifier Ring Signatures: Strong Definitions, Generic Constructions and Efficient Instantiations](http://www.icisc.org/static/program)
   <br> **Jiaming Wen**, Willy Susilo, Yanhua Zhang, Fuchun Guo, and Huanguo Zhang
   <br> *ICISC 2024* [[Conference](http://www.icisc.org/), [CACR-C](https://www.cacrnet.org.cn/site/content/1290.html), [Full Version](https://jiamiwen.github.io/documents/WSZGZ24.pdf), [Slides](https://jiamiwen.github.io/documents/DVRS-slides.pdf)]
@@ -61,7 +61,7 @@ Here are the publications that I am the main contributor (also, as First Author 
   <br> *Chinese Journal of Computers (计算机学报) 2025* [[Journal](http://cjc.ict.ac.cn/), [Chinese CCF-T1](https://www.ccf.org.cn/ccftjgjxskwml/), [Code by Xiaochao](https://github.com/jiamiwen/Olithium)]
   
   
-## Pre-quantum (e.g., Group, Pairing, and RSA)
+## Pre-Quantum (e.g., Group, Pairing, and RSA)
 All in this category were done when I was a newcomer to the crypto world, but were accepted and published a long time later.
 - [W24][Analysis and Improvement of a Conditional Privacy-Preserving Authentication Scheme with Double-Insurance in VANETs](https://ieeexplore.ieee.org/document/10592652)
   <br> **Jiaming Wen**, Lu Bai, Houzhen Wang, Jinhui Liu, Yahui Wang, and Huanguo Zhang
