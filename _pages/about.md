@@ -28,7 +28,7 @@ My research interests are about cryptography and cyber security, to be more spec
 - Recently, my passion mainly lies in zero-knowledge proofs and privacy-preserving cryptographic tools derived from them, based on linear algebra assumptions conjectured to be quantum-resistant (e.g., Lattice, Code, and Rank).
 - In the long term, I hope using technologies to establish trust among individuals at almost zero cost, which I consider to be the most subtle and elegant aspect of cryptography.
 
-Feel free to reach me via [cryptowjm at 163.com](mailto:cryptowjm@163.com) (perferred) or [wenjm at whu.edu.cn](mailto:wenjm@whu.edu.cn), if questions or we share common tastes.
+I can be reached via [wenjm at whu.edu.cn](mailto:wenjm@whu.edu.cn) or [cryptowjm at 163.com](mailto:cryptowjm@163.com), if questions or we share common tastes.
 
 # 📜 Publications
 Here are the publications that I am the main contributor (also, as First Author or Corresponding Author). Generally, they can be classified into Conjectured Post-Quantum and Pre-Quantum. For other works, please see the links on the left panel of this page.
