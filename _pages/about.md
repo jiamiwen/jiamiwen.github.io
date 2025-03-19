@@ -24,7 +24,7 @@ I am currently pursuing my Ph.D. in Cryptography at [Wuhan University (WHU)](htt
 
 Before (Sep 2016 - Jun 2020), I completed my B.Sc. in Mathematics, also at Wuhan University.
 
-My research interests are about cryptography and cyber security, to be more specific:
+My research focuses on cryptography and cyber security, to be more specific:
 - Recently, my passion mainly lies in zero-knowledge proofs and privacy-preserving cryptographic tools derived from them, based on linear algebra assumptions conjectured to be quantum-resistant (e.g., Lattice, Code, and Rank).
 - In the long term, I hope using technologies to establish trust among individuals at almost zero cost, which I consider to be the most subtle and elegant aspect of cryptography.
 
