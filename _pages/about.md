@@ -22,7 +22,7 @@ redirect_from:
 I am currently pursuing my Ph.D. in Cryptography at [Wuhan University (WHU)](https://whu.edu.cn/), supervised by [Huanguo Zhang](https://jiamiwen.github.io/documents/Zhang.pdf). 
 
 Before (Dec 2023 - Mar 2025), I was a CSC Visiting Ph.D. student at the [University of Wollongong (UOW)](http://uow.edu.au/). During this journey, I was hosted by [Willy ](https://scholars.uow.edu.au/willy-susilo)[Susilo](https://sites.google.com/view/willy-susilo) and was fortunate to study with the [iC$^2$](https://www.uow.edu.au/engineering-information-sciences/research/institute-cybersecurity-cryptology/).
-
+<br>
 Before (Sep 2016 - Jun 2020), I completed my B.Sc. in Mathematics, also at Wuhan University.
 
 My research focuses on cryptography and cyber security, to be more specific:
