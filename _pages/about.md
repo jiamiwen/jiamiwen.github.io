@@ -20,7 +20,8 @@ redirect_from:
 [//]: # (# 🥷🏃 About Me 📖 📝 📧 🖖)
 
 I am currently pursuing my Ph.D. in Cryptography at [Wuhan University (WHU)](https://whu.edu.cn/), supervised by [Huanguo Zhang](https://jiamiwen.github.io/documents/Zhang.pdf). 
-<br> I am also a CSC Visiting Ph.D. student at the [University of Wollongong (UOW)](http://uow.edu.au/), hosted by [Willy ](https://scholars.uow.edu.au/willy-susilo)[Susilo](https://sites.google.com/view/willy-susilo) and studying with the [iC$^2$](https://www.uow.edu.au/engineering-information-sciences/research/institute-cybersecurity-cryptology/). 
+
+Before (Dec 2023 - Mar 2025), I was a CSC Visiting Ph.D. student at the [University of Wollongong (UOW)](http://uow.edu.au/). During this journey, I was hosted by [Willy ](https://scholars.uow.edu.au/willy-susilo)[Susilo](https://sites.google.com/view/willy-susilo) and was fortunate to study with the [iC$^2$](https://www.uow.edu.au/engineering-information-sciences/research/institute-cybersecurity-cryptology/).
 
 Before (Sep 2016 - Jun 2020), I completed my B.Sc. in Mathematics, also at Wuhan University.
 
@@ -81,7 +82,7 @@ All in this category were done when I was a newcomer to the crypto world, but we
   <br>Cryptography (undergraduate course in Fall 2021), Wuhan University
 
 ## Serving as Individual Reviewers
-- Journals: *IEEE Internet of Things Journal (IoT-J)*, *IEEE Transactions on Vehicular Technology (T-VT)*, *Computer Networks*, *Journal of Information Security and Applications (JISA)*, *IEEE Systems Journal*, et al.
+- Journals: *IEEE Transactions on Dependable and Secure Computing (T-DSC)*, *IEEE Transactions on Vehicular Technology (T-VT)*, *IEEE Internet of Things Journal (IoT-J)*, *Computer Networks*, *Journal of Information Security and Applications (JISA)*, *IEEE Systems Journal*, et al.
 - Conferences: *Inscrypt 2023*, et al.
 
 # 🧰 Misc
@@ -101,4 +102,4 @@ My name starts with "jiami" (Chinese for "encrypt"), and ends with "mingwen" (Ch
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/))
 
 
-<p style="text-align:center">Last updated: 08 Feb 2025 </p>
+<p style="text-align:center">Last updated: 25 Mar 2025 </p>
