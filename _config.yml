@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiaming Wen"
-description              : "<center>Ph.D. Candidate @ WHU-UOW</center>"
+description              : "<center>Ph.D. Candidate @ WHU</center>"
 repository               : "https://jiamiwen.github.io/"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "<center>Jiaming Wen<br>文嘉明</center>"
   avatar           : "images/jiaming-Brisbane.jpg"
   bio              :
-  location         : "Keiraville, NSW, Australia"
+  location         : "Wuhan, Hubei, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=IoWa4fYAAAAJ"
