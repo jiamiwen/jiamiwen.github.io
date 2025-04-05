@@ -81,9 +81,9 @@ All in this category were done when I was a newcomer to the crypto world, but we
 - Sep 2021 - Jan 2022: **Teaching Assistant**
   <br>Cryptography (undergraduate course in Fall 2021), Wuhan University
 
-## Serving as Individual Reviewers
-- Journals: *IEEE Transactions on Dependable and Secure Computing (T-DSC)*, *IEEE Transactions on Vehicular Technology (T-VT)*, *IEEE Internet of Things Journal (IoT-J)*, *Computer Networks*, *Journal of Information Security and Applications (JISA)*, *IEEE Systems Journal*, et al.
-- Conferences: *Inscrypt 2023*, et al.
+## Serving as Reviewers
+- Journal Reviewers: *IEEE Transactions on Dependable and Secure Computing (T-DSC)*, *IEEE Transactions on Vehicular Technology (T-VT)*, *IEEE Internet of Things Journal (IoT-J)*, *Computer Networks*, *Journal of Information Security and Applications (JISA)*, *IEEE Systems Journal*, et al.
+- Conference Reviewers (external): *Inscrypt 2023*, et al.
 
 # 🧰 Misc
 ## Serendipity
