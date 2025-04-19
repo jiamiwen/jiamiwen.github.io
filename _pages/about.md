@@ -82,7 +82,7 @@ All in this category were done when I was a newcomer to the crypto world, but we
   <br>Cryptography (undergraduate course in Fall 2021), Wuhan University
 
 ## Serving as Reviewers
-- Journal Reviewers: *IEEE Transactions on Dependable and Secure Computing (T-DSC)*, *IEEE Transactions on Vehicular Technology (T-VT)*, *IEEE Internet of Things Journal (IoT-J)*, *Computer Networks*, *Journal of Information Security and Applications (JISA)*, *IEEE Systems Journal*, etc.
+- Journal Reviewers: *IEEE Transactions on Dependable and Secure Computing (T-DSC)*, *IEEE Transactions on Vehicular Technology (T-VT)*, *IEEE Internet of Things Journal (IoT-J)*, *Journal of Information Security and Applications (JISA)*, etc.
 - Conference Reviewers (external): *Inscrypt 2023*, etc.
 
 # 🧰 Misc
