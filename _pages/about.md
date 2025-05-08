@@ -57,7 +57,7 @@ Here are the publications that I am the main contributor (also, as First Author 
   <br> **Jiaming Wen**, Houzhen Wang, Jinhui Liu, and Huanguo Zhang
   <br> *Journal of Computer Research and Development (计算机研究与发展) 2023* [[Journal](https://crad.ict.ac.cn/), [Chinese CCF-T1](https://www.ccf.org.cn/ccftjgjxskwml/)]
 
-- [WDWWZ25][Olithium: A Lattice-Based Online/Offline Signature Scheme without Trapdoors](http://cjc.ict.ac.cn/online/bfpub/whz-2025310103243.pdf) (in Chinese)
+- [WDWWZ25][Olithium: A Lattice-Based Online/Offline Signature Scheme without Trapdoors](http://cjc.ict.ac.cn/online/onlinepaper/whz-2025424155959.pdf) (in Chinese)
   <br> Houzhen Wang, Xiaochao Duan, **Jiaming Wen**✉️, Yahui Wang, and Huanguo Zhang (Initiator & Corresponding Author)
   <br> *Chinese Journal of Computers (计算机学报) 2025* [[Journal](http://cjc.ict.ac.cn/), [Chinese CCF-T1](https://www.ccf.org.cn/ccftjgjxskwml/), [Code by Xiaochao](https://github.com/jiamiwen/Olithium)]
   
