@@ -26,7 +26,7 @@ Before (Dec 2023 - Mar 2025), I was a CSC Visiting Ph.D. student at the [Univers
 Before (Sep 2016 - Jun 2020), I completed my B.Sc. in Mathematics, also at Wuhan University.
 
 My research focuses on cryptography and cyber security, to be more specific:
-- Recently, my passion lies in (lattice-based) zero-knowledge proofs and fully homomorphic encryption, along with cryptographic primitives built upon them.
+- Recently, my passion lies in (lattice-based) zero-knowledge proofs, fully homomorphic encryption, along with cryptographic primitives built upon them.
 - In the long term, I hope using technologies to establish trust among individuals, which I consider to be the most subtle and elegant aspect of cryptography.
 
 I can be reached via [wenjm at whu.edu.cn](mailto:wenjm@whu.edu.cn) or [cryptowjm at 163.com](mailto:cryptowjm@163.com), if questions or we share common tastes.
