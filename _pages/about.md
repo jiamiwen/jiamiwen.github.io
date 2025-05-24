@@ -76,14 +76,14 @@ All in this category were done when I was a newcomer to the crypto world, but we
 
 # 💻 Services
 ## Teaching
-- Feb 2023 - Jun 2023: Teaching Assistant
+- Feb 2023 - Jun 2023: **Teaching Assistant**
   <br>Program Design and Experimentation (undergraduate course in Spring 2023), Wuhan University
-- Sep 2021 - Jan 2022: Teaching Assistant
+- Sep 2021 - Jan 2022: **Teaching Assistant**
   <br>Cryptography (undergraduate course in Fall 2021), Wuhan University
 
 ## Serving as Reviewers
-- Journal Reviewers: *IEEE Transactions on Information Theory (T-IT)*, *IEEE Transactions on Dependable and Secure Computing (T-DSC)*, *IEEE Transactions on Vehicular Technology (T-VT)*, *IEEE Internet of Things Journal (IoT-J)*, *Journal of Information Security and Applications (JISA)*, etc.
-- Conference Reviewers (external): *ICISC 2024*, *Inscrypt 2023*, etc.
+- **Journals**: *IEEE Transactions on Information Theory (T-IT)*, *IEEE Transactions on Dependable and Secure Computing (T-DSC)*, *IEEE Transactions on Vehicular Technology (T-VT)*, *IEEE Internet of Things Journal (IoT-J)*, *Journal of Information Security and Applications (JISA)*, etc.
+- **Conferences**: *ICISC 2024*, *Inscrypt 2023*, etc.
 
 # 🧰 Misc
 ## Serendipity
