@@ -21,7 +21,7 @@ redirect_from:
 
 I am currently pursuing my Ph.D. in Cryptography at [Wuhan University (WHU)](https://whu.edu.cn/), supervised by [Huanguo Zhang](https://jiamiwen.github.io/documents/Zhang.pdf).
 <br>
-I am also doing an internship at [Ant Group](https://www.antgroup.com/) this summer, working on fully homomorphic encryption.
+I am also interning at [Ant Group](https://www.antgroup.com/) this summer, working on fully homomorphic encryption.
 
 Before (Dec 2023 - Mar 2025), I was a CSC Visiting Ph.D. student at the [University of Wollongong (UOW)](http://uow.edu.au/), Australia. There, I was hosted by [Willy Susilo](https://scholars.uow.edu.au/willy-susilo) and had the fortune to study with the [Institute of Cybersecurity and Cryptology (iC$^2$)](https://www.uow.edu.au/engineering-information-sciences/research/institute-cybersecurity-cryptology/) led by him.
 <br>
