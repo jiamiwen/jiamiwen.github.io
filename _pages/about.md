@@ -20,15 +20,15 @@ redirect_from:
 [//]: # (# 🥷🏃 About Me 📖 📝 📧 🖖)
 
 I am currently pursuing my Ph.D. in Cryptography at [Wuhan University (WHU)](https://whu.edu.cn/), supervised by [Huanguo Zhang](https://jiamiwen.github.io/documents/Zhang.pdf).
-<br>
-I am also interning at [Ant Group](https://www.antgroup.com/) this summer, working on fully homomorphic encryption.
 
+Before (Jun 2025 - Aug 2025), I interned at [Ant Group](https://www.antgroup.com/).
+<br>
 Before (Dec 2023 - Mar 2025), I was a CSC Visiting Ph.D. student at the [University of Wollongong (UOW)](http://uow.edu.au/), Australia. There, I was hosted by [Willy Susilo](https://scholars.uow.edu.au/willy-susilo) and had the fortune to study with the [Institute of Cybersecurity and Cryptology (iC$^2$)](https://www.uow.edu.au/engineering-information-sciences/research/institute-cybersecurity-cryptology/) led by him.
 <br>
 Before (Sep 2016 - Jun 2020), I completed my B.Sc. in Mathematics, also at Wuhan University.
 
 My research focuses on cryptography and cyber security, to be more specific:
-- Recently, my passion lies in lattice-based cryptogtaphy, involving zero-knowledge proofs, fully homomorphic encryption, and advanced tools built upon them.
+- Recently, my passion lies in lattice-based cryptogtaphy, involving zero-knowledge proofs and advanced tools built upon them.
 - In the long term, I hope using technologies to establish trust among individuals, which I consider to be the most subtle and elegant aspect of cryptography.
 
 I can be reached via [wenjm at whu.edu.cn](mailto:wenjm@whu.edu.cn) or [cryptowjm at 163.com](mailto:cryptowjm@163.com), if questions or we share common tastes.
@@ -104,4 +104,4 @@ My name starts with "jiami" (Chinese for "encrypt"), and ends with "mingwen" (Ch
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/))
 
 
-<p style="text-align:center">Last updated: 11 Jun 2025 </p>
+<p style="text-align:center">Last updated: 28 Aug 2025 </p>
