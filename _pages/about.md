@@ -95,7 +95,7 @@ My name starts with "jiami" (Chinese for "encrypt"), and ends with "mingwen" (Ch
 - [IACR ePrint Archive](https://eprint.iacr.org/), a mysterious website suggested visiting every day.
 - [The Lattice Club](https://thelatticeclub.com/), including so many resources about Lattice-based Cryptography.
 - [Post-Quantum Signatures Zoo](https://pqshield.github.io/nist-sigs-zoo/), including an overview of Post-Quantum Signatures.
-- [Kai-Min Chung's Homepage](https://homepage.iis.sinica.edu.tw/~kmchung/), including high-quality cryptography courses in Chinese.
+- [Kai-Min Chung's Homepage](https://homepage.iis.sinica.edu.tw/~kmchung/), including high-quality theoretical cryptography courses in Chinese.
 - [Fuchun Guo's Homepage](https://documents.uow.edu.au/~fuchun/), including valuable materials for cryptography studies in Chinese (temporarily unavailable).
 
 
