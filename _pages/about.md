@@ -21,9 +21,9 @@ redirect_from:
 
 I am currently pursuing my Ph.D. in Cyber Security at [Wuhan University (WHU)](https://whu.edu.cn/), supervised by [Huanguo Zhang](https://jiamiwen.github.io/documents/Zhang.pdf).
 
-Before (Jun 2025 - Aug 2025), I worked as an algorithm engineer intern at [Ant Group](https://www.antgroup.com/), affiliated with [Misuan](https://www.misuan.com/).
+Before (Jun 2025 - Aug 2025, 3 months), I worked as an algorithm engineer intern at [Ant Group](https://www.antgroup.com/), affiliated with [Misuan](https://www.misuan.com/).
 <br>
-Before (Dec 2023 - Mar 2025), I was a CSC Visiting Ph.D. student at the [University of Wollongong (UOW)](http://uow.edu.au/), Australia. There, I was hosted by [Willy Susilo](https://scholars.uow.edu.au/willy-susilo) and had the fortune to study with the [Institute of Cybersecurity and Cryptology (iC$^2$)](https://www.uow.edu.au/engineering-information-sciences/research/institute-cybersecurity-cryptology/) led by him.
+Before (Dec 2023 - Mar 2025, 15 months), I was a CSC Visiting Ph.D. student at the [University of Wollongong (UOW)](http://uow.edu.au/), Australia. There, I was hosted by [Willy Susilo](https://scholars.uow.edu.au/willy-susilo) and had the fortune to study with the [Institute of Cybersecurity and Cryptology (iC$^2$)](https://www.uow.edu.au/engineering-information-sciences/research/institute-cybersecurity-cryptology/) led by him.
 <br>
 Before (Sep 2016 - Jun 2020), I earned my B.S. in Mathematics from Wuhan University, where I continued with my Ph.D. studies.
 
