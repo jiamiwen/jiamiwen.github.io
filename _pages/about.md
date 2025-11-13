@@ -25,7 +25,7 @@ Before (Jun 2025 - Aug 2025), I worked as an algorithm engineer intern at [Ant G
 <br>
 Before (Dec 2023 - Mar 2025), I was a CSC Visiting Ph.D. student at the [University of Wollongong (UOW)](http://uow.edu.au/), Australia. There, I was hosted by [Willy Susilo](https://scholars.uow.edu.au/willy-susilo) and had the fortune to study with the [Institute of Cybersecurity and Cryptology (iC$^2$)](https://www.uow.edu.au/engineering-information-sciences/research/institute-cybersecurity-cryptology/) led by him.
 <br>
-Before (Sep 2016 - Jun 2020), I earned my B.Sc. in Mathematics from Wuhan University, where I continued with my Ph.D. journey.
+Before (Sep 2016 - Jun 2020), I earned my B.S. in Mathematics from Wuhan University, where I continued with my Ph.D. journey.
 
 My research focuses on cryptography and cyber security, to be more specific:
 - Recently, my passion lies in lattice-based cryptogtaphy, particularly zero-knowledge proofs and their applications.
