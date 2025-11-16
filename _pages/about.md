@@ -19,7 +19,7 @@ redirect_from:
 
 [//]: # (# 🥷🏃 About Me 📖 📝 📧 🖖)
 
-I am currently pursuing my Ph.D. in Cyberspace Security at [Wuhan University (WHU)](https://whu.edu.cn/), supervised by [Huanguo Zhang](https://jiamiwen.github.io/documents/Zhang.pdf).
+I am currently pursuing my Ph.D. in Cyber Security at [Wuhan University (WHU)](https://whu.edu.cn/), supervised by [Huanguo Zhang](https://jiamiwen.github.io/documents/Zhang.pdf).
 
 Before (Jun 2025 - Aug 2025), I worked as an algorithm engineer intern at [Ant Group](https://www.antgroup.com/), affiliated with [Misuan](https://www.misuan.com/).
 <br>
