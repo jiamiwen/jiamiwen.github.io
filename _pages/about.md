@@ -68,7 +68,7 @@ Here are the publications that I am the main contributor (also, as First Author 
 Most in this category were done when I was a newcomer to the crypto world, but were accepted and published a long time later.
 - [WWQW26][ChatKID: Identity-Based Group Key Distribution Protocol for Instant Messaging](?) (Subsequent work of [WWLZ23])
   <br> Houzhen Wang, Jiayimei Wang, Wanying Qin, and **Jiaming Wen**✉️ (Supervision & Corresponding Author)
-  <br> *IEEE Transactions on Dependable and Secure Computing (T-DSC) 2026* [[Journal](https://www.computer.org/csdl/journal/tq), JCR Q1, CCF-A]
+  <br> *IEEE Transactions on Dependable and Secure Computing (T-DSC) 2026* [[Journal](https://www.computer.org/csdl/journal/tq), JCR Q1, [CCF-A](https://www.ccf.org.cn/Academic_Evaluation/NIS/)]
 
 - [W24][Analysis and Improvement of a Conditional Privacy-Preserving Authentication Scheme with Double-Insurance in VANETs](https://ieeexplore.ieee.org/document/10592652)
   <br> **Jiaming Wen**, Lu Bai, Houzhen Wang, Jinhui Liu, Yahui Wang, and Huanguo Zhang
