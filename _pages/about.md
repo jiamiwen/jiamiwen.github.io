@@ -19,7 +19,7 @@ redirect_from:
 
 [//]: # (# 🥷🏃 About Me 📖 📝 📧 🖖)
 
-I am currently pursuing my Ph.D. in Cyber Security at [Wuhan University (WHU)](https://whu.edu.cn/), supervised by [Huanguo Zhang](https://jiamiwen.github.io/documents/Zhang.pdf).
+In Dec 2025, I concluded my Ph.D. in Cyber Security at [Wuhan University (WHU)](https://whu.edu.cn/). My supervisor is [Huanguo Zhang](https://jiamiwen.github.io/documents/Zhang.pdf).
 
 Before (Jun 2025 - Aug 2025), I worked as an algorithm engineer intern at [Ant Group](https://www.antgroup.com/), affiliated with [Misuan](https://www.misuan.com/).
 <br>
@@ -43,7 +43,7 @@ Here are the publications that I am the main contributor (also, as First Author 
   <br> **Jiaming Wen**, Willy Susilo, Yanhua Zhang, Fuchun Guo, and Huanguo Zhang
   <br> *ICISC 2024* [[Conference](http://www.icisc.org/), [CACR-C](https://www.cacrnet.org.cn/site/content/1290.html), [Full Version](https://jiamiwen.github.io/documents/WSZGZ24.pdf), [Slides](https://jiamiwen.github.io/documents/DVRS-slides.pdf)]
 
-- [WSYYZ24][Revocable ring signatures with CCA-Anonymity from standard lattices](https://www.sciencedirect.com/science/article/pii/S092054892400062X?via%3Dihub)
+- [WSYYZ24][Revocable ring signatures with CCA-Anonymity from standard lattices](https://www.sciencedirect.com/science/article/pii/S092054892400062X?via%3Dihub) (Subsequent work of [WBYZWH23])
   <br> **Jiaming Wen**, Willy Susilo, Rupeng Yang, Zuoxia Yu, and Huanguo Zhang
   <br> *Computer Standards & Interfaces (CSI) 2024* [[Journal](https://www.sciencedirect.com/journal/computer-standards-and-interfaces), JCR Q1, 中科院2区]
 
@@ -60,12 +60,16 @@ Here are the publications that I am the main contributor (also, as First Author 
   <br> *Journal of Computer Research and Development (计算机研究与发展) 2023* [[Journal](https://crad.ict.ac.cn/), [Chinese CCF-T1](https://www.ccf.org.cn/ccftjgjxskwml/)]
 
 - [WDWWZ25][Olithium: A Lattice-Based Online/Offline Signature Scheme without Trapdoors](http://cjc.ict.ac.cn/online/onlinepaper/whz-2025424155959.pdf) (in Chinese)
-  <br> Houzhen Wang, Xiaochao Duan, **Jiaming Wen**✉️, Yahui Wang, and Huanguo Zhang (Initiator & Corresponding Author)
+  <br> Houzhen Wang, Xiaochao Duan, **Jiaming Wen**✉️, Yahui Wang, and Huanguo Zhang (Supervision & Corresponding Author)
   <br> *Chinese Journal of Computers (计算机学报) 2025* [[Journal](http://cjc.ict.ac.cn/), [Chinese CCF-T1](https://www.ccf.org.cn/ccftjgjxskwml/), [Code by Xiaochao](https://github.com/jiamiwen/Olithium)]
   
   
 ## Pre-Quantum (e.g., Discrete Logarithm and Pairing)
 All in this category were done when I was a newcomer to the crypto world, but were accepted and published a long time later.
+- [WWQW26][ChatKID: Identity-Based Group Key Distribution Protocol for Instant Messaging](https://ieeexplore.ieee.org/document/10131978) (Subsequent work of [WWLZ23])
+  <br> Houzhen Wang, Jiayimei Wang, Wanying Qin, and **Jiaming Wen**✉️ (Supervision & Corresponding Author)
+  <br> *IEEE Transactions on Dependable and Secure Computing (T-DSC) 2026* [[Journal](https://www.computer.org/csdl/journal/tq), JCR Q1, CCF-A]
+
 - [W24][Analysis and Improvement of a Conditional Privacy-Preserving Authentication Scheme with Double-Insurance in VANETs](https://ieeexplore.ieee.org/document/10592652)
   <br> **Jiaming Wen**, Lu Bai, Houzhen Wang, Jinhui Liu, Yahui Wang, and Huanguo Zhang
   <br> *IEEE Transactions on Vehicular Technology (T-VT) 2024* [[Journal](https://vtsociety.org/publication/ieee-transactions-vehicular-technology), JCR Q1, 中科院2区]
