@@ -34,7 +34,7 @@ My research focuses on cryptography and cyber security, to be more specific:
 I can be reached via [wenjm at whu.edu.cn](mailto:wenjm@whu.edu.cn) or [cryptowjm at 163.com](mailto:cryptowjm@163.com), if questions or we share common tastes.
 
 # 📜 Publications
-Here are the publications that I am the main contributor (also, as First Author or Corresponding Author). For other works, please see the links on the left panel of this page.
+Here are the publications that I am the main contributor (also, as First Author or Corresponding Author). For other works, please refer to the links on the left panel of this page.
 
 [//]: # (# [Google Scholar](https://scholar.google.com/citations?user=IoWa4fYAAAAJ) and [DBLP](https://dblp.uni-trier.de/pid/324/5245-1.html).)
 
