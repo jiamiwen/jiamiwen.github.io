@@ -95,7 +95,7 @@ Here are the publications that I am the main contributor (also, as First Author 
 # 🧰 Misc
 ## Serendipity
 My name starts with "jiami" (Chinese for "encrypt"), and ends with "mingwen" (Chinese for "plaintext"). 
-<br>I remove "ng" from it to obtain "miwen" (Chinese for "ciphertext") for several usernames of mine, e.g., [wechat](https://jiamiwen.github.io/images/wechat.jpg), twitter, and github, as I believe it is more suitable for spreading over the public channel ;-)
+<br>I remove "ng" from it to obtain "miwen" (Chinese for "ciphertext") for several usernames of mine, e.g., [wechat](https://jiamiwen.github.io/images/wechat.jpg), twitter, and github, as I believe it is more suitable for spreading over the public channel :)
 ## Some useful links
 - [IACR ePrint Archive](https://eprint.iacr.org/), a mysterious website suggested visiting every day.
 - [The Lattice Club](https://thelatticeclub.com/), including so many resources about Lattice-based Cryptography.
