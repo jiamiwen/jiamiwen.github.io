@@ -34,22 +34,26 @@ My research focuses on cryptography and cyber security, to be more specific:
 I can be reached via [wenjm at whu.edu.cn](mailto:wenjm@whu.edu.cn) or [cryptowjm at 163.com](mailto:cryptowjm@163.com), if questions or we share common tastes.
 
 # 📜 Publications
-Here are the publications that I am the main contributor (also, as First Author or Corresponding Author). Generally, they can be classified into Conjectured Post-Quantum and Pre-Quantum. For other works, please see the links on the left panel of this page.
+Here are the publications that I am the main contributor (also, as First Author or Corresponding Author). For other works, please see the links on the left panel of this page.
 
 [//]: # (# [Google Scholar](https://scholar.google.com/citations?user=IoWa4fYAAAAJ) and [DBLP](https://dblp.uni-trier.de/pid/324/5245-1.html).)
 
-## Conjectured Post-Quantum (e.g., Lattice and Rank) 
+## Signature, Zero-Knowledge, and Privacy-Preserving Authentication
 - [WSZGZ24][Designated-Verifier Ring Signatures: Strong Definitions, Generic Constructions and Efficient Instantiations](https://link.springer.com/chapter/10.1007/978-981-96-5566-3_3)
   <br> **Jiaming Wen**, Willy Susilo, Yanhua Zhang, Fuchun Guo, and Huanguo Zhang
   <br> *ICISC 2024* [[Conference](http://www.icisc.org/), [CACR-C](https://www.cacrnet.org.cn/site/content/1290.html), [Full Version](https://jiamiwen.github.io/documents/WSZGZ24.pdf), [Slides](https://jiamiwen.github.io/documents/DVRS-slides.pdf)]
 
-- [WSYYZ24][Revocable ring signatures with CCA-Anonymity from standard lattices](https://www.sciencedirect.com/science/article/pii/S092054892400062X?via%3Dihub) (follow-up work of [WBYZWH23])
+- [WSYYZ24][Revocable ring signatures with CCA-Anonymity from standard lattices](https://www.sciencedirect.com/science/article/pii/S092054892400062X?via%3Dihub) (follow-up work of [WBYZWH24])
   <br> **Jiaming Wen**, Willy Susilo, Rupeng Yang, Zuoxia Yu, and Huanguo Zhang
   <br> *Computer Standards & Interfaces (CSI) 2024* [[Journal](https://www.sciencedirect.com/journal/computer-standards-and-interfaces), JCR Q1, 中科院2区]
 
-- [WBYZWH23][LaRRS: Lattice-Based Revocable Ring Signature and its application for VANETs](https://ieeexplore.ieee.org/document/10219003)
+- [WBYZWH24][LaRRS: Lattice-Based Revocable Ring Signature and its application for VANETs](https://ieeexplore.ieee.org/document/10219003)
   <br> **Jiaming Wen**, Lu Bai, Zhichao Yang, Huanguo Zhang, Houzhen Wang, and Debiao He
-  <br> *IEEE Transactions on Vehicular Technology (T-VT) 2023* [[Journal](https://vtsociety.org/publication/ieee-transactions-vehicular-technology), JCR Q1, 中科院2区, [Code by Lu](https://github.com/jiamiwen/LaRRS)]
+  <br> *IEEE Transactions on Vehicular Technology (T-VT) 2024* [[Journal](https://vtsociety.org/publication/ieee-transactions-vehicular-technology), JCR Q1, 中科院2区, [Code by Lu](https://github.com/jiamiwen/LaRRS)]
+
+- [W24][Analysis and Improvement of a Conditional Privacy-Preserving Authentication Scheme with Double-Insurance in VANETs](https://ieeexplore.ieee.org/document/10592652)
+  <br> **Jiaming Wen**, Lu Bai, Houzhen Wang, Jinhui Liu, Yahui Wang, and Huanguo Zhang
+  <br> *IEEE Transactions on Vehicular Technology (T-VT) 2024* [[Journal](https://vtsociety.org/publication/ieee-transactions-vehicular-technology), JCR Q1, 中科院2区]
 
 - [WWZ23][Post-quantum Sigma Protocols and Signatures from Low-Rank Matrix Completions](https://link.springer.com/chapter/10.1007/978-3-031-45513-1_11)
   <br> **Jiaming Wen**, Houzhen Wang, and Huanguo Zhang
@@ -64,19 +68,16 @@ Here are the publications that I am the main contributor (also, as First Author 
   <br> *Chinese Journal of Computers (计算机学报) 2025* [[Journal](http://cjc.ict.ac.cn/), [Chinese CCF-T1](https://www.ccf.org.cn/ccftjgjxskwml/), [Code by Xiaochao](https://github.com/jiamiwen/Olithium)]
   
   
-## Pre-Quantum (e.g., Discrete Logarithm and Pairing)
-Most in this category were done when I was a newcomer to the crypto world, but were accepted and published until much later.
+## Key Exchange and Group Key Distribution
 - [WWQW26][ChatKID: Identity-Based Group Key Distribution Protocol for Instant Messaging]() (follow-up work of [WWLZ23])
   <br> Houzhen Wang, Jiayimei Wang, Wanying Qin, and **Jiaming Wen**✉️ (Supervision & Corresponding Author)
   <br> *IEEE Transactions on Dependable and Secure Computing (T-DSC) 2026* [[Journal](https://www.computer.org/csdl/journal/tq), JCR Q1, [CCF-A](https://www.ccf.org.cn/Academic_Evaluation/NIS/)]
 
-- [W24][Analysis and Improvement of a Conditional Privacy-Preserving Authentication Scheme with Double-Insurance in VANETs](https://ieeexplore.ieee.org/document/10592652)
-  <br> **Jiaming Wen**, Lu Bai, Houzhen Wang, Jinhui Liu, Yahui Wang, and Huanguo Zhang
-  <br> *IEEE Transactions on Vehicular Technology (T-VT) 2024* [[Journal](https://vtsociety.org/publication/ieee-transactions-vehicular-technology), JCR Q1, 中科院2区]
-
 - [WWLZ23][ACKE: Asymmetric Computing Key Exchange Protocol for IoT Environments](https://ieeexplore.ieee.org/document/10131978)
   <br> Houzhen Wang, **Jiaming Wen**✉️, Jinhui Liu, and Huanguo Zhang (First Author is my co-advisor & Corresponding Author)
   <br> *IEEE Internet of Things Journal (IoT-J) 2023* [[Journal](https://ieee-iotj.org/), JCR Q1, 中科院1区]
+
+[//]: # (# Most in this category were done when I was a newcomer to the crypto world, but were accepted and published until much later.)
 
 [//]: # (# 🎖 Selected Honors and Awards)
 
