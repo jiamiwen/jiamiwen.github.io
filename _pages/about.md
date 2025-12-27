@@ -38,7 +38,7 @@ Here are the publications that I am the main contributor (also, as First Author 
 
 [//]: # (# [Google Scholar](https://scholar.google.com/citations?user=IoWa4fYAAAAJ) and [DBLP](https://dblp.uni-trier.de/pid/324/5245-1.html).)
 
-## Signature, Zero-Knowledge, and Privacy-Preserving Authentication
+## Signature, Zero-Knowledge, and Authentication
 - [WSZGZ24][Designated-Verifier Ring Signatures: Strong Definitions, Generic Constructions and Efficient Instantiations](https://link.springer.com/chapter/10.1007/978-981-96-5566-3_3)
   <br> **Jiaming Wen**, Willy Susilo, Yanhua Zhang, Fuchun Guo, and Huanguo Zhang
   <br> *ICISC 2024* [[Conference](http://www.icisc.org/), [CACR-C](https://www.cacrnet.org.cn/site/content/1290.html), [Full Version](https://jiamiwen.github.io/documents/WSZGZ24.pdf), [Slides](https://jiamiwen.github.io/documents/DVRS-slides.pdf)]
