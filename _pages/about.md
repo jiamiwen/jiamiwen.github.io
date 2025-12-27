@@ -59,7 +59,7 @@ Here are the publications that I am the main contributor (also, as First Author 
   <br> **Jiaming Wen**, Houzhen Wang, and Huanguo Zhang
   <br> *ProvSec 2023* [[Conference](https://provsec2023.github.io/ProvSec2023/#), [CACR-C](https://www.cacrnet.org.cn/site/content/1290.html), [Slides](https://jiamiwen.github.io/documents/lrmc-slides.pdf)]
   
-- [WWLZ23sig][Aitps: A Two-Party Signature Scheme from Asymmetry Module Lattice Problems](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202220533) (in Chinese)
+- [WWLZ23_SIG][Aitps: A Two-Party Signature Scheme from Asymmetry Module Lattice Problems](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202220533) (in Chinese)
   <br> **Jiaming Wen**, Houzhen Wang, Jinhui Liu, and Huanguo Zhang
   <br> *Journal of Computer Research and Development (计算机研究与发展) 2023* [[Journal](https://crad.ict.ac.cn/), [Chinese CCF-T1](https://www.ccf.org.cn/ccftjgjxskwml/)]
 
@@ -69,11 +69,11 @@ Here are the publications that I am the main contributor (also, as First Author 
   
   
 ## Key Exchange and Group Key Distribution
-- [WWQW26][ChatKID: Identity-Based Group Key Distribution Protocol for Instant Messaging]() (follow-up work of [WWLZ23key])
+- [WWQW26][ChatKID: Identity-Based Group Key Distribution Protocol for Instant Messaging]() (follow-up work of [WWLZ23_KE])
   <br> Houzhen Wang, Jiayimei Wang, Wanying Qin, and **Jiaming Wen**✉️ (Supervision & Corresponding Author)
   <br> *IEEE Transactions on Dependable and Secure Computing (T-DSC) 2026* [[Journal](https://www.computer.org/csdl/journal/tq), JCR Q1, [CCF-A](https://www.ccf.org.cn/Academic_Evaluation/NIS/)]
 
-- [WWLZ23key][ACKE: Asymmetric Computing Key Exchange Protocol for IoT Environments](https://ieeexplore.ieee.org/document/10131978)
+- [WWLZ23_KE][ACKE: Asymmetric Computing Key Exchange Protocol for IoT Environments](https://ieeexplore.ieee.org/document/10131978)
   <br> Houzhen Wang, **Jiaming Wen**✉️, Jinhui Liu, and Huanguo Zhang (First Author is my co-advisor & Corresponding Author)
   <br> *IEEE Internet of Things Journal (IoT-J) 2023* [[Journal](https://ieee-iotj.org/), JCR Q1, 中科院1区]
 
