@@ -69,7 +69,7 @@ Here are the publications that I am the main contributor (also, as First Author 
   
   
 ## Key Exchange and Group Key Distribution
-- [WWQW26][ChatKID: Identity-Based Group Key Distribution Protocol for Instant Messaging]() (follow-up work of [WWLZ23_KE])
+- [WWQW26][ChatKID: Identity-Based Group Key Distribution Protocol for Instant Messaging](https://ieeexplore.ieee.org/document/11316825) (follow-up work of [WWLZ23_KE])
   <br> Houzhen Wang, Jiayimei Wang, Wanying Qin, and **Jiaming Wen**✉️ (Supervision & Corresponding Author)
   <br> *IEEE Transactions on Dependable and Secure Computing (T-DSC) 2026* [[Journal](https://www.computer.org/csdl/journal/tq), JCR Q1, [CCF-A](https://www.ccf.org.cn/Academic_Evaluation/NIS/)]
 
