@@ -19,7 +19,7 @@ redirect_from:
 
 [//]: # (# 🥷🏃 About Me 📖 📝 📧 🖖)
 
-In Dec 2025, I concluded my Ph.D. in Cyber Security at [Wuhan University (WHU)](https://whu.edu.cn/). My supervisor is [Huanguo Zhang](https://jiamiwen.github.io/documents/Zhang.pdf).
+In Dec 2025, I concluded my Ph.D. in Cyber Security at [Wuhan University](https://whu.edu.cn/), grateful to have [Huanguo Zhang](https://jiamiwen.github.io/documents/Zhang.pdf) as my supervisor.
 
 Before (Jun 2025 - Aug 2025), I worked as an algorithm engineer intern at [Ant Group](https://www.antgroup.com/), affiliated with [Misuan](https://www.misuan.com/).
 <br>
