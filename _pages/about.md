@@ -23,7 +23,7 @@ In Dec 2025, I concluded my Ph.D. in Cyber Security at [Wuhan University](https:
 
 Before (Jun 2025 - Aug 2025), I worked as an algorithm engineer intern at [Ant Group](https://www.antgroup.com/), affiliated with [Misuan](https://www.misuan.com/).
 <br>
-Before (Dec 2023 - Mar 2025), I was a CSC Visiting Ph.D. student at the [University of Wollongong](http://uow.edu.au/), Australia. I was hosted by [Willy Susilo](https://scholars.uow.edu.au/willy-susilo) and had the fortune to study with the [Institute of Cybersecurity and Cryptology (iC$^2$)](https://www.uow.edu.au/engineering-information-sciences/research/institute-cybersecurity-cryptology/) led by him.
+Before (Dec 2023 - Mar 2025), I was a CSC Visiting Ph.D. student at the [University of Wollongong](http://uow.edu.au/), Australia. There, I was hosted by [Willy Susilo](https://scholars.uow.edu.au/willy-susilo) and had the fortune to study with the [Institute of Cybersecurity and Cryptology (iC$^2$)](https://www.uow.edu.au/engineering-information-sciences/research/institute-cybersecurity-cryptology/) led by him.
 <br>
 Before (Sep 2016 - Jun 2020), I earned my B.S. in Mathematics from Wuhan University, where I continued with my Ph.D. studies.
 
