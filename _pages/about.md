@@ -49,7 +49,7 @@ Here are the publications that I am the main contributor (also, as First Author 
 
 - [WBYZWH24][LaRRS: Lattice-Based Revocable Ring Signature and its application for VANETs](https://ieeexplore.ieee.org/document/10219003)
   <br> **Jiaming Wen**, Lu Bai, Zhichao Yang, Huanguo Zhang, Houzhen Wang, and Debiao He
-  <br> *IEEE Transactions on Vehicular Technology (T-VT) 2024* [[Journal](https://vtsociety.org/publication/ieee-transactions-vehicular-technology), JCR Q1, 中科院2区, [Code by Lu](https://github.com/jiamiwen/LaRRS)]
+  <br> *IEEE Transactions on Vehicular Technology (T-VT) 2024* [[Journal](https://vtsociety.org/publication/ieee-transactions-vehicular-technology), JCR Q1, 中科院2区, [Code](https://github.com/jiamiwen/LaRRS)]
 
 - [W24][Analysis and Improvement of a Conditional Privacy-Preserving Authentication Scheme with Double-Insurance in VANETs](https://ieeexplore.ieee.org/document/10592652)
   <br> **Jiaming Wen**, Lu Bai, Houzhen Wang, Jinhui Liu, Yahui Wang, and Huanguo Zhang
@@ -65,7 +65,7 @@ Here are the publications that I am the main contributor (also, as First Author 
 
 - [WDWWZ25][Olithium: A Lattice-Based Online/Offline Signature Scheme without Trapdoors](http://cjc.ict.ac.cn/online/onlinepaper/whz-2025424155959.pdf) (in Chinese)
   <br> Houzhen Wang, Xiaochao Duan, **Jiaming Wen**✉️, Yahui Wang, and Huanguo Zhang (Supervision & Corresponding Author)
-  <br> *Chinese Journal of Computers (计算机学报) 2025* [[Journal](http://cjc.ict.ac.cn/), [Chinese CCF-T1](https://www.ccf.org.cn/ccftjgjxskwml/), [Code by Xiaochao](https://github.com/jiamiwen/Olithium)]
+  <br> *Chinese Journal of Computers (计算机学报) 2025* [[Journal](http://cjc.ict.ac.cn/), [Chinese CCF-T1](https://www.ccf.org.cn/ccftjgjxskwml/), [Code](https://github.com/jiamiwen/Olithium)]
   
   
 ## Key Exchange and Group Key Distribution
