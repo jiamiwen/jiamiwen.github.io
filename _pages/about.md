@@ -29,7 +29,7 @@ Before (Sep 2016 - Jun 2020), I earned my B.S. in Mathematics from Wuhan Univers
 
 My research focuses on cryptography and cyber security, to be more specific:
 - Recently, my passion lies in signatures and zero-knowledge proofs, as well as their applications.
-- In the long term, I hope using technologies to build trust among individuals, which I consider to be the most subtle and elegant aspect of cryptography.
+- In the long term, I hope to use technologies to build trust among individuals, which I regard as the most subtle and elegant aspect of cryptography.
 
 I can be reached via [wenjm at whu.edu.cn](mailto:wenjm@whu.edu.cn) or [cryptowjm at 163.com](mailto:cryptowjm@163.com), if questions or we share common tastes.
 
