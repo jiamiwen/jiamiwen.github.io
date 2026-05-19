@@ -35,8 +35,8 @@ author_profile: false
       <a href="https://scholars.uow.edu.au/willy-susilo">Willy Susilo</a>
       and had the fortune to study with the
       <a href="https://www.uow.edu.au/engineering-information-sciences/research/institute-cybersecurity-cryptology/">
-        Institute of Cybersecurity and Cryptology (iC²) led by him
-      </a>.
+        Institute of Cybersecurity and Cryptology (iC²)
+      </a> led by him.
     </li>
 
     <li style="margin-bottom:0.5em;">
