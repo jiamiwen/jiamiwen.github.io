@@ -25,7 +25,7 @@ author_profile: false
     <li style="margin-bottom:0.5em;">
       (Jun 2025 - Aug 2025), I served as an algorithm engineer intern at
       <a href="https://www.antgroup.com/">Ant Group</a>, Hangzhou,
-      affiliated with <a href="https://www.misuan.com/">Misuan</a>.
+      working with <a href="https://www.misuan.com/">Misuan</a>.
     </li>
 
     <li style="margin-bottom:0.5em;">
