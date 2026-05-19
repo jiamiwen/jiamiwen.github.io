@@ -3,9 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: false
-redirect_from: 
-  - /about/
-  - /about.html
+classes: wide
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
