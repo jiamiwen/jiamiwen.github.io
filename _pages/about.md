@@ -1,4 +1,4 @@
----
+<img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/3464b002-cf6b-408e-9aed-87b5612c69ae" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -11,19 +11,6 @@ author_profile: false
   
   <!-- 左侧 -->
   <div style="flex:1;">
-    <h1 style="margin-bottom:0.3em; font-size:2.2em;">Jiaming Wen 文嘉明</h1>
-    
-    <p style="margin:0.3em 0; font-size:1.2em;">Wuhan University</p>
-    <p style="margin:0.3em 0 1em 0; font-weight:bold; font-size:1.1em;">Ph.D. in Cyber Security</p>
-    
-    <!-- 联系方式 -->
-    <p style="margin-bottom:1.5em; font-size:1em;">
-      <a href="mailto:wenjm@whu.edu.cn">wenjm@whu.edu.cn</a> &nbsp;&nbsp;
-      <a href="mailto:cryptowjm@163.com">cryptowjm@163.com</a> &nbsp;&nbsp;
-      <a href="https://orcid.org/0000-0002-0251-7105">ORCID</a> &nbsp;&nbsp;
-      <a href="https://scholar.google.com/citations?user=IoWa4fYAAAAJ">Google Scholar</a> &nbsp;&nbsp;
-      <a href="https://dblp.uni-trier.de/pid/324/5245-1.html">DBLP</a>
-    </p>
 
     <!-- 简介 -->
     <p>In Dec 2025, I concluded my Ph.D. in Cyber Security at <a href="https://whu.edu.cn/">Wuhan University</a>, grateful to have <a href="https://mp.weixin.qq.com/s/4kCLRNMGecIvbeKZmOR_RQ">Huanguo Zhang</a> as my supervisor.</p>
@@ -47,10 +34,7 @@ author_profile: false
 </div>
 
 # 📜 Publications
-Here are the publications that I am the main contributor (also, as First Author or Corresponding Author). For other works, please refer to the links on the left panel of this page.
-
-[//]: # (# [Google Scholar](https://scholar.google.com/citations?user=IoWa4fYAAAAJ) and [DBLP](https://dblp.uni-trier.de/pid/324/5245-1.html).)
-
+Here are the publications that I am the main contributor (also, as First Author or Corresponding Author). For other works, please refer to [Google Scholar](https://scholar.google.com/citations?user=IoWa4fYAAAAJ) and [DBLP](https://dblp.uni-trier.de/pid/324/5245-1.html).
 
 - [WWQW26][ChatKID: Identity-Based Group Key Distribution Protocol for Instant Messaging](https://ieeexplore.ieee.org/document/11316825) (follow-up work of [WWLZ23_KE])
   <br> Houzhen Wang, Jiayimei Wang, Wanying Qin, and **Jiaming Wen**✉️ (Supervision & Corresponding Author)
