@@ -39,7 +39,7 @@ author_profile: false
     </li>
 
     <li style="margin-bottom:0.5em;">
-      (Sep 2016 - Jun 2020) I earned my B.S. in Mathematics from Wuhan University, and continued with my graduate studies there in Sep 2020.
+      (Sep 2016 - Jun 2020) I earned my B.Sc. in Mathematics from Wuhan University, and continued with my graduate studies there in Sep 2020.
     </li>
   </ul>
 
