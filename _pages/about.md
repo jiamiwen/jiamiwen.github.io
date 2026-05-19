@@ -44,7 +44,7 @@ author_profile: false
   </ul>
 
   <p style="margin-top:1em;">
-    My research focuses on cryptography and privacy-preserving technologies.
+    My research focuses on information security, cryptography and privacy-preserving technologies.
     I can be reached via
     <a href="mailto:wenjm@whu.edu.cn">wenjm at whu.edu.cn</a>
     or
