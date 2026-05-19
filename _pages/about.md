@@ -3,7 +3,6 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: false
-classes: wide
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
