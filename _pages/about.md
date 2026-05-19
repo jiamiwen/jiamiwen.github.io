@@ -50,7 +50,9 @@ author_profile: false
     I can be reached via
     <a href="mailto:wenjm@whu.edu.cn">wenjm at whu.edu.cn</a>
     or
-    <a href="mailto:cryptowjm@163.com">cryptowjm at 163.com</a>.
+    <a href="mailto:cryptowjm@163.com">cryptowjm at 163.com</a>, 
+    if questions or we share common tastes.
+
   </p>
 
   </div>
