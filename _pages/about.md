@@ -10,7 +10,7 @@ author_profile: false
 <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:2em; margin-bottom:2em;">
   
   <!-- 左侧 -->
-  <div style="flex:1;">
+  <div style="flex:0 0 68%;">
 
     <!-- 简介 -->
     <p>In Dec 2025, I concluded my Ph.D. in Cyber Security at <a href="https://whu.edu.cn/">Wuhan University</a>, grateful to have <a href="https://mp.weixin.qq.com/s/4kCLRNMGecIvbeKZmOR_RQ">Huanguo Zhang</a> as my supervisor.</p>
@@ -27,10 +27,12 @@ author_profile: false
   </div>
 
   <!-- 右侧照片 -->
-  <div style="flex-shrink:0;">
-    <img src="/images/jiaming-sentosa.jpg" style="width:220px; border-radius:6px; box-shadow:2px 2px 8px rgba(0,0,0,0.15);">
+  <div style="flex:0 0 32%; text-align:center;">
+    <img src="/images/jiaming-sentosa.jpg"
+         style="width:100%; max-width:280px;
+         border-radius:6px;
+         box-shadow:2px 2px 8px rgba(0,0,0,0.15);">
   </div>
-
 </div>
 
 # 📜 Publications
