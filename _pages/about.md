@@ -23,13 +23,13 @@ author_profile: false
 
   <ul style="list-style-type:disc; padding-left:20px; margin:0;">
     <li style="margin-bottom:0.5em;">
-      Before (Jun 2025 - Aug 2025), I worked as an algorithm engineer intern at
+      (Jun 2025 - Aug 2025), I worked as an algorithm engineer intern at
       <a href="https://www.antgroup.com/">Ant Group</a>,
       affiliated with <a href="https://www.misuan.com/">Misuan</a>.
     </li>
 
     <li style="margin-bottom:0.5em;">
-      Before (Dec 2023 - Mar 2025), I was a CSC Visiting Ph.D. student at the
+      (Dec 2023 - Mar 2025), I was a CSC Visiting Ph.D. student at the
       <a href="http://uow.edu.au/">University of Wollongong</a>, Australia.
       There, I was hosted by
       <a href="https://scholars.uow.edu.au/willy-susilo">Willy Susilo</a>
@@ -39,7 +39,7 @@ author_profile: false
     </li>
 
     <li style="margin-bottom:0.5em;">
-      Before (Sep 2016 - Jun 2020), I earned my B.S. in Mathematics from Wuhan University, where I continued with my graduate studies.
+      (Sep 2016 - Jun 2020), I earned my B.S. in Mathematics from Wuhan University, where I continued with my graduate studies in Sep 2020.
     </li>
   </ul>
 
