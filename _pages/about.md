@@ -34,14 +34,12 @@ author_profile: false
       There, I was hosted by
       <a href="https://scholars.uow.edu.au/willy-susilo">Willy Susilo</a>
       and had the fortune to study with the
-      <a href="https://www.uow.edu.au/engineering-information-sciences/research/institute-cybersecurity-cryptology/">
-        Institute of Cybersecurity and Cryptology (iC²)
+      <a href="https://www.uow.edu.au/engineering-information-sciences/research/institute-cybersecurity-cryptology/"> Institute of Cybersecurity and Cryptology (iC²)
       </a> led by him.
     </li>
 
     <li style="margin-bottom:0.5em;">
-      Before (Sep 2016 - Jun 2020), I earned my B.S. in Mathematics from Wuhan University,
-      where I continued with my graduate studies.
+      Before (Sep 2016 - Jun 2020), I earned my B.S. in Mathematics from Wuhan University, where I continued with my graduate studies.
     </li>
   </ul>
 
