@@ -24,9 +24,10 @@ author_profile: false
   </div>
 
   <!-- 右侧照片 -->
-  <div style="flex:0 0 35%; text-align:center;">
+  <div style="flex:0 0 30%; display:flex; justify-content:center; align-items:flex-start;">
     <img src="/images/jiaming-sentosa.jpg"
-         style="width:100%;
+       style="width:220px;
+              height:auto;
               border-radius:6px;
               box-shadow:2px 2px 8px rgba(0,0,0,0.15);">
   </div>
