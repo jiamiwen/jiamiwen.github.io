@@ -15,9 +15,9 @@ author_profile: false
     <!-- 简介 -->
     <p>In Dec 2025, I concluded my Ph.D. in Cyber Security at <a href="https://whu.edu.cn/">Wuhan University</a>, grateful to have <a href="https://mp.weixin.qq.com/s/4kCLRNMGecIvbeKZmOR_RQ">Huanguo Zhang</a> as my supervisor.</p>
 
-    <p>Before (Jun 2025 - Aug 2025), I worked as an algorithm engineer intern at <a href="https://www.antgroup.com/">Ant Group</a>, affiliated with <a href="https://www.misuan.com/">Misuan</a>.<br>
-    Before (Dec 2023 - Mar 2025), I was a CSC Visiting Ph.D. student at the <a href="http://uow.edu.au/">University of Wollongong</a>, Australia. There, I was hosted by <a href="https://scholars.uow.edu.au/willy-susilo">Willy Susilo</a> and had the fortune to study with the <a href="https://www.uow.edu.au/engineering-information-sciences/research/institute-cybersecurity-cryptology/">Institute of Cybersecurity and Cryptology (iC²)</a> led by him.<br>
-    Before (Sep 2016 - Jun 2020), I earned my B.S. in Mathematics from Wuhan University, where I continued with graduate studies.</p>
+    - Before (Jun 2025 - Aug 2025), I worked as an algorithm engineer intern at <a href="https://www.antgroup.com/">Ant Group</a>, affiliated with <a href="https://www.misuan.com/">Misuan</a>.
+    - Before (Dec 2023 - Mar 2025), I was a CSC Visiting Ph.D. student at the <a href="http://uow.edu.au/">University of Wollongong</a>, Australia. There, I was hosted by <a href="https://scholars.uow.edu.au/willy-susilo">Willy Susilo</a> and had the fortune to study with the <a href="https://www.uow.edu.au/engineering-information-sciences/research/institute-cybersecurity-cryptology/">Institute of Cybersecurity and Cryptology (iC²)</a> led by him.
+    - Before (Sep 2016 - Jun 2020), I earned my B.S. in Mathematics from Wuhan University, where I continued with graduate studies.
 
     <p>My research focuses on cryptography and cyber security. I can be reached via <a href="mailto:wenjm@whu.edu.cn">wenjm at whu.edu.cn</a> or <a href="mailto:cryptowjm@163.com">cryptowjm at 163.com</a>, if questions or we share common tastes.</p>
   
