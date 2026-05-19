@@ -7,6 +7,7 @@
 
 # Site Settings
 title                    : "Jiaming Wen"
+masthead_title           : "Jiaming Wen 文嘉明"
 description              : "<center>Ph.D. at Wuhan University</center>"
 repository               : "https://jiamiwen.github.io/"
 google_scholar_stats_use_cdn : true
