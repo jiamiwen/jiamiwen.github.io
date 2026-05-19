@@ -5,30 +5,46 @@ excerpt: ""
 author_profile: false
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-[//]: # (# 🥷🏃 About Me 📖 📝 📧 🖖)
+<div style="display:flex; justify-content:space-between; align-items:flex-start; gap:2em; margin-bottom:2em;">
+  
+  <!-- 左侧 -->
+  <div style="flex:1;">
+    <h1 style="margin-bottom:0.3em; font-size:2.2em;">Jiaming Wen 文嘉明</h1>
+    
+    <p style="margin:0.3em 0; font-size:1.2em;">Wuhan University</p>
+    <p style="margin:0.3em 0 1em 0; font-weight:bold; font-size:1.1em;">Ph.D. in Cyber Security</p>
+    
+    <!-- 联系方式 -->
+    <p style="margin-bottom:1.5em; font-size:1em;">
+      <a href="mailto:wenjm@whu.edu.cn">wenjm@whu.edu.cn</a> &nbsp;&nbsp;
+      <a href="mailto:cryptowjm@163.com">cryptowjm@163.com</a> &nbsp;&nbsp;
+      <a href="https://orcid.org/0000-0002-0251-7105">ORCID</a> &nbsp;&nbsp;
+      <a href="https://scholar.google.com/citations?user=IoWa4fYAAAAJ">Google Scholar</a> &nbsp;&nbsp;
+      <a href="https://dblp.uni-trier.de/pid/324/5245-1.html">DBLP</a>
+    </p>
 
-In Dec 2025, I concluded my Ph.D. in Cyber Security at [Wuhan University](https://whu.edu.cn/), grateful to have [Huanguo Zhang](https://mp.weixin.qq.com/s/4kCLRNMGecIvbeKZmOR_RQ) as my supervisor.
+    <!-- 简介 -->
+    <p>In Dec 2025, I concluded my Ph.D. in Cyber Security at <a href="https://whu.edu.cn/">Wuhan University</a>, grateful to have <a href="https://mp.weixin.qq.com/s/4kCLRNMGecIvbeKZmOR_RQ">Huanguo Zhang</a> as my supervisor.</p>
 
-Before (Jun 2025 - Aug 2025), I worked as an algorithm engineer intern at [Ant Group](https://www.antgroup.com/), affiliated with [Misuan](https://www.misuan.com/).
-<br>
-Before (Dec 2023 - Mar 2025), I was a CSC Visiting Ph.D. student at the [University of Wollongong](http://uow.edu.au/), Australia. There, I was hosted by [Willy Susilo](https://scholars.uow.edu.au/willy-susilo) and had the fortune to study with the [Institute of Cybersecurity and Cryptology (iC$^2$)](https://www.uow.edu.au/engineering-information-sciences/research/institute-cybersecurity-cryptology/) led by him.
-<br>
-Before (Sep 2016 - Jun 2020), I earned my B.S. in Mathematics from Wuhan University, where I continued with graduate studies.
+    <p>Before (Jun 2025 - Aug 2025), I worked as an algorithm engineer intern at <a href="https://www.antgroup.com/">Ant Group</a>, affiliated with <a href="https://www.misuan.com/">Misuan</a>.<br>
+    Before (Dec 2023 - Mar 2025), I was a CSC Visiting Ph.D. student at the <a href="http://uow.edu.au/">University of Wollongong</a>, Australia. There, I was hosted by <a href="https://scholars.uow.edu.au/willy-susilo">Willy Susilo</a> and had the fortune to study with the <a href="https://www.uow.edu.au/engineering-information-sciences/research/institute-cybersecurity-cryptology/">Institute of Cybersecurity and Cryptology (iC²)</a> led by him.<br>
+    Before (Sep 2016 - Jun 2020), I earned my B.S. in Mathematics from Wuhan University, where I continued with graduate studies.</p>
 
-My research focuses on cryptography and cyber security, to be more specific:
-- Recently, my passion lies in signatures and zero-knowledge proofs, as well as their applications.
-- In the long term, I hope to use technologies to build trust among individuals, which I regard as the most subtle and elegant aspect of cryptography.
+    <p>My research focuses on cryptography and cyber security, to be more specific:</p>
+    <ul>
+      <li>Recently, my passion lies in signatures and zero-knowledge proofs, as well as their applications.</li>
+      <li>In the long term, I hope to use technologies to build trust among individuals, which I regard as the most subtle and elegant aspect of cryptography.</li>
+    </ul>
+  </div>
 
-I can be reached via [wenjm at whu.edu.cn](mailto:wenjm@whu.edu.cn) or [cryptowjm at 163.com](mailto:cryptowjm@163.com), if questions or we share common tastes.
+  <!-- 右侧照片 -->
+  <div style="flex-shrink:0;">
+    <img src="/images/jiaming-sentosa.jpg" style="width:220px; border-radius:6px; box-shadow:2px 2px 8px rgba(0,0,0,0.15);">
+  </div>
+
+</div>
 
 # 📜 Publications
 Here are the publications that I am the main contributor (also, as First Author or Corresponding Author). For other works, please refer to the links on the left panel of this page.
