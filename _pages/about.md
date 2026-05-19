@@ -21,7 +21,6 @@ author_profile: false
     as my supervisor.
   </p>
 
-  <!-- 调整了 padding-left 并恢复了 disc 列表圆点 -->
   <ul style="list-style-type:disc; padding-left:20px; margin:0;">
     <li style="margin-bottom:0.5em;">
       Before (Jun 2025 - Aug 2025), I worked as an algorithm engineer intern at
