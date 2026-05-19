@@ -135,9 +135,5 @@ h1:before, .anchor:before {
 }
 
 a {
-  color: #2ecc71; // 绿色，可以换成你喜欢的绿色色值
-  
-  &:hover {
-    color: #27ae60; // 悬停时深一点的绿色
-  }
+  color: #27ae60; // 绿色，可以换成你喜欢的绿色色值
 }
