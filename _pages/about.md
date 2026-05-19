@@ -10,7 +10,7 @@ author_profile: false
 <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:2em; margin-bottom:2em;">
   
   <!-- 左侧 -->
-  <div style="flex:0 0 65%;">
+  <div style="flex:0 0 70%;">
 
   <!-- 简介 -->
   <p>
@@ -56,9 +56,9 @@ author_profile: false
   </div>
   
   <!-- 右侧照片 -->
-  <div style="flex:0 0 35%; text-align:center;">
+  <div style="flex:0 0 30%; text-align:center;">
     <img src="/images/jiaming-sentosa.jpg"
-       style="width:80%;
+       style="width:90%;
               height:auto;
               object-fit:cover;
               border-radius:6px;">
