@@ -19,11 +19,8 @@ author_profile: false
     Before (Dec 2023 - Mar 2025), I was a CSC Visiting Ph.D. student at the <a href="http://uow.edu.au/">University of Wollongong</a>, Australia. There, I was hosted by <a href="https://scholars.uow.edu.au/willy-susilo">Willy Susilo</a> and had the fortune to study with the <a href="https://www.uow.edu.au/engineering-information-sciences/research/institute-cybersecurity-cryptology/">Institute of Cybersecurity and Cryptology (iC²)</a> led by him.<br>
     Before (Sep 2016 - Jun 2020), I earned my B.S. in Mathematics from Wuhan University, where I continued with graduate studies.</p>
 
-    <p>My research focuses on cryptography and cyber security, to be more specific:</p>
-    <ul>
-      <li>Recently, my passion lies in signatures and zero-knowledge proofs, as well as their applications.</li>
-      <li>In the long term, I hope to use technologies to build trust among individuals, which I regard as the most subtle and elegant aspect of cryptography.</li>
-    </ul>
+    <p>My research focuses on cryptography and cyber security. I can be reached via [wenjm at whu.edu.cn](mailto:wenjm@whu.edu.cn) or [cryptowjm at 163.com](mailto:cryptowjm@163.com), if questions or we share common tastes.</p>
+  
   </div>
 
   <!-- 右侧照片 -->
