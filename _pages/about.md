@@ -12,49 +12,50 @@ author_profile: false
   <!-- 左侧 -->
   <div style="flex:0 0 65%;">
 
-    <!-- 简介 -->
-    <p>
-      In Dec 2025, I concluded my Ph.D. in Cyber Security at
-      <a href="https://whu.edu.cn/">Wuhan University</a>,
-      grateful to have
-      <a href="https://mp.weixin.qq.com/s/4kCLRNMGecIvbeKZmOR_RQ">Huanguo Zhang</a>
-      as my supervisor.
-    </p>
+  <!-- 简介 -->
+  <p>
+    In Dec 2025, I concluded my Ph.D. in Cyber Security at
+    <a href="https://whu.edu.cn/">Wuhan University</a>,
+    grateful to have
+    <a href="https://mp.weixin.qq.com/s/4kCLRNMGecIvbeKZmOR_RQ">Huanguo Zhang</a>
+    as my supervisor.
+  </p>
 
-    <ul style="list-style-type:none; padding-left:0; margin:0;">
-      <li style="margin-bottom:0.5em;">
-        Before (Jun 2025 - Aug 2025), I worked as an algorithm engineer intern at
-        <a href="https://www.antgroup.com/">Ant Group</a>,
-        affiliated with <a href="https://www.misuan.com/">Misuan</a>.
-      </li>
+  <!-- 调整了 padding-left 并恢复了 disc 列表圆点 -->
+  <ul style="list-style-type:disc; padding-left:20px; margin:0;">
+    <li style="margin-bottom:0.5em;">
+      Before (Jun 2025 - Aug 2025), I worked as an algorithm engineer intern at
+      <a href="https://www.antgroup.com/">Ant Group</a>,
+      affiliated with <a href="https://www.misuan.com/">Misuan</a>.
+    </li>
 
-      <li style="margin-bottom:0.5em;">
-        Before (Dec 2023 - Mar 2025), I was a CSC Visiting Ph.D. student at the
-        <a href="http://uow.edu.au/">University of Wollongong</a>, Australia.
-        There, I was hosted by
-        <a href="https://scholars.uow.edu.au/willy-susilo">Willy Susilo</a>
-        and had the fortune to study with the
-        <a href="https://www.uow.edu.au/engineering-information-sciences/research/institute-cybersecurity-cryptology/">
-          Institute of Cybersecurity and Cryptology (iC²)
-        </a>.
-      </li>
+    <li style="margin-bottom:0.5em;">
+      Before (Dec 2023 - Mar 2025), I was a CSC Visiting Ph.D. student at the
+      <a href="http://uow.edu.au/">University of Wollongong</a>, Australia.
+      There, I was hosted by
+      <a href="https://scholars.uow.edu.au/willy-susilo">Willy Susilo</a>
+      and had the fortune to study with the
+      <a href="https://www.uow.edu.au/engineering-information-sciences/research/institute-cybersecurity-cryptology/">
+        Institute of Cybersecurity and Cryptology (iC²)
+      </a>.
+    </li>
 
-      <li style="margin-bottom:0.5em;">
-        Before (Sep 2016 - Jun 2020), I earned my B.S. in Mathematics from Wuhan University,
-        where I continued with graduate studies.
-      </li>
-    </ul>
+    <li style="margin-bottom:0.5em;">
+      Before (Sep 2016 - Jun 2020), I earned my B.S. in Mathematics from Wuhan University,
+      where I continued with graduate studies.
+    </li>
+  </ul>
 
-    <p>
-      My research focuses on cryptography and cyber security.
-      I can be reached via
-      <a href="mailto:wenjm@whu.edu.cn">wenjm at whu.edu.cn</a>
-      or
-      <a href="mailto:cryptowjm@163.com">cryptowjm at 163.com</a>.
-    </p>
-  
+  <p style="margin-top:1em;">
+    My research focuses on cryptography and cyber security.
+    I can be reached via
+    <a href="mailto:wenjm@whu.edu.cn">wenjm at whu.edu.cn</a>
+    or
+    <a href="mailto:cryptowjm@163.com">cryptowjm at 163.com</a>.
+  </p>
+
   </div>
-
+  
   <!-- 右侧照片 -->
   <div style="flex:0 0 35%; text-align:center;">
     <img src="/images/jiaming-sentosa.jpg"
