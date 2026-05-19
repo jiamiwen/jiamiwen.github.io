@@ -5,8 +5,6 @@ excerpt: ""
 author_profile: true
 ---
 
-<span class='anchor' id='about-me'></span>
-
 [//]: # (# 🥷🏃 About Me 📖 📝 📧 🖖)
 
 In Dec 2025, I concluded my Ph.D. in Cyber Security at [Wuhan University](https://whu.edu.cn/), grateful to have [Huanguo Zhang](https://mp.weixin.qq.com/s/4kCLRNMGecIvbeKZmOR_RQ) as my supervisor.
