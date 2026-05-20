@@ -244,7 +244,7 @@ author_profile: false
   <h2>Serendipity</h2>
 
   <p>
-    My name starts with "jiami" (Chinese for "encrypt") and ends with "mingwen" (Chinese for "plaintext"). I remove "ng" from it to get "miwen" (Chinese for "ciphertext"), which I use as my username on various platforms such as <a href="https://jiamiwen.github.io/images/wechat.jpg">WeChat</a>, Twitter, and GitHub, as I believe it's more appropriate for public channels :)
+    My name starts with "jiami" (Chinese for "encrypt") and ends with "mingwen" (Chinese for "plaintext"). I remove from it to obtain "miwen" (Chinese for "ciphertext") for several usernames of mine, e.g., <a href="https://jiamiwen.github.io/images/wechat.jpg">wechat</a>, twitter, and gitHub, as I believe it is more suitable for spreading over the public channel :)
   </p>
 
   <h2>Some Useful Links</h2>
