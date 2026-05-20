@@ -36,12 +36,12 @@
           </li>
 
           <!-- 语言切换按钮：放在列表末尾，即最右侧 -->
-          <li class="masthead__menu-item masthead__menu-lang-switch">
-            {% if page.url contains '/zh/' %}
-              <a href="/about/" class="lang-link">English Version</a>
-            {% else %}
-              <a href="/zh/" class="lang-link">中文主页</a>
-            {% endif %}
+          <li class="masthead__menu-item--right">
+              {% if page.url contains '/zh/' %}
+                English Version
+              {% else %}
+                中文主页
+              {% endif %}
           </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
