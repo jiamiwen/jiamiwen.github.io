@@ -3,7 +3,6 @@ permalink: /zh/
 title: ""
 excerpt: ""
 author_profile: false
-layout: default
 ---
 
 <span class='anchor' id='about-me'></span>
