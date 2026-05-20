@@ -247,29 +247,39 @@ author_profile: false
 <script>
 function toggleLanguage() {
 
-  const enContent = document.getElementById('content-en');
-  const zhContent = document.getElementById('content-zh');
-  const langBtn = document.querySelector('.lang-switch');
+  const en = document.getElementById('content-en');
+  const zh = document.getElementById('content-zh');
 
-  if (enContent.style.display === 'none') {
+  if (!en || !zh) return;
 
-    enContent.style.display = 'block';
-    zhContent.style.display = 'none';
-    langBtn.textContent = '中文主页';
-
+  if (en.style.display === 'none') {
+    en.style.display = 'block';
+    zh.style.display = 'none';
   } else {
-
-    enContent.style.display = 'none';
-    zhContent.style.display = 'block';
-    langBtn.textContent = 'English Version';
-
+    en.style.display = 'none';
+    zh.style.display = 'block';
   }
 }
 </script>
 
+<script>
+document.addEventListener("DOMContentLoaded", function () {
 
+  document.querySelectorAll('.greedy-nav a, .masthead__menu a').forEach(link => {
 
+    if (link.textContent.trim() === "中文主页") {
 
+      link.addEventListener("click", function (e) {
+        e.preventDefault();
+        toggleLanguage();
+      });
+
+    }
+
+  });
+
+});
+</script>
 
 
 
