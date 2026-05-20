@@ -127,7 +127,6 @@ defaults:
       layout: default
       author_profile: false
 
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
