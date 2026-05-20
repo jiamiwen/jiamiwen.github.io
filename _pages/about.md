@@ -246,10 +246,11 @@ author_profile: false
   <h2>Serendipity</h2>
 
   <p>
-    My name starts with "jiami" (Chinese for "encrypt"),
-    and ends with "mingwen" (Chinese for "plaintext").
-    I remove "ng" from it to obtain "miwen"
-    (Chinese for "ciphertext") for several usernames of mine.
+    My name starts with "jiami" (Chinese for "encrypt"), and ends with "mingwen" (Chinese for "plaintext").
+  </p>
+
+  </p>
+    I remove "ng" from it to obtain "miwen" (Chinese for "ciphertext") for several usernames of mine.
   </p>
 
   <h2>Some Useful Links</h2>
