@@ -4,23 +4,85 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Jiaming Wen 文嘉明</a></li>
-          {% for link in site.data.navigation.main %}
-            {% unless link.title == "中文主页" or link.title == "English Version" %}
-              [{{ link.title }}]({{ domain }}{{ link.url }})
-            {% endunless %}
-          {% endfor %}
-          {% if page.lang == 'zh' %}
-          [English Version](/en/)
-          {% else %}
-          [中文主页](/zh/)
-          {% endif %}
+          <!-- 固定首页：不随语言变化 -->
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
+            <a href="#about-me">Jiaming Wen 文嘉明</a>
+          </li>
+
+          <!-- 中间三项：硬编码，通过JS切换文本 -->
+          <li class="masthead__menu-item">
+            <a href="#-publications" class="nav-text" data-en="Publications" data-zh="发表成果">
+              <span class="text-span">Publications</span>
+            </a>
+          </li>
+          <li class="masthead__menu-item">
+            <a href="#-services" class="nav-text" data-en="Services" data-zh="服务">
+              <span class="text-span">Services</span>
+            </a>
+          </li>
+          <li class="masthead__menu-item">
+            <a href="#-misc" class="nav-text" data-en="Misc" data-zh="杂项">
+              <span class="text-span">Misc</span>
+            </a>
+          </li>
+
+          <!-- 语言切换按钮 -->
+          <li class="masthead__menu-item masthead__menu-lang-switch">
+            <a href="javascript:toggleLanguage()" class="lang-link">中文主页</a>
+          </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
-        
-        <!-- 右侧的中文主页链接 -->
-        <a href="javascript:void(0)" onclick="toggleLanguage()" class="lang-switch">中文主页</a>
       </nav>
     </div>
   </div>
 </div>
+
+<script>
+// 原有的 toggleLanguage 函数保持不变
+function toggleLanguage() {
+  const en = document.getElementById('content-en');
+  const zh = document.getElementById('content-zh');
+
+  if (!en || !zh) return;
+
+  if (en.style.display === 'none') {
+    en.style.display = 'block';
+    zh.style.display = 'none';
+    // 切换导航文本为英文
+    updateNavText('en');
+    // 更新语言按钮文本
+    document.querySelector('.masthead__menu-lang-switch a').textContent = '中文主页';
+  } else {
+    en.style.display = 'none';
+    zh.style.display = 'block';
+    // 切换导航文本为中文
+    updateNavText('zh');
+    // 更新语言按钮文本
+    document.querySelector('.masthead__menu-lang-switch a').textContent = 'English Version';
+  }
+}
+
+// 新增函数：更新导航栏文本
+function updateNavText(lang) {
+  const navLinks = document.querySelectorAll('.nav-text .text-span');
+  navLinks.forEach(link => {
+    const enText = link.parentElement.getAttribute('data-en');
+    const zhText = link.parentElement.getAttribute('data-zh');
+    if (lang === 'zh' && zhText) {
+      link.textContent = zhText;
+    } else {
+      link.textContent = enText || '';
+    }
+  });
+}
+
+// 页面加载时，如果中文内容是显示状态，则初始化导航文本为中文
+document.addEventListener("DOMContentLoaded", function () {
+  const zhContent = document.getElementById('content-zh');
+  if (zhContent && zhContent.style.display !== 'none') {
+    updateNavText('zh');
+    document.querySelector('.masthead__menu-lang-switch a').textContent = 'English Version';
+  }
+  // 否则保持默认英文状态，无需额外操作
+});
+</script>
