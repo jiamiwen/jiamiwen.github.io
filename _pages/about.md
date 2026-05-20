@@ -252,33 +252,23 @@ author_profile: false
   <ul style="padding-left:20px; line-height:1.8;">
 
     <li>
-      <a href="https://eprint.iacr.org/">
-        IACR ePrint Archive
-      </a>, a mysterious website suggested visiting every day.
+      <a href="https://eprint.iacr.org/">IACR ePrint Archive</a>, a mysterious website suggested visiting every day.
     </li>
 
     <li>
-      <a href="https://thelatticeclub.com/">
-        The Lattice Club
-      </a>, including so many resources about Lattice-based Cryptography.
+      <a href="https://thelatticeclub.com/">The Lattice Club</a>, including so many resources about Lattice-based Cryptography.
     </li>
 
     <li>
-      <a href="https://pqshield.github.io/nist-sigs-zoo/">
-        Post-Quantum Signatures Zoo
-      </a>, including an overview of Post-Quantum Signatures.
+      <a href="https://pqshield.github.io/nist-sigs-zoo/">Post-Quantum Signatures Zoo</a>, including an overview of Post-Quantum Signatures.
     </li>
 
     <li>
-      <a href="https://homepage.iis.sinica.edu.tw/~kmchung/">
-        Kai-Min Chung's Homepage
-      </a>, including high-quality theoretical cryptography courses in Chinese.
+      <a href="https://homepage.iis.sinica.edu.tw/~kmchung/">Kai-Min Chung's Homepage</a>, including high-quality theoretical cryptography courses in Chinese.
     </li>
 
     <li>
-      <a href="https://documents.uow.edu.au/~fuchun/">
-        Fuchun Guo's Homepage
-      </a>, including valuable materials for cryptography studies (temporarily on an interstellar trip).
+      <a href="https://documents.uow.edu.au/~fuchun/">Fuchun Guo's Homepage</a>, including valuable materials for cryptography studies (temporarily on an interstellar trip).
     </li>
 
   </ul>
