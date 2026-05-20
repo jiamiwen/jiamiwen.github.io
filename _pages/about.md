@@ -229,12 +229,12 @@ author_profile: false
   <ul style="padding-left:20px; line-height:1.8;">
     <li>
       <strong>Journals:</strong>
-      IEEE T-IT, IEEE T-DSC, IEEE T-VT, IEEE IoT-J, JISA, etc.
+      <em>IEEE Transactions on Information Theory (T-IT)</em>, <em>IEEE Transactions on Dependable and Secure Computing (T-DSC)</em>, <em>IEEE Transactions on Vehicular Technology (T-VT)</em>, <em>IEEE Internet of Things Journal (IoT-J)</em>, <em>Journal of Information Security and Applications (JISA)<em>, etc.
     </li>
 
     <li>
       <strong>Conferences:</strong>
-      ICISC 2024, Inscrypt 2023, etc.
+      <em>ICISC 2024<em>, <em>Inscrypt 2023<em>, etc.
     </li>
   </ul>
 
