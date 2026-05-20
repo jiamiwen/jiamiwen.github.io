@@ -13,7 +13,7 @@ author_profile: false
   <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:2em; margin-bottom:2em; flex-wrap:wrap;">
 
     <!-- Left -->
-    <div style="flex:0 0 68%; min-width:300px;">
+    <div style="flex:0 0 70%; min-width:300px;">
 
       <p>
         In Dec 2025, I concluded my Ph.D. in Cyber Security at
