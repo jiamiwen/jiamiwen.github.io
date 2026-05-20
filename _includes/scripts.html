@@ -21,17 +21,19 @@ function toggleLanguage() {
 
 document.addEventListener("DOMContentLoaded", function () {
 
-  document.querySelectorAll('a[href="#"]').forEach(link => {
+  // ⭐ 只找导航栏里的“中文主页”
+  document.querySelectorAll('.masthead__menu a').forEach(link => {
 
-    link.addEventListener('click', function (e) {
+    if (link.textContent.trim() === "中文主页") {
 
-      const text = link.textContent.trim();
+      link.addEventListener('click', function (e) {
+        e.preventDefault();   // ❗阻止跳转
+        toggleLanguage();     // ✔ 切换语言
+      });
 
-      if (text === "中文主页") {
-        e.preventDefault();
-        toggleLanguage();
-      }
-
-    });
+    }
 
   });
+
+});
+</script>
