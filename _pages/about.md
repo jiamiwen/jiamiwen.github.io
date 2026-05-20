@@ -97,7 +97,7 @@ author_profile: false
   Houzhen Wang, Jiayimei Wang, Wanying Qin, and <strong>Jiaming Wen</strong>✉️ (Supervision & Corresponding Author)
   <br>
   <em>IEEE Transactions on Dependable and Secure Computing (T-DSC) 2026</em>
-  [[Journal](https://www.computer.org/csdl/journal/tq), JCR Q1, <a href="https://www.ccf.org.cn/Academic_Evaluation/NIS/">CCF-A</a>]
+  [<a href="https://www.computer.org/csdl/journal/tq">Journal</a>, JCR Q1, <a href="https://www.ccf.org.cn/Academic_Evaluation/NIS/">CCF-A</a>]
 </li>
 
 <li>
@@ -110,7 +110,7 @@ author_profile: false
   Houzhen Wang, Xiaochao Duan, <strong>Jiaming Wen</strong>✉️, Yahui Wang, and Huanguo Zhang (Supervision & Corresponding Author)
   <br>
   <em>Chinese Journal of Computers (计算机学报) 2025</em>
-  [[Journal](http://cjc.ict.ac.cn/), <a href="https://www.ccf.org.cn/ccftjgjxskwml/">Chinese CCF-T1</a>, <a href="https://github.com/jiamiwen/Olithium">Code</a>]
+  [<a href="http://cjc.ict.ac.cn/">Journal</a>, <a href="https://www.ccf.org.cn/ccftjgjxskwml/">Chinese CCF-T1</a>, <a href="https://github.com/jiamiwen/Olithium">Code</a>]
 </li>
 
 <li>
@@ -123,7 +123,7 @@ author_profile: false
   <strong>Jiaming Wen</strong>, Willy Susilo, Rupeng Yang, Zuoxia Yu, and Huanguo Zhang
   <br>
   <em>Computer Standards & Interfaces (CSI) 2025</em>
-  [[Journal](https://www.sciencedirect.com/journal/computer-standards-and-interfaces), JCR Q1, 中科院2区]
+  [<a href="https://www.sciencedirect.com/journal/computer-standards-and-interfaces">Journal</a>, JCR Q1, 中科院2区]
 </li>
 
 <li>
@@ -135,7 +135,7 @@ author_profile: false
   <strong>Jiaming Wen</strong>, Lu Bai, Zhichao Yang, Huanguo Zhang, Houzhen Wang, and Debiao He
   <br>
   <em>IEEE Transactions on Vehicular Technology (T-VT) 2024</em>
-  [[Journal](https://vtsociety.org/publication/ieee-transactions-vehicular-technology), JCR Q1, 中科院2区, <a href="https://github.com/jiamiwen/LaRRS">Code</a>]
+  [<a href="https://vtsociety.org/publication/ieee-transactions-vehicular-technology">Journal</a>, JCR Q1, 中科院2区, <a href="https://github.com/jiamiwen/LaRRS">Code</a>]
 </li>
 
 <li>
@@ -147,7 +147,7 @@ author_profile: false
   <strong>Jiaming Wen</strong>, Lu Bai, Houzhen Wang, Jinhui Liu, Yahui Wang, and Huanguo Zhang
   <br>
   <em>IEEE Transactions on Vehicular Technology (T-VT) 2024</em>
-  [[Journal](https://vtsociety.org/publication/ieee-transactions-vehicular-technology), JCR Q1, 中科院2区]
+  [<a href="https://vtsociety.org/publication/ieee-transactions-vehicular-technology">Journal</a>, JCR Q1, 中科院2区]
 </li>
 
 <li>
@@ -159,7 +159,7 @@ author_profile: false
   <strong>Jiaming Wen</strong>, Willy Susilo, Yanhua Zhang, Fuchun Guo, and Huanguo Zhang
   <br>
   <em>ICISC 2024</em>
-  [[Conference](http://www.icisc.org/), <a href="https://www.cacrnet.org.cn/site/content/1290.html">CACR-C</a>, <a href="https://jiamiwen.github.io/documents/WSZGZ24.pdf">Full Version</a>, <a href="https://jiamiwen.github.io/documents/DVRS-slides.pdf">Slides</a>]
+  [<a href="http://www.icisc.org/">Conference</a>, <a href="https://www.cacrnet.org.cn/site/content/1290.html">CACR-C</a>, <a href="https://jiamiwen.github.io/documents/WSZGZ24.pdf">Full Version</a>, <a href="https://jiamiwen.github.io/documents/DVRS-slides.pdf">Slides</a>]
 </li>
 
 <li>
@@ -171,7 +171,7 @@ author_profile: false
   <strong>Jiaming Wen</strong>, Houzhen Wang, and Huanguo Zhang
   <br>
   <em>ProvSec 2023</em>
-  [[Conference](https://provsec2023.github.io/ProvSec2023/#), <a href="https://www.cacrnet.org.cn/site/content/1290.html">CACR-C</a>, <a href="https://jiamiwen.github.io/documents/lrmc-slides.pdf">Slides</a>]
+  [<a href="https://provsec2023.github.io/ProvSec2023/#">Conference</a>, <a href="https://www.cacrnet.org.cn/site/content/1290.html">CACR-C</a>, <a href="https://jiamiwen.github.io/documents/lrmc-slides.pdf">Slides</a>]
 </li>
 
 <li>
@@ -183,7 +183,7 @@ author_profile: false
   Houzhen Wang, <strong>Jiaming Wen</strong>✉️, Jinhui Liu, and Huanguo Zhang (First Author is my co-advisor & Corresponding Author)
   <br>
   <em>IEEE Internet of Things Journal (IoT-J) 2023</em>
-  [[Journal](https://ieee-iotj.org/), JCR Q1, 中科院1区]
+  [<a href="https://ieee-iotj.org/">Journal</a>, JCR Q1, 中科院1区]
 </li>
 
 <li>
@@ -196,7 +196,7 @@ author_profile: false
   <strong>Jiaming Wen</strong>, Houzhen Wang, Jinhui Liu, and Huanguo Zhang
   <br>
   <em>Journal of Computer Research and Development (计算机研究与发展) 2023</em>
-  [[Journal](https://crad.ict.ac.cn/), <a href="https://www.ccf.org.cn/ccftjgjxskwml/">Chinese CCF-T1</a>]
+  [<a href="https://crad.ict.ac.cn/">Journal</a>, <a href="https://www.ccf.org.cn/ccftjgjxskwml/">Chinese CCF-T1</a>]
 </li>
 
   </ul>
