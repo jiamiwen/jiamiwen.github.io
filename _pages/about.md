@@ -64,7 +64,7 @@ author_profile: false
     </div>
 
     <!-- Right Photo -->
-    <div style="flex:0 0 27%; text-align:center;">
+    <div style="flex:0 0 26%; text-align:center;">
       <img src="/images/jiaming-sentosa.jpg"
          style="width:100%; height:auto; border-radius:8px;">
     </div>
