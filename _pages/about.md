@@ -247,7 +247,7 @@ author_profile: false
     My name starts with "jiami" (Chinese for "encrypt"), and ends with "mingwen" (Chinese for "plaintext").
   </p>
 
-  </p>
+  <p>
     I remove "ng" from it to obtain "miwen" (Chinese for "ciphertext") for several usernames of mine.
   </p>
 
