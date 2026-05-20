@@ -138,19 +138,39 @@ a {
   color: #117a65; // 绿色，可以换成其他色值
 }
 
+.lang-switch {
+  position: relative;
+  margin-left: auto;
+  padding: 0.5rem 1rem;
+  color: #7a8288 !important;
+  text-decoration: none;
+  font-weight: bold;
+  white-space: nowrap;
+  
+  &:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 4px;
+    background: mix(#fff, #7a8288, 50%);
+    width: 100%;
+    transition: all 0.2s ease-in-out;
+    transform: scaleX(0);
+  }
+  
+  &:hover {
+    color: #224b8d !important;
+    
+    &:before {
+      transform: scaleX(1);
+    }
+  }
+}
+
 .greedy-nav {
   display: flex;
   align-items: center;
-}
-
-.lang-switch {
-  margin-left: auto;
-  padding: 0.5rem 1rem;
-  color: #7a8288;
-  text-decoration: none;
-  font-weight: bold;
-  
-  &:hover {
-    color: #224b8d;
-  }
+  justify-content: space-between;
+  width: 100%;
 }
