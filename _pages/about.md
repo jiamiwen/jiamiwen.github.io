@@ -52,9 +52,7 @@ author_profile: false
 
       <p>
         My research interests lie in information security, cryptography,
-        and privacy-preserving technologies.
-        <br><br>
-        I can be reached via
+        and privacy-preserving technologies. I can be reached via
         <a href="mailto:wenjm@whu.edu.cn">wenjm at whu.edu.cn</a>
         or
         <a href="mailto:cryptowjm@163.com">cryptowjm at 163.com</a>,
