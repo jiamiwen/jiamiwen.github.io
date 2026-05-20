@@ -13,7 +13,7 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <!-- 左侧固定菜单项 -->
+          <!-- 固定首页：不随语言变化 -->
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
             <a href="#about-me">Jiaming Wen 文嘉明</a>
           </li>
@@ -35,8 +35,8 @@
             </a>
           </li>
 
-          <!-- 语言切换按钮：放在列表末尾，推到最右侧 -->
-          <li class="masthead__menu-item masthead__menu-lang-switch">
+          <!-- 语言切换按钮：放在列表末尾，即最右侧 -->
+          <li class="masthead__menu-item--right masthead__menu-lang-switch">
               {% if page.url contains '/zh/' %}
                 <a href="{{ site.baseurl }}/">English Version</a>
               {% else %}
@@ -49,28 +49,6 @@
     </div>
   </div>
 </div>
-
-<!-- 修复版内联样式 -->
-<style>
-  /* 让导航菜单使用 Flex 布局，保证整齐排列 */
-  .greedy-nav .visible-links {
-    display: flex;
-    align-items: center; /* 垂直居中对齐 */
-    width: 100%;         /* 核心：让导航菜单占满整行宽度 */
-  }
-
-  /* 核心代码：将中文主页按钮强制推到最右边 */
-  .masthead__menu-lang-switch {
-    margin-left: auto !important; /* 自动占据左侧所有剩余空间 */
-  }
-
-  /* 调整按钮内边距，让视觉效果更整齐 */
-  .masthead__menu-item a {
-    padding: 10px 15px;
-    display: block;
-    line-height: 1;
-  }
-</style>
 
 <script>
 // 这个函数专门用于更新导航栏文本
