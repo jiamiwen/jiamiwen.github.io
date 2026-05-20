@@ -88,12 +88,13 @@ author_profile: false
   <ul style="padding-left:20px; line-height:1.8;">
 
     <li>
+      [WWQW26]
       <a href="https://ieeexplore.ieee.org/document/11316825">
         ChatKID: Identity-Based Group Key Distribution Protocol for Instant Messaging
       </a>
-      (follow-up work of WWLZ23_KE)
+      (follow-up work of [WWLZ23_KE])
       <br>
-      Houzhen Wang, Jiayimei Wang, Wanying Qin, and <strong>Jiaming Wen</strong>✉️
+      Houzhen Wang, Jiayimei Wang, Wanying Qin, and <strong>Jiaming Wen</strong>✉️ (Supervision & Corresponding Author)
       <br>
       <em>IEEE Transactions on Dependable and Secure Computing (T-DSC) 2026</em>
     </li>
