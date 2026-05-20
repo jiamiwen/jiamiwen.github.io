@@ -56,12 +56,12 @@
   .greedy-nav .visible-links {
     display: flex;
     align-items: center; /* 垂直居中对齐 */
-    /* 去掉了 width: 100% 防止布局被撑爆 */
+    width: 100%;         /* 核心：让导航菜单占满整行宽度 */
   }
 
   /* 核心代码：将中文主页按钮强制推到最右边 */
   .masthead__menu-lang-switch {
-    margin-left: auto !important; 
+    margin-left: auto !important; /* 自动占据左侧所有剩余空间 */
   }
 
   /* 调整按钮内边距，让视觉效果更整齐 */
