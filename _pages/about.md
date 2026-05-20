@@ -24,8 +24,7 @@ author_profile: false
   <ul style="list-style-type:disc; padding-left:20px; margin:0;">
     <li style="margin-bottom:0.5em;">
       (Jun 2025 - Aug 2025) I served as an algorithm engineer intern at
-      <a href="https://www.antgroup.com/">Ant Group</a>,
-      working with <a href="https://www.misuan.com/">Misuan</a>.
+      <a href="https://www.antgroup.com/">Ant Group</a>, with <a href="https://www.misuan.com/">Misuan</a>.
     </li>
 
     <li style="margin-bottom:0.5em;">
