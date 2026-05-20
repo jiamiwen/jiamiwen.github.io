@@ -85,9 +85,7 @@ author_profile: false
 
 <li>
   [WWQW26]
-  <a href="https://ieeexplore.ieee.org/document/11316825">
-    ChatKID: Identity-Based Group Key Distribution Protocol for Instant Messaging
-  </a>
+  <a href="https://ieeexplore.ieee.org/document/11316825">ChatKID: Identity-Based Group Key Distribution Protocol for Instant Messaging</a>
   (follow-up work of [WWLZ23_KE])
   <br>
   Houzhen Wang, Jiayimei Wang, Wanying Qin, and <strong>Jiaming Wen</strong>✉️ (Supervision & Corresponding Author)
@@ -98,9 +96,7 @@ author_profile: false
 
 <li>
   [WDWWZ25]
-  <a href="http://cjc.ict.ac.cn/online/onlinepaper/whz-2025424155959.pdf">
-    Olithium: A Lattice-Based Online/Offline Signature Scheme without Trapdoors
-  </a>
+  <a href="http://cjc.ict.ac.cn/online/onlinepaper/whz-2025424155959.pdf">Olithium: A Lattice-Based Online/Offline Signature Scheme without Trapdoors</a>
   (in Chinese)
   <br>
   Houzhen Wang, Xiaochao Duan, <strong>Jiaming Wen</strong>✉️, Yahui Wang, and Huanguo Zhang (Supervision & Corresponding Author)
@@ -111,9 +107,7 @@ author_profile: false
 
 <li>
   [WSYYZ25]
-  <a href="https://www.sciencedirect.com/science/article/pii/S092054892400062X?via%3Dihub">
-    Revocable ring signatures with CCA-Anonymity from standard lattices
-  </a>
+  <a href="https://www.sciencedirect.com/science/article/pii/S092054892400062X?via%3Dihub">Revocable ring signatures with CCA-Anonymity from standard lattices</a>
   (follow-up work of [WBYZWH24])
   <br>
   <strong>Jiaming Wen</strong>, Willy Susilo, Rupeng Yang, Zuoxia Yu, and Huanguo Zhang
@@ -124,9 +118,7 @@ author_profile: false
 
 <li>
   [WBYZWH24]
-  <a href="https://ieeexplore.ieee.org/document/10219003">
-    LaRRS: Lattice-Based Revocable Ring Signature and its application for VANETs
-  </a>
+  <a href="https://ieeexplore.ieee.org/document/10219003">LaRRS: Lattice-Based Revocable Ring Signature and its application for VANETs</a>
   <br>
   <strong>Jiaming Wen</strong>, Lu Bai, Zhichao Yang, Huanguo Zhang, Houzhen Wang, and Debiao He
   <br>
@@ -136,9 +128,7 @@ author_profile: false
 
 <li>
   [W24]
-  <a href="https://ieeexplore.ieee.org/document/10592652">
-    Analysis and Improvement of a Conditional Privacy-Preserving Authentication Scheme with Double-Insurance in VANETs
-  </a>
+  <a href="https://ieeexplore.ieee.org/document/10592652">Analysis and Improvement of a Conditional Privacy-Preserving Authentication Scheme with Double-Insurance in VANETs</a>
   <br>
   <strong>Jiaming Wen</strong>, Lu Bai, Houzhen Wang, Jinhui Liu, Yahui Wang, and Huanguo Zhang
   <br>
@@ -148,9 +138,7 @@ author_profile: false
 
 <li>
   [WSZGZ24]
-  <a href="https://link.springer.com/chapter/10.1007/978-981-96-5566-3_3">
-    Designated-Verifier Ring Signatures: Strong Definitions, Generic Constructions and Efficient Instantiations
-  </a>
+  <a href="https://link.springer.com/chapter/10.1007/978-981-96-5566-3_3">Designated-Verifier Ring Signatures: Strong Definitions, Generic Constructions and Efficient Instantiations</a>
   <br>
   <strong>Jiaming Wen</strong>, Willy Susilo, Yanhua Zhang, Fuchun Guo, and Huanguo Zhang
   <br>
@@ -160,9 +148,7 @@ author_profile: false
 
 <li>
   [WWZ23]
-  <a href="https://link.springer.com/chapter/10.1007/978-3-031-45513-1_11">
-    Post-quantum Sigma Protocols and Signatures from Low-Rank Matrix Completions
-  </a>
+  <a href="https://link.springer.com/chapter/10.1007/978-3-031-45513-1_11">Post-quantum Sigma Protocols and Signatures from Low-Rank Matrix Completions</a>
   <br>
   <strong>Jiaming Wen</strong>, Houzhen Wang, and Huanguo Zhang
   <br>
@@ -172,9 +158,7 @@ author_profile: false
 
 <li>
   [WWLZ23_KE]
-  <a href="https://ieeexplore.ieee.org/document/10131978">
-    ACKE: Asymmetric Computing Key Exchange Protocol for IoT Environments
-  </a>
+  <a href="https://ieeexplore.ieee.org/document/10131978">ACKE: Asymmetric Computing Key Exchange Protocol for IoT Environments</a>
   <br>
   Houzhen Wang, <strong>Jiaming Wen</strong>✉️, Jinhui Liu, and Huanguo Zhang (First Author is my co-advisor & Corresponding Author)
   <br>
@@ -184,9 +168,7 @@ author_profile: false
 
 <li>
   [WWLZ23_SIG]
-  <a href="https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202220533">
-    Aitps: A Two-Party Signature Scheme from Asymmetry Module Lattice Problems
-  </a>
+  <a href="https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202220533">Aitps: A Two-Party Signature Scheme from Asymmetry Module Lattice Problems</a>
   (in Chinese)
   <br>
   <strong>Jiaming Wen</strong>, Houzhen Wang, Jinhui Liu, and Huanguo Zhang
