@@ -73,6 +73,7 @@ author_profile: false
 
   <!-- ================= Publications ================= -->
 
+  <span id="-publications"></span>
   <h1>📜 Publications</h1>
 
   <p>
@@ -141,6 +142,7 @@ author_profile: false
 
   <!-- ================= Services ================= -->
 
+  <span id="-services"></span>
   <h1>💻 Services</h1>
 
   <h2>Teaching</h2>
@@ -177,6 +179,7 @@ author_profile: false
 
   <!-- ================= Misc ================= -->
 
+  <span id="-misc"></span>
   <h1>🧰 Misc</h1>
 
   <h2>Serendipity</h2>
