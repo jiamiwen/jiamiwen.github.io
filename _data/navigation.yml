@@ -9,6 +9,9 @@ main:
 
   - title: "Misc"
     url: "/#-misc"
+
+  - title: "English Version"
+    url: "#"
     
   - title: "中文主页"
     url: "#"
