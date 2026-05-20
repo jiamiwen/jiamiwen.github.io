@@ -283,10 +283,8 @@ author_profile: false
 
 <div id="content-zh" style="display:none;">
 
-  <h1>中文主页</h1>
-
   <p>
-    这里可以放你的中文内容。
+    待更新。
   </p>
 
 </div>
