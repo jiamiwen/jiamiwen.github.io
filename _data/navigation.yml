@@ -11,5 +11,5 @@ main:
     url: "/#-misc"
     
   - title: "中文主页"
-    url: "#"
+    url: "javascript:void(0)"
   
