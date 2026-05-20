@@ -96,3 +96,29 @@ $(document).ready(function(){
   });
 
 });
+
+function switchLanguage() {
+    // 获取所有导航元素
+    const navLinks = document.querySelectorAll('.masthead nav a');
+    
+    // 定义英文到中文的映射
+    const translations = {
+        'Publications': '学术论文',
+        'Services': '专业服务',
+        'Misc': '其他',
+        'English Version': '中文主页',
+        '中文主页': 'English Version'
+    };
+    
+    // 更新导航链接文本
+    navLinks.forEach(link => {
+        const currentText = link.textContent;
+        if (translations[currentText]) {
+            link.textContent = translations[currentText];
+        }
+    });
+    
+    // 可选：如果需要保存用户的语言选择
+    localStorage.setItem('preferredLanguage', 
+        localStorage.getItem('preferredLanguage') === 'zh' ? 'en' : 'zh');
+}
