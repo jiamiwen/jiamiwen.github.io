@@ -36,11 +36,11 @@
           </li>
 
           <!-- 语言切换按钮：放在列表末尾，即最右侧 -->
-          <li class="masthead__menu-item--right">
+          <li class="masthead__menu-item--right masthead__menu-lang-switch">
               {% if page.url contains '/zh/' %}
-                English Version
+                <a href="{{ site.baseurl }}/">English Version</a>
               {% else %}
-                中文主页
+                <a href="{{ site.baseurl }}/zh/">中文主页</a>
               {% endif %}
           </li>
         </ul>
