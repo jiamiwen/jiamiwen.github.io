@@ -23,13 +23,13 @@ author_profile: false
 
   <ul style="list-style-type:disc; padding-left:20px; margin:0;">
     <li style="margin-bottom:0.5em;">
-      (Jun 2025 - Aug 2025, during my doctoral studies) I served as an algorithm engineer intern at
-      <a href="https://www.antgroup.com/">Ant Group</a>, Hangzhou,
+      (Jun 2025 - Aug 2025) I served as an algorithm engineer intern at
+      <a href="https://www.antgroup.com/">Ant Group</a>,
       working with <a href="https://www.misuan.com/">Misuan</a>.
     </li>
 
     <li style="margin-bottom:0.5em;">
-      (Dec 2023 - Mar 2025, during my doctoral studies) I was a CSC Visiting Ph.D. student at the
+      (Dec 2023 - Mar 2025) I was a CSC Visiting Ph.D. student at the
       <a href="http://uow.edu.au/">University of Wollongong</a>, Australia.
       There, I was hosted by
       <a href="https://scholars.uow.edu.au/willy-susilo">Willy Susilo</a>
