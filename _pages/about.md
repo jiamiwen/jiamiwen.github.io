@@ -7,15 +7,6 @@ author_profile: false
 
 <span id="about-me"></span>
 
-<!-- Language Switch -->
-<div style="text-align:right; margin-bottom:1em;">
-  <button class="lang-switch"
-          onclick="toggleLanguage()"
-          style="padding:6px 14px; border:none; border-radius:6px; cursor:pointer;">
-    中文主页
-  </button>
-</div>
-
 <!-- ================= ENGLISH VERSION ================= -->
 <div id="content-en">
 
