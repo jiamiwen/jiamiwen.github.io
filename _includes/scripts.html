@@ -2,14 +2,3 @@
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
-
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  document.querySelectorAll('a[href="javascript:void(0)"]').forEach(link => {
-    link.addEventListener("click", function (e) {
-      e.preventDefault();
-      toggleLanguage();
-    });
-  });
-});
-</script>
