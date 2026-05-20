@@ -6,10 +6,11 @@
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Jiaming Wen 文嘉明</a></li>
           {% for link in site.data.navigation.main %}
-            {% unless link.title == "中文主页" %}
+            {% unless link.title == "中文主页" or link.title == "English Version" %}
               <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
             {% endunless %}
           {% endfor %}
+          [English Version](javascript:switchLanguage())
         </ul>
         <ul class="hidden-links hidden"></ul>
         
