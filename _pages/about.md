@@ -40,7 +40,7 @@ author_profile: false
           and had the fortune to study with the
           <a href="https://www.uow.edu.au/engineering-information-sciences/research/institute-cybersecurity-cryptology/">
             Institute of Cybersecurity and Cryptology (iC²)
-          </a>.
+          </a> led by him.
         </li>
 
         <li>
