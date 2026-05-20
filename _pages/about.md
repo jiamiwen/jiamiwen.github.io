@@ -51,7 +51,7 @@ author_profile: false
       </ul>
 
       <p>
-        My research interests lie in information security, cryptography,
+        My research interests lie in the areas of information security, cryptography,
         and privacy-preserving technologies. I can be reached via
         <a href="mailto:wenjm@whu.edu.cn">wenjm at whu.edu.cn</a>
         or
