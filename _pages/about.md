@@ -87,7 +87,7 @@ author_profile: false
 
   <ul style="padding-left:20px; line-height:1.8;">
 
-    <li>
+<li>
   [WWQW26]
   <a href="https://ieeexplore.ieee.org/document/11316825">
     ChatKID: Identity-Based Group Key Distribution Protocol for Instant Messaging
