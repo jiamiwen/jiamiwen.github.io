@@ -234,7 +234,7 @@ author_profile: false
 
     <li>
       <strong>Conferences:</strong>
-      <em>ICISC 2024<em>, <em>Inscrypt 2023<em>, etc.
+      <em>ICISC 2024</em>, <em>Inscrypt 2023</em>, etc.
     </li>
   </ul>
 
@@ -260,37 +260,37 @@ author_profile: false
     <li>
       <a href="https://eprint.iacr.org/">
         IACR ePrint Archive
-      </a>
+      </a>, a mysterious website suggested visiting every day.
     </li>
 
     <li>
       <a href="https://thelatticeclub.com/">
         The Lattice Club
-      </a>
+      </a>, including so many resources about Lattice-based Cryptography.
     </li>
 
     <li>
       <a href="https://pqshield.github.io/nist-sigs-zoo/">
         Post-Quantum Signatures Zoo
-      </a>
+      </a>, including an overview of Post-Quantum Signatures.
     </li>
 
     <li>
       <a href="https://homepage.iis.sinica.edu.tw/~kmchung/">
         Kai-Min Chung's Homepage
-      </a>
+      </a>, including high-quality theoretical cryptography courses in Chinese.
     </li>
 
     <li>
       <a href="https://documents.uow.edu.au/~fuchun/">
         Fuchun Guo's Homepage
-      </a>
+      </a>, including valuable materials for cryptography studies (temporarily on an interstellar trip).
     </li>
 
   </ul>
 
   <p style="text-align:center; margin-top:3em;">
-    Last updated: 19 May 2026
+    Last updated: 20 May 2026
   </p>
 
 </div>
