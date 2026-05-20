@@ -1,3 +1,10 @@
+
+
+预览
+
+
+
+
 {% comment %}
   The masthead / header
 {% endcomment %}
@@ -13,30 +20,30 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <!-- 固定首页：不随语言变化 -->
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
+          <!-- 左侧固定菜单项 -->
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item masthead__menu-item--left">
             <a href="#about-me">Jiaming Wen 文嘉明</a>
           </li>
 
           <!-- 中间三项：硬编码，通过JS切换文本 -->
-          <li class="masthead__menu-item">
+          <li class="masthead__menu-item masthead__menu-item--left">
             <a href="#-publications" class="nav-text" data-en="Publications" data-zh="学术论文">
               <span class="text-span">Publications</span>
             </a>
           </li>
-          <li class="masthead__menu-item">
+          <li class="masthead__menu-item masthead__menu-item--left">
             <a href="#-services" class="nav-text" data-en="Services" data-zh="专业服务">
               <span class="text-span">Services</span>
             </a>
           </li>
-          <li class="masthead__menu-item">
+          <li class="masthead__menu-item masthead__menu-item--left">
             <a href="#-misc" class="nav-text" data-en="Misc" data-zh="其他">
               <span class="text-span">Misc</span>
             </a>
           </li>
 
-          <!-- 语言切换按钮：放在列表末尾，即最右侧 -->
-          <li class="masthead__menu-item--right masthead__menu-lang-switch">
+          <!-- 语言切换按钮：放在列表末尾，通过CSS推到最右侧 -->
+          <li class="masthead__menu-item masthead__menu-item--right masthead__menu-lang-switch">
               {% if page.url contains '/zh/' %}
                 <a href="{{ site.baseurl }}/">English Version</a>
               {% else %}
@@ -49,6 +56,33 @@
     </div>
   </div>
 </div>
+
+<!-- 内联样式：确保导航栏整齐，且中文主页在最右方 -->
+<style>
+  /* 让导航菜单使用 Flex 布局，保证整齐排列 */
+  .greedy-nav .visible-links {
+    display: flex;
+    align-items: center; /* 垂直居中对齐 */
+    width: 100%;
+  }
+
+  /* 核心代码：将所有左侧菜单项靠左 */
+  .masthead__menu-item--left {
+    margin-right: 15px; /* 菜单项之间的间距 */
+  }
+
+  /* 核心代码：将中文主页按钮推到最右边 */
+  .masthead__menu-item--right {
+    margin-left: auto !important; 
+  }
+
+  /* 调整按钮内边距，让视觉效果更整齐 */
+  .masthead__menu-item a {
+    padding: 10px 15px;
+    display: block;
+    line-height: 1;
+  }
+</style>
 
 <script>
 // 这个函数专门用于更新导航栏文本
