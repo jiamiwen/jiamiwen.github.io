@@ -13,7 +13,7 @@ author_profile: false
   <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:2em; margin-bottom:2em; flex-wrap:wrap;">
 
     <!-- Left -->
-    <div style="flex:0 0 60%; min-width:300px;">
+    <div style="flex:0 0 65%; min-width:300px;">
 
       <p>
         In Dec 2025, I concluded my Ph.D. in Cyber Security at
@@ -64,9 +64,9 @@ author_profile: false
     </div>
 
     <!-- Right Photo -->
-    <div style="flex:0 0 35%; text-align:center;">
+    <div style="flex:0 0 32%; text-align:center;">
       <img src="/images/jiaming-sentosa.jpg"
-           style="width:100%; max-width:320px; border-radius:8px;">
+         style="width:100%; height:auto; border-radius:8px;">
     </div>
 
   </div>
