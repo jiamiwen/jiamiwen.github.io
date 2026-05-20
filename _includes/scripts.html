@@ -8,6 +8,8 @@ function toggleLanguage() {
   const en = document.getElementById('content-en');
   const zh = document.getElementById('content-zh');
 
+  if (!en || !zh) return;
+
   if (en.style.display === 'none') {
     en.style.display = 'block';
     zh.style.display = 'none';
@@ -18,11 +20,18 @@ function toggleLanguage() {
 }
 
 document.addEventListener("DOMContentLoaded", function () {
-  document.querySelectorAll('a[href="javascript:void(0)"]').forEach(link => {
+
+  document.querySelectorAll('a[href="#"]').forEach(link => {
+
     link.addEventListener('click', function (e) {
-      e.preventDefault();
-      toggleLanguage();
+
+      const text = link.textContent.trim();
+
+      if (text === "中文主页") {
+        e.preventDefault();
+        toggleLanguage();
+      }
+
     });
+
   });
-});
-</script>
