@@ -20,24 +20,28 @@
 
           <!-- 中间三项：硬编码，通过JS切换文本 -->
           <li class="masthead__menu-item">
-            <a href="#-publications" class="nav-text" data-en="Publications" data-zh="发表成果">
+            <a href="#-publications" class="nav-text" data-en="Publications" data-zh="学术论文">
               <span class="text-span">Publications</span>
             </a>
           </li>
           <li class="masthead__menu-item">
-            <a href="#-services" class="nav-text" data-en="Services" data-zh="服务">
+            <a href="#-services" class="nav-text" data-en="Services" data-zh="专业服务">
               <span class="text-span">Services</span>
             </a>
           </li>
           <li class="masthead__menu-item">
-            <a href="#-misc" class="nav-text" data-en="Misc" data-zh="杂项">
+            <a href="#-misc" class="nav-text" data-en="Misc" data-zh="其他">
               <span class="text-span">Misc</span>
             </a>
           </li>
 
-          <!-- 语言切换按钮 -->
+          <!-- 语言切换按钮：放在列表末尾，即最右侧 -->
           <li class="masthead__menu-item masthead__menu-lang-switch">
-            <a href="javascript:toggleLanguage()" class="lang-link">中文主页</a>
+            {% if page.url contains '/zh/' %}
+              <a href="/about/" class="lang-link">English Version</a>
+            {% else %}
+              <a href="/zh/" class="lang-link">中文主页</a>
+            {% endif %}
           </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
@@ -47,31 +51,7 @@
 </div>
 
 <script>
-// 原有的 toggleLanguage 函数保持不变
-function toggleLanguage() {
-  const en = document.getElementById('content-en');
-  const zh = document.getElementById('content-zh');
-
-  if (!en || !zh) return;
-
-  if (en.style.display === 'none') {
-    en.style.display = 'block';
-    zh.style.display = 'none';
-    // 切换导航文本为英文
-    updateNavText('en');
-    // 更新语言按钮文本
-    document.querySelector('.masthead__menu-lang-switch a').textContent = '中文主页';
-  } else {
-    en.style.display = 'none';
-    zh.style.display = 'block';
-    // 切换导航文本为中文
-    updateNavText('zh');
-    // 更新语言按钮文本
-    document.querySelector('.masthead__menu-lang-switch a').textContent = 'English Version';
-  }
-}
-
-// 新增函数：更新导航栏文本
+// 这个函数专门用于更新导航栏文本
 function updateNavText(lang) {
   const navLinks = document.querySelectorAll('.nav-text .text-span');
   navLinks.forEach(link => {
@@ -83,15 +63,25 @@ function updateNavText(lang) {
       link.textContent = enText || '';
     }
   });
+
+  // 更新语言按钮本身的文字
+  const langLink = document.querySelector('.masthead__menu-lang-switch a');
+  if (langLink) {
+    if (window.location.pathname.includes('/zh/')) {
+      langLink.textContent = 'English Version';
+    } else {
+      langLink.textContent = '中文主页';
+    }
+  }
 }
 
-// 页面加载时，如果中文内容是显示状态，则初始化导航文本为中文
+// 页面加载时初始化导航栏文本状态
 document.addEventListener("DOMContentLoaded", function () {
-  const zhContent = document.getElementById('content-zh');
-  if (zhContent && zhContent.style.display !== 'none') {
-    updateNavText('zh');
-    document.querySelector('.masthead__menu-lang-switch a').textContent = 'English Version';
+  // 根据当前页面路径决定初始导航栏文本
+  if (window.location.pathname.includes('/zh/')) {
+    updateNavText('zh'); // 如果在 /zh/ 路径下，则设为中文
+  } else {
+    updateNavText('en'); // 否则设为英文（例如 /about/ 或根路径）
   }
-  // 否则保持默认英文状态，无需额外操作
 });
 </script>
