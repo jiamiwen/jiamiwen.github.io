@@ -136,6 +136,7 @@ h1:before, .anchor:before {
 
 a {
   color: #117a65; // 绿色，可以换成其他色值
+  text-decoration: none; // 去掉下划线
 }
 
 .lang-switch {
