@@ -320,3 +320,32 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+/* ==========================================================================
+   去掉所有链接下划线 - 自定义修改
+   ========================================================================== */
+
+a {
+  text-decoration: none !important;
+}
+
+a:link {
+  text-decoration: none !important;
+}
+
+a:visited {
+  text-decoration: none !important;
+}
+
+a:hover {
+  text-decoration: none !important;
+}
+
+a:active {
+  text-decoration: none !important;
+}
+
+/* 确保 figcaption 内的链接也没有下划线 */
+figcaption a {
+  border-bottom: none !important;
+}
