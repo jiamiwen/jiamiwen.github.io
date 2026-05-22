@@ -4,6 +4,7 @@ title: ""
 excerpt: ""
 author_profile: false
 lang: zh
+layout: default
 ---
 
 <span id="about-me"></span>
