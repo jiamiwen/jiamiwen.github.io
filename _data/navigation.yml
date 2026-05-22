@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Research"
+    url: "/#-research"
 
   - title: "Services"
     url: "/#-services"
@@ -11,10 +11,10 @@ main:
 
 # 中文导航
 main_zh:
-  - title: "学术论文"
-    url: "/zh/#-publications"
+  - title: "研究"
+    url: "/zh/#-research"
 
-  - title: "专业服务"
+  - title: "服务"
     url: "/zh/#-services"
 
   - title: "其他"
