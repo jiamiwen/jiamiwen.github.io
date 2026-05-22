@@ -9,19 +9,19 @@
             <a href="#about-me" class="home-link">Jiaming Wen 文嘉明</a>
           </li>
           
-          <!-- 英文导航栏 -->
-          <li class="nav-item nav-en">
-            {% for link in site.data.navigation.main %}
-              <a href="{{ link.url }}" class="nav-link">{{ link.title }}</a>
-            {% endfor %}
-          </li>
+          <!-- 英文导航项目 -->
+          {% for link in site.data.navigation.main %}
+            <li class="masthead__menu-item nav-en">
+              <a href="{{ link.url }}">{{ link.title }}</a>
+            </li>
+          {% endfor %}
           
-          <!-- 中文导航栏 (默认隐藏) -->
-          <li class="nav-item nav-zh" style="display:none;">
-            {% for link in site.data.navigation.main_zh %}
-              <a href="{{ link.url }}" class="nav-link">{{ link.title }}</a>
-            {% endfor %}
-          </li>
+          <!-- 中文导航项目 (默认隐藏) -->
+          {% for link in site.data.navigation.main_zh %}
+            <li class="masthead__menu-item nav-zh" style="display:none;">
+              <a href="{{ link.url }}">{{ link.title }}</a>
+            </li>
+          {% endfor %}
         </ul>
         
         <ul class="hidden-links hidden"></ul>
@@ -38,41 +38,41 @@
 window.toggleLanguageAndNav = function() {
   const contentEn = document.getElementById('content-en');
   const contentZh = document.getElementById('content-zh');
-  const navEn = document.querySelector('.nav-en');
-  const navZh = document.querySelector('.nav-zh');
+  const navEnItems = document.querySelectorAll('.nav-en');
+  const navZhItems = document.querySelectorAll('.nav-zh');
   const langBtn = document.querySelector('.lang-switch');
 
-  if (!contentEn || !contentZh || !navEn || !navZh || !langBtn) return;
+  if (!contentEn || !contentZh) return;
 
   // 切换内容显示
   if (contentEn.style.display === 'none') {
     // 切换回英文
     contentEn.style.display = 'block';
     contentZh.style.display = 'none';
-    navEn.style.display = 'block';
-    navZh.style.display = 'none';
-    langBtn.textContent = '中文主页';
+    navEnItems.forEach(item => item.style.display = '');
+    navZhItems.forEach(item => item.style.display = 'none');
+    if (langBtn) langBtn.textContent = '中文主页';
   } else {
     // 切换到中文
     contentEn.style.display = 'none';
     contentZh.style.display = 'block';
-    navEn.style.display = 'none';
-    navZh.style.display = 'block';
-    langBtn.textContent = 'English Version';
+    navEnItems.forEach(item => item.style.display = 'none');
+    navZhItems.forEach(item => item.style.display = '');
+    if (langBtn) langBtn.textContent = 'English Version';
   }
 };
 
 // 页面加载完成后初始化
 document.addEventListener("DOMContentLoaded", function () {
   const contentZh = document.getElementById('content-zh');
-  const navEn = document.querySelector('.nav-en');
-  const navZh = document.querySelector('.nav-zh');
+  const navEnItems = document.querySelectorAll('.nav-en');
+  const navZhItems = document.querySelectorAll('.nav-zh');
   const langBtn = document.querySelector('.lang-switch');
   
   if (contentZh && window.getComputedStyle(contentZh).display !== 'none') {
     // 如果中文内容可见，则显示中文导航
-    if (navEn) navEn.style.display = 'none';
-    if (navZh) navZh.style.display = 'block';
+    navEnItems.forEach(item => item.style.display = 'none');
+    navZhItems.forEach(item => item.style.display = '');
     if (langBtn) langBtn.textContent = 'English Version';
   } else {
     // 默认显示英文导航
