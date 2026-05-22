@@ -250,13 +250,13 @@ figcaption {
   a {
     color: inherit;
     text-decoration: none;
-    border-bottom: 1px solid $light-gray;
+    border-bottom: none;
     -webkit-transition: $global-transition;
     transition: $global-transition;
 
     &:hover {
       color: #000;
-      border-bottom-color: #000;
+      border-bottom: 1px solid #000;
     }
   }
 }
@@ -322,14 +322,15 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 }
 
 /* ==========================================================================
-   去掉所有链接默认下划线 - 自定义修改
-   保留 hover 时的交互反应
+   自定义修改：去掉页面内容中的链接下划线，保留 hover 效果
+   注意：导航栏链接不受影响，保持原样
    ========================================================================== */
- 
-a {
+
+/* 只针对页面内容区域的链接（不包括导航栏） */
+.page__content a,
+.page a {
   text-decoration: none !important;
   
-  /* 正常状态下没有下划线 */
   &:link {
     text-decoration: none !important;
   }
@@ -345,6 +346,24 @@ a {
   }
   
   &:active {
+    text-decoration: underline !important;
+  }
+}
+
+/* 侧边栏链接也移除下划线 */
+.sidebar a {
+  text-decoration: none !important;
+  
+  &:hover {
+    text-decoration: underline !important;
+  }
+}
+
+/* 页脚链接也移除下划线 */
+.page__footer a {
+  text-decoration: none !important;
+  
+  &:hover {
     text-decoration: underline !important;
   }
 }
