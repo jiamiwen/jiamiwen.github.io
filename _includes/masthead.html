@@ -21,12 +21,15 @@
           {% endif %}
         </ul>
         <ul class="hidden-links hidden"></ul>
-        {% if page.url contains '/zh/' %}
-          <a href="/" class="lang-switch">English Version</a>
-        {% else %}
-          <a href="/zh/" class="lang-switch">中文主页</a>
-        {% endif %}
       </nav>
+
+      <!-- 移到 nav 外面 -->
+      {% if page.url contains '/zh/' %}
+        <a href="/" class="lang-switch">English Version</a>
+      {% else %}
+        <a href="/zh/" class="lang-switch">中文主页</a>
+      {% endif %}
+
     </div>
   </div>
 </div>
