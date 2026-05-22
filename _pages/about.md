@@ -272,47 +272,49 @@ author_profile: false
 <!-- ================= SCRIPT ================= -->
 
 <script>
-// 切换语言的全局函数
-window.toggleLanguageAndNav = function() {
-  const contentEn = document.getElementById('content-en');
-  const contentZh = document.getElementById('content-zh');
-  const navEn = document.querySelector('.nav-en');
-  const navZh = document.querySelector('.nav-zh');
-  const langBtn = document.querySelector('.lang-switch');
+window.toggleLanguage = function() {
+  const en = document.getElementById('content-en');
+  const zh = document.getElementById('content-zh');
+  if (!en || !zh) return;
 
-  if (!contentEn || !contentZh) return;
-
-  if (contentEn.style.display === 'none') {
-    // 切换回英文
-    contentEn.style.display = 'block';
-    contentZh.style.display = 'none';
-    if (navEn) navEn.style.display = 'block';
-    if (navZh) navZh.style.display = 'none';
-    if (langBtn) langBtn.textContent = '中文主页';
+  const isZh = en.style.display === 'none';
+  if (isZh) {
+    en.style.display = 'block';
+    zh.style.display = 'none';
+    history.replaceState(null, '', window.location.pathname);
+    applyLang('en');
   } else {
-    // 切换到中文
-    contentEn.style.display = 'none';
-    contentZh.style.display = 'block';
-    if (navEn) navEn.style.display = 'none';
-    if (navZh) navZh.style.display = 'block';
-    if (langBtn) langBtn.textContent = 'English Version';
+    en.style.display = 'none';
+    zh.style.display = 'block';
+    history.replaceState(null, '', '#zh');
+    applyLang('zh');
   }
 };
 
-// 页面加载完成后初始化
-document.addEventListener("DOMContentLoaded", function () {
-  const contentZh = document.getElementById('content-zh');
-  const navEn = document.querySelector('.nav-en');
-  const navZh = document.querySelector('.nav-zh');
-  const langBtn = document.querySelector('.lang-switch');
-  
-  if (contentZh && window.getComputedStyle(contentZh).display !== 'none') {
-    // 如果中文内容可见，则显示中文导航
-    if (navEn) navEn.style.display = 'none';
-    if (navZh) navZh.style.display = 'block';
-    if (langBtn) langBtn.textContent = 'English Version';
+function applyLang(lang) {
+  const toggle = document.getElementById('lang-toggle');
+
+  if (toggle) {
+    toggle.textContent = lang === 'zh' ? 'English Version' : '中文主页';
+  }
+
+  document.querySelectorAll('.nav-item-bilingual').forEach(function(li) {
+    const a = li.querySelector('a');
+    if (!a) return;
+    const text = lang === 'zh' ? li.getAttribute('data-zh') : li.getAttribute('data-en');
+    if (text) a.textContent = text;
+  });
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+  if (window.location.hash === '#zh') {
+    const en = document.getElementById('content-en');
+    const zh = document.getElementById('content-zh');
+    if (en) en.style.display = 'none';
+    if (zh) zh.style.display = 'block';
+    applyLang('zh');
+  } else {
+    applyLang('en');
   }
 });
 </script>
-
-
