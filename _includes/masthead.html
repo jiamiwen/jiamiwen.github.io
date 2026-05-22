@@ -4,23 +4,19 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
-            <a href="#about-me">Jiaming Wen 文嘉明</a>
-          </li>
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Jiaming Wen 文嘉明</a></li>
           {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item nav-item-bilingual"
-                data-en="{{ link.title }}"
-                data-zh="{{ link.title_zh }}">
-              <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
-            </li>
+            {% unless link.title == "中文主页" %}
+              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            {% endunless %}
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
+        
+        <!-- 右侧的中文主页链接 -->
+        <a href="/zh/" class="lang-switch">中文主页</a>
       </nav>
-
-      <!-- 语言切换按钮移到 nav 外 -->
-      <a href="javascript:void(0)" class="lang-switch" id="lang-toggle">中文主页</a>
-
     </div>
   </div>
 </div>
+
