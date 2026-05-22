@@ -1,23 +1,14 @@
-# 英文版导航栏
+# main links links
 main:
 
   - title: "Publications"
+    title_zh: "学术论文"
     url: "/#-publications"
 
   - title: "Services"
+    title_zh: "专业服务"
     url: "/#-services"
 
   - title: "Misc"
-    url: "/#-misc"
-
-# 中文版导航栏
-main_zh:
-
-  - title: "学术论文"
-    url: "/#-publications"
-
-  - title: "专业服务"
-    url: "/#-services"
-
-  - title: "其他"
+    title_zh: "其他"
     url: "/#-misc"
