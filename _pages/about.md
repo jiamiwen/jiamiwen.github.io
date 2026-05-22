@@ -3,6 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: false
+lang: en
 ---
 
 <span id="about-me"></span>
@@ -258,72 +259,3 @@ author_profile: false
   </p>
 
 </div>
-
-<!-- ================= CHINESE VERSION ================= -->
-
-<div id="content-zh" style="display:none;">
-
-  <p>
-    待更新。
-  </p>
-
-</div>
-
-<!-- ================= SCRIPT ================= -->
-
-<script>
-// 定义全局的 toggleLanguage 函数，供 masthead.html 调用
-window.toggleLanguage = function() {
-  const en = document.getElementById('content-en');
-  const zh = document.getElementById('content-zh');
-
-  if (!en || !zh) return;
-
-  if (en.style.display === 'none') {
-    en.style.display = 'block';
-    zh.style.display = 'none';
-    // 如果需要，这里可以通知 masthead 更新导航文本为英文
-    window.updateNavText && window.updateNavText('en');
-    // 更新语言按钮文本
-    const langLink = document.querySelector('.masthead__menu-lang-switch a');
-    if (langLink) langLink.textContent = '中文主页';
-  } else {
-    en.style.display = 'none';
-    zh.style.display = 'block';
-    // 如果需要，这里可以通知 masthead 更新导航文本为中文
-    window.updateNavText && window.updateNavText('zh');
-    // 更新语言按钮文本
-    const langLink = document.querySelector('.masthead__menu-lang-switch a');
-    if (langLink) langLink.textContent = 'English Version';
-  }
-};
-
-// 将 updateNavText 函数也定义为全局，以便 masthead.html 可以调用
-window.updateNavText = function(lang) {
-  const navLinks = document.querySelectorAll('.nav-text .text-span');
-  navLinks.forEach(link => {
-    const enText = link.parentElement.getAttribute('data-en');
-    const zhText = link.parentElement.getAttribute('data-zh');
-    if (lang === 'zh' && zhText) {
-      link.textContent = zhText;
-    } else {
-      link.textContent = enText || '';
-    }
-  });
-};
-
-// 页面加载完成后，检查当前内容状态并初始化导航栏
-document.addEventListener("DOMContentLoaded", function () {
-  const zhContent = document.getElementById('content-zh');
-  if (zhContent && window.getComputedStyle(zhContent).display !== 'none') {
-    // 如果中文内容是可见的，则初始化导航文本为中文
-    window.updateNavText && window.updateNavText('zh');
-    const langLink = document.querySelector('.masthead__menu-lang-switch a');
-    if (langLink) langLink.textContent = 'English Version';
-  } else {
-    // 默认是英文内容可见，无需特殊处理
-    const langLink = document.querySelector('.masthead__menu-lang-switch a');
-    if (langLink) langLink.textContent = '中文主页';
-  }
-});
-</script>
