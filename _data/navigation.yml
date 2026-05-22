@@ -2,13 +2,14 @@
 main:
 
   - title: "Publications"
-    title_zh: "学术论文"
     url: "/#-publications"
 
   - title: "Services"
-    title_zh: "专业服务"
     url: "/#-services"
 
   - title: "Misc"
-    title_zh: "其他"
     url: "/#-misc"
+
+  - title: "中文主页"
+    url: "#"
+
