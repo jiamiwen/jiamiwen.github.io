@@ -8,6 +8,8 @@ lang: zh
 
 <span id="about-me"></span>
 
+<!-- ================= CHINESE VERSION ================= -->
+
 <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:2em; margin-bottom:2em; flex-wrap:wrap;">
 
 <p>待更新。</p>
