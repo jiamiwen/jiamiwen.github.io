@@ -27,7 +27,7 @@
         <ul class="hidden-links hidden"></ul>
         
         <!-- 右侧的语言切换按钮 -->
-        <a href="javascript:void(0);" class="lang-switch" onclick="toggleLanguageAndNav()">中文主页</a>
+        <a href="#" class="lang-switch" onclick="toggleLanguageAndNav(); return false;">中文主页</a>
       </nav>
     </div>
   </div>
@@ -52,6 +52,8 @@ window.toggleLanguageAndNav = function() {
     navEnItems.forEach(item => item.style.display = '');
     navZhItems.forEach(item => item.style.display = 'none');
     if (langBtn) langBtn.textContent = '中文主页';
+    // 平滑滚动到顶部
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   } else {
     // 切换到中文
     contentEn.style.display = 'none';
@@ -59,6 +61,8 @@ window.toggleLanguageAndNav = function() {
     navEnItems.forEach(item => item.style.display = 'none');
     navZhItems.forEach(item => item.style.display = '');
     if (langBtn) langBtn.textContent = 'English Version';
+    // 平滑滚动到顶部
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   }
 };
 
