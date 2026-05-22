@@ -4,8 +4,7 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-
-          {% if page.lang == "zh" %}
+          {% if page.url contains '/zh/' %}
             <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
               <a href="/zh/#about-me">Jiaming Wen 文嘉明</a>
             </li>
@@ -20,16 +19,13 @@
               <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
             {% endfor %}
           {% endif %}
-
         </ul>
         <ul class="hidden-links hidden"></ul>
-
-        {% if page.lang == "zh" %}
+        {% if page.url contains '/zh/' %}
           <a href="/" class="lang-switch">English Version</a>
         {% else %}
           <a href="/zh/" class="lang-switch">中文主页</a>
         {% endif %}
-
       </nav>
     </div>
   </div>
