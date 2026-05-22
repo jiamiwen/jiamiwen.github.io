@@ -70,8 +70,8 @@ lang: en
 
   <!-- ================= Publications ================= -->
 
-  <span id="-publications"></span>
-  <h1>📜 Publications</h1>
+  <span id="-research"></span>
+  <h1>📜 Research</h1>
 
   <p>
     Here are the publications that I am the main contributor
@@ -183,7 +183,7 @@ lang: en
   <!-- ================= Services ================= -->
 
   <span id="-services"></span>
-  <h1>💻 Services</h1>
+  <h1>🧑‍💼 Services</h1>
 
   <h2>Teaching</h2>
 
