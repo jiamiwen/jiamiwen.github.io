@@ -253,7 +253,7 @@ lang: en
 
   </ul>
 
-  <p style="text-align:center; margin-top:1em;">
+  <p style="text-align:center; margin-top:3em;">
     Last updated: 20 May 2026
   </p>
 
