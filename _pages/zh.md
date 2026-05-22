@@ -12,6 +12,6 @@ layout: default
 <!-- ================= CHINESE VERSION ================= -->
 <div id="content-zh">
 
-  <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:2em; margin-bottom:2em; flex-wrap:wrap;">
+  <p>待更新。</p>
 
-<p>待更新。</p>
+</div>
