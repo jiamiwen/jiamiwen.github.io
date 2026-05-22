@@ -74,8 +74,8 @@ lang: en
   <p>
     My research interests lie in the areas of information security, cryptography, and privacy-preserving technologies. 
     Here are the publications that I am the main contributor
-    (also, as First Author or Corresponding Author).
-    For other works, please refer to
+    (also, as First/Corresponding Author).
+    For others, please refer to
     <a href="https://scholar.google.com/citations?user=IoWa4fYAAAAJ">Google Scholar</a>
     and
     <a href="https://dblp.uni-trier.de/pid/324/5245-1.html">DBLP</a>.
