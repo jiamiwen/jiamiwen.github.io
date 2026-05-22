@@ -50,12 +50,10 @@ lang: en
       </ul>
 
       <p>
-        My research interests lie in the areas of information security, cryptography,
-        and privacy-preserving technologies. I can be reached via
+        I can be reached via
         <a href="mailto:wenjm@whu.edu.cn">wenjm at whu.edu.cn</a>
         or
-        <a href="mailto:cryptowjm@163.com">cryptowjm at 163.com</a>,
-        if questions or we share common tastes.
+        <a href="mailto:cryptowjm@163.com">cryptowjm at 163.com</a>.
       </p>
 
     </div>
@@ -74,6 +72,7 @@ lang: en
   <h1>📜 Research</h1>
 
   <p>
+    My research interests lie in the areas of information security, cryptography, and privacy-preserving technologies. 
     Here are the publications that I am the main contributor
     (also, as First Author or Corresponding Author).
     For other works, please refer to
