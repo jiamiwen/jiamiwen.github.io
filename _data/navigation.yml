@@ -1,6 +1,5 @@
 # main links links
 main:
-
   - title: "Publications"
     url: "/#-publications"
 
@@ -10,6 +9,14 @@ main:
   - title: "Misc"
     url: "/#-misc"
 
-  - title: "中文主页"
-    url: "#"
+# 中文导航
+main_zh:
+  - title: "学术论文"
+    url: "/zh/#-publications"
+
+  - title: "专业服务"
+    url: "/zh/#-services"
+
+  - title: "其他"
+    url: "/zh/#-misc"
 
