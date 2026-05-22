@@ -21,14 +21,14 @@
           {% endif %}
         </ul>
         <ul class="hidden-links hidden"></ul>
+
+        {% if page.url contains '/zh/' %}
+          <a href="/" class="lang-switch" style="position:absolute; right:1em; top:50%; transform:translateY(-50%);" onclick="window.location.href='/'; return false;">English Version</a>
+        {% else %}
+          <a href="/zh/" class="lang-switch" style="position:absolute; right:1em; top:50%; transform:translateY(-50%);" onclick="window.location.href='/zh/'; return false;">中文主页</a>
+        {% endif %}
+
       </nav>
-
-      {% if page.url contains '/zh/' %}
-        <a href="/" class="lang-switch" onclick="window.location.href='/'; return false;">English Version</a>
-      {% else %}
-        <a href="/zh/" class="lang-switch" onclick="window.location.href='/zh/'; return false;">中文主页</a>
-      {% endif %}
-
     </div>
   </div>
 </div>
