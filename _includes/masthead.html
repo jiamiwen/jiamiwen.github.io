@@ -23,11 +23,10 @@
         <ul class="hidden-links hidden"></ul>
       </nav>
 
-      <!-- 移到 nav 外面 -->
       {% if page.url contains '/zh/' %}
-        <a href="/" class="lang-switch">English Version</a>
+        <a href="/" class="lang-switch" onclick="window.location.href='/'; return false;">English Version</a>
       {% else %}
-        <a href="/zh/" class="lang-switch">中文主页</a>
+        <a href="/zh/" class="lang-switch" onclick="window.location.href='/zh/'; return false;">中文主页</a>
       {% endif %}
 
     </div>
