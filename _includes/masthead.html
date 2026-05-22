@@ -4,103 +4,21 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <!-- 首页按钮 -->
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
-            <a href="#about-me" class="home-link">Jiaming Wen 文嘉明</a>
+            <a href="#about-me">Jiaming Wen 文嘉明</a>
           </li>
-          
-          <!-- 英文导航项目 -->
           {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item nav-item-en">
-              <a href="{{ link.url }}">{{ link.title }}</a>
-            </li>
-          {% endfor %}
-          
-          <!-- 中文导航项目 (默认隐藏) -->
-          {% for link in site.data.navigation.main_zh %}
-            <li class="masthead__menu-item nav-item-zh" style="display:none;">
-              <a href="{{ link.url }}">{{ link.title }}</a>
+            <li class="masthead__menu-item nav-item-bilingual"
+                data-en="{{ link.title }}"
+                data-zh="{{ link.title_zh }}">
+              <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
             </li>
           {% endfor %}
         </ul>
-        
         <ul class="hidden-links hidden"></ul>
-        
-        <!-- 右侧的语言切换按钮 -->
-        <a href="#" class="lang-switch" onclick="toggleLanguageAndNav(); return false;">中文主页</a>
+
+        <a href="javascript:void(0)" class="lang-switch" id="lang-toggle" onclick="toggleLanguage()">中文主页</a>
       </nav>
     </div>
   </div>
 </div>
-
-<script>
-// 全局函数：切换语言和导航栏
-window.toggleLanguageAndNav = function() {
-  const contentEn = document.getElementById('content-en');
-  const contentZh = document.getElementById('content-zh');
-  const navEnItems = document.querySelectorAll('.nav-item-en');
-  const navZhItems = document.querySelectorAll('.nav-item-zh');
-  const langBtn = document.querySelector('.lang-switch');
-
-  if (!contentEn || !contentZh) return;
-
-  // 切换内容显示
-  if (contentEn.style.display === 'none') {
-    // 切换回英文
-    contentEn.style.display = 'block';
-    contentZh.style.display = 'none';
-    // 隐藏中文导航，显示英文导航
-    navEnItems.forEach(item => {
-      item.style.display = '';  // 恢复默认显示
-    });
-    navZhItems.forEach(item => {
-      item.style.display = 'none';
-    });
-    if (langBtn) langBtn.textContent = '中文主页';
-    // 平滑滚动到顶部
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  } else {
-    // 切换到中文
-    contentEn.style.display = 'none';
-    contentZh.style.display = 'block';
-    // 隐藏英文导航，显示中文导航
-    navEnItems.forEach(item => {
-      item.style.display = 'none';
-    });
-    navZhItems.forEach(item => {
-      item.style.display = '';  // 恢复默认显示
-    });
-    if (langBtn) langBtn.textContent = 'English Version';
-    // 平滑滚动到顶部
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  }
-};
-
-// 页面加载完成后初始化
-document.addEventListener("DOMContentLoaded", function () {
-  const contentZh = document.getElementById('content-zh');
-  const navEnItems = document.querySelectorAll('.nav-item-en');
-  const navZhItems = document.querySelectorAll('.nav-item-zh');
-  const langBtn = document.querySelector('.lang-switch');
-  
-  if (contentZh && window.getComputedStyle(contentZh).display !== 'none') {
-    // 如果中文内容可见，则显示中文导航，隐藏英文导航
-    navEnItems.forEach(item => {
-      item.style.display = 'none';
-    });
-    navZhItems.forEach(item => {
-      item.style.display = '';
-    });
-    if (langBtn) langBtn.textContent = 'English Version';
-  } else {
-    // 默认显示英文导航
-    navEnItems.forEach(item => {
-      item.style.display = '';
-    });
-    navZhItems.forEach(item => {
-      item.style.display = 'none';
-    });
-    if (langBtn) langBtn.textContent = '中文主页';
-  }
-});
-</script>
