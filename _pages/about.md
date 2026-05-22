@@ -253,10 +253,6 @@ lang: en
 
   </ul>
 
-  <p style="text-align:center; margin-top:3em;">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=R64MvUM6DybiEtejqk6X9tsNW3AunMLx0_F5WxQNmHo&cl=ffffff&w=300"></script>
-  </p>
-
   <p style="text-align:center; margin-top:1em;">
     Last updated: 20 May 2026
   </p>
