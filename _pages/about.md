@@ -293,11 +293,9 @@ window.toggleLanguage = function() {
 
 function applyLang(lang) {
   const toggle = document.getElementById('lang-toggle');
-
   if (toggle) {
     toggle.textContent = lang === 'zh' ? 'English Version' : '中文主页';
   }
-
   document.querySelectorAll('.nav-item-bilingual').forEach(function(li) {
     const a = li.querySelector('a');
     if (!a) return;
@@ -307,6 +305,16 @@ function applyLang(lang) {
 }
 
 document.addEventListener('DOMContentLoaded', function() {
+  // 绑定点击事件（避免 onclick 被主题拦截）
+  const toggle = document.getElementById('lang-toggle');
+  if (toggle) {
+    toggle.addEventListener('click', function(e) {
+      e.preventDefault();
+      window.toggleLanguage();
+    });
+  }
+
+  // 根据 hash 初始化语言
   if (window.location.hash === '#zh') {
     const en = document.getElementById('content-en');
     const zh = document.getElementById('content-zh');
