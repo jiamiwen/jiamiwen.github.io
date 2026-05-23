@@ -17,7 +17,7 @@ lang: en
     <div style="flex:0 0 70%; min-width:300px;">
 
       <p>
-        In Dec 2025, I concluded my Ph.D. in Cyber Security at
+        In Dec 2025, I completed my Ph.D. in Cyber Security at
         <a href="https://whu.edu.cn/">Wuhan University</a>,
         grateful to have
         <a href="https://mp.weixin.qq.com/s/4kCLRNMGecIvbeKZmOR_RQ">Huanguo Zhang</a>
@@ -74,7 +74,7 @@ lang: en
   <p>
     My research interests lie in the areas of information security, cryptography, and privacy-preserving technologies. 
     Here are outputs that I am the main contributor
-    (also, as First/Corresponding Author).
+    (also, as First/(Co-)Corresponding Author✉️).
     For others, please refer to
     <a href="https://scholar.google.com/citations?user=IoWa4fYAAAAJ">Google Scholar</a>
     and
@@ -88,7 +88,7 @@ lang: en
   <a href="https://ieeexplore.ieee.org/document/11316825">ChatKID: Identity-Based Group Key Distribution Protocol for Instant Messaging</a>
   (follow-up work of [WWLZ23_KE])
   <br>
-  Houzhen Wang, Jiayimei Wang, Wanying Qin, and <strong>Jiaming Wen</strong>✉️ (Supervision & Corresponding Author)
+  Houzhen Wang, Jiayimei Wang, Wanying Qin, and <strong>Jiaming Wen</strong>✉️ (Supervision & First Author is my co-advisor)
   <br>
   <em>IEEE Transactions on Dependable and Secure Computing (T-DSC) 2026</em>
   [<a href="https://www.computer.org/csdl/journal/tq">Journal</a>, JCR Q1, <a href="https://www.ccf.org.cn/Academic_Evaluation/NIS/">CCF-A</a>]
@@ -99,7 +99,7 @@ lang: en
   <a href="http://cjc.ict.ac.cn/online/onlinepaper/whz-2025424155959.pdf">Olithium: A Lattice-Based Online/Offline Signature Scheme without Trapdoors</a>
   (in Chinese)
   <br>
-  Houzhen Wang, Xiaochao Duan, <strong>Jiaming Wen</strong>✉️, Yahui Wang, and Huanguo Zhang (Supervision & Corresponding Author)
+  Houzhen Wang, Xiaochao Duan, <strong>Jiaming Wen</strong>✉️, Yahui Wang, and Huanguo Zhang (Supervision & First Author is my co-advisor)
   <br>
   <em>Chinese Journal of Computers (计算机学报) 2025</em>
   [<a href="http://cjc.ict.ac.cn/">Journal</a>, <a href="https://www.ccf.org.cn/ccftjgjxskwml/">Chinese CCF-T1</a>, <a href="https://github.com/jiamiwen/Olithium">Code</a>]
@@ -160,7 +160,7 @@ lang: en
   [WWLZ23_KE]
   <a href="https://ieeexplore.ieee.org/document/10131978">ACKE: Asymmetric Computing Key Exchange Protocol for IoT Environments</a>
   <br>
-  Houzhen Wang, <strong>Jiaming Wen</strong>✉️, Jinhui Liu, and Huanguo Zhang (First Author is my co-advisor & Corresponding Author)
+  Houzhen Wang, <strong>Jiaming Wen</strong>✉️, Jinhui Liu, and Huanguo Zhang (First Author is my co-advisor)
   <br>
   <em>IEEE Internet of Things Journal (IoT-J) 2023</em>
   [<a href="https://ieee-iotj.org/">Journal</a>, JCR Q1, 中科院1区]
