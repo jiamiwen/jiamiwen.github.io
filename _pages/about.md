@@ -73,7 +73,10 @@ lang: en
 
   <p>
     My research interests lie in the areas of information security, cryptography, and privacy-preserving technologies. 
-    Here are outputs that I am the main contributor (First Author or (Co-)Corresponding Author✉️).
+    Here are outputs that I am the main contributor 
+    <span style="font-size:1.4em; line-height:1; vertical-align:-0.1em;">(</span>
+    First Author or (Co-)Corresponding Author✉️
+    <span style="font-size:1.4em; line-height:1; vertical-align:-0.1em;">)</span>.
     For others, please refer to
     <a href="https://scholar.google.com/citations?user=IoWa4fYAAAAJ">Google Scholar</a>
     and
