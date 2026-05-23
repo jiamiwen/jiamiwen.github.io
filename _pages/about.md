@@ -30,7 +30,7 @@ lang: en
           (Jun 2025 - Aug 2025) I served as an algorithm engineer intern at
           <a href="https://www.antgroup.com/">Ant Group</a>,
           with
-          <a href="https://www.misuan.com/">Misuan</a>.
+          <a href="https://www.misuan.com/about-us">Misuan</a>.
         </li>
 
         <li>
