@@ -187,17 +187,11 @@ lang: en
 
   <ul style="padding-left:20px; line-height:1.8;">
     <li>
-      Feb 2023 - Jun 2023:
-      <strong>Teaching Assistant</strong>
+      <strong>Teaching Assistant:</strong>
       <br>
-      Programming and Experiments (undergraduate course in Spring 2023), Wuhan University
-    </li>
-
-    <li>
-      Sep 2021 - Jan 2022:
-      <strong>Teaching Assistant</strong>
+      (Feb 2023 - Jun 2023) Programming and Experiments (undergraduate course in Spring 2023), Wuhan University
       <br>
-      Cryptography (undergraduate course in Fall 2021), Wuhan University
+      (Sep 2021 - Jan 2022) Cryptography (undergraduate course in Fall 2021), Wuhan University
     </li>
   </ul>
 
