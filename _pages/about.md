@@ -247,7 +247,7 @@ lang: en
   </ul>
 
   <p style="text-align:center; margin-top:3em;">
-    Last updated: 22 May 2026
+    Last updated: 31 Dec 2025
   </p>
 
 </div>
