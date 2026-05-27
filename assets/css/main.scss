@@ -176,3 +176,10 @@ a {
   justify-content: space-between;
   width: 100%;
 }
+
+/* 个人照片右浮动，保持桌面端一致布局 */
+.page__content p img {
+  float: right;
+  margin: 0 0 1em 1.5em;
+  max-width: 38%;
+}
