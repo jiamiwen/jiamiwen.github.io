@@ -11,14 +11,14 @@ lang: en
 <!-- ================= ENGLISH VERSION ================= -->
 <div id="content-en">
 
-  <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:2em; margin-bottom:2em; flex-wrap:wrap;">
+  <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:2em; margin-bottom:2em; flex-wrap:nowrap;">
 
     <!-- Left -->
-    <div style="flex:0 0 70%; min-width:300px;">
+    <div style="flex:0 0 70%;">
 
       <p>
-        In Dec 2025, I completed my Ph.D. in Cyber Security at
-        <a href="https://whu.edu.cn/">Wuhan University</a>,
+        I completed my Ph.D. in Cyber Security at
+        <a href="https://whu.edu.cn/">Wuhan University</a> in Dec 2025,
         grateful to have
         <a href="https://mp.weixin.qq.com/s/4kCLRNMGecIvbeKZmOR_RQ">Huanguo Zhang</a>
         as my supervisor.
