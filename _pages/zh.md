@@ -51,12 +51,12 @@ layout: default
 <li>
   [WWQW26]
   <a href="https://ieeexplore.ieee.org/document/11316825">ChatKID: Identity-Based Group Key Distribution Protocol for Instant Messaging</a>
-  (follow-up work of [WWLZ23_KE])
+  ([WWLZ23_KE]的后续工作)
   <br>
   Houzhen Wang, <u>Jiayimei Wang</u>, <u>Wanying Qin</u>, and <strong>Jiaming Wen</strong>✉️ (Supervision & First Author is my co-advisor)
   <br>
   <em>IEEE Transactions on Dependable and Secure Computing (T-DSC) 2026</em>
-  [<a href="https://www.computer.org/csdl/journal/tq">Journal</a>, JCR Q1, <a href="https://www.ccf.org.cn/Academic_Evaluation/NIS/">CCF-A</a>]
+  [<a href="https://www.computer.org/csdl/journal/tq">期刊</a>, JCR Q1, <a href="https://www.ccf.org.cn/Academic_Evaluation/NIS/">CCF-A</a>]
 </li>
 
 <li>
@@ -66,18 +66,18 @@ layout: default
   王后珍，<u>段小超</u>，<strong>文嘉明</strong>✉️，王亚辉, 张焕国 (指导学生 & 课题组老师一作)
   <br>
   <em>计算机学报 2025</em>
-  [<a href="http://cjc.ict.ac.cn/">Journal</a>, <a href="https://www.ccf.org.cn/ccftjgjxskwml/">Chinese CCF-T1</a>, <a href="https://github.com/jiamiwen/Olithium">Code</a>]
+  [<a href="http://cjc.ict.ac.cn/">期刊</a>, <a href="https://www.ccf.org.cn/ccftjgjxskwml/">中文三大学报，中文CCF-T1</a>, <a href="https://github.com/jiamiwen/Olithium">Code</a>]
 </li>
 
 <li>
   [WSYYZ25]
   <a href="https://www.sciencedirect.com/science/article/pii/S092054892400062X?via%3Dihub">Revocable ring signatures with CCA-Anonymity from standard lattices</a>
-  (follow-up work of [WBYZWH24])
+  ([WBYZWH24]的后续工作)
   <br>
   <strong>Jiaming Wen</strong>, Willy Susilo, Rupeng Yang, Zuoxia Yu, and Huanguo Zhang
   <br>
   <em>Computer Standards & Interfaces (CSI) 2025</em>
-  [<a href="https://www.sciencedirect.com/journal/computer-standards-and-interfaces">Journal</a>, JCR Q1, 中科院2区]
+  [<a href="https://www.sciencedirect.com/journal/computer-standards-and-interfaces">期刊</a>, JCR Q1, 中科院2区]
 </li>
 
 <li>
@@ -87,7 +87,7 @@ layout: default
   <strong>Jiaming Wen</strong>, Lu Bai, Zhichao Yang, Huanguo Zhang, Houzhen Wang, and Debiao He
   <br>
   <em>IEEE Transactions on Vehicular Technology (T-VT) 2024</em>
-  [<a href="https://vtsociety.org/publication/ieee-transactions-vehicular-technology">Journal</a>, JCR Q1, 中科院2区, <a href="https://github.com/jiamiwen/LaRRS">Code</a>]
+  [<a href="https://vtsociety.org/publication/ieee-transactions-vehicular-technology">期刊</a>, JCR Q1, 中科院2区, <a href="https://github.com/jiamiwen/LaRRS">Code</a>]
 </li>
 
 <li>
@@ -97,7 +97,7 @@ layout: default
   <strong>Jiaming Wen</strong>, Lu Bai, Houzhen Wang, Jinhui Liu, Yahui Wang, and Huanguo Zhang
   <br>
   <em>IEEE Transactions on Vehicular Technology (T-VT) 2024</em>
-  [<a href="https://vtsociety.org/publication/ieee-transactions-vehicular-technology">Journal</a>, JCR Q1, 中科院2区]
+  [<a href="https://vtsociety.org/publication/ieee-transactions-vehicular-technology">期刊</a>, JCR Q1, 中科院2区]
 </li>
 
 <li>
@@ -107,7 +107,7 @@ layout: default
   <strong>Jiaming Wen</strong>, Willy Susilo, Yanhua Zhang, Fuchun Guo, and Huanguo Zhang
   <br>
   <em>ICISC 2024</em>
-  [<a href="http://www.icisc.org/">Conference</a>, <a href="https://www.cacrnet.org.cn/site/content/1290.html">CACR-C</a>, <a href="https://jiamiwen.github.io/documents/WSZGZ24.pdf">Full Version</a>, <a href="https://jiamiwen.github.io/documents/DVRS-slides.pdf">Slides</a>]
+  [<a href="http://www.icisc.org/">会议</a>, <a href="https://www.cacrnet.org.cn/site/content/1290.html">CACR-C</a>, <a href="https://jiamiwen.github.io/documents/WSZGZ24.pdf">完整版</a>, <a href="https://jiamiwen.github.io/documents/DVRS-slides.pdf">幻灯片</a>]
 </li>
 
 <li>
@@ -117,7 +117,7 @@ layout: default
   <strong>Jiaming Wen</strong>, Houzhen Wang, and Huanguo Zhang
   <br>
   <em>ProvSec 2023</em>
-  [<a href="https://provsec2023.github.io/ProvSec2023/#">Conference</a>, <a href="https://www.cacrnet.org.cn/site/content/1290.html">CACR-C</a>, <a href="https://jiamiwen.github.io/documents/lrmc-slides.pdf">Slides</a>]
+  [<a href="https://provsec2023.github.io/ProvSec2023/#">会议</a>, <a href="https://www.cacrnet.org.cn/site/content/1290.html">CACR-C</a>, <a href="https://jiamiwen.github.io/documents/lrmc-slides.pdf">幻灯片</a>]
 </li>
 
 <li>
@@ -127,7 +127,7 @@ layout: default
   Houzhen Wang, <strong>Jiaming Wen</strong>✉️, Jinhui Liu, and Huanguo Zhang (First Author is my co-advisor)
   <br>
   <em>IEEE Internet of Things Journal (IoT-J) 2023</em>
-  [<a href="https://ieee-iotj.org/">Journal</a>, JCR Q1, 中科院1区]
+  [<a href="https://ieee-iotj.org/">期刊</a>, JCR Q1, 中科院1区]
 </li>
 
 <li>
@@ -137,7 +137,7 @@ layout: default
   <strong>文嘉明</strong>，王后珍，刘金会，张焕国
   <br>
   <em>计算机研究与发展 2023</em>
-  [<a href="https://crad.ict.ac.cn/">Journal</a>, <a href="https://www.ccf.org.cn/ccftjgjxskwml/">Chinese CCF-T1</a>]
+  [<a href="https://crad.ict.ac.cn/">期刊</a>, <a href="https://www.ccf.org.cn/ccftjgjxskwml/">中文三大学报，中文CCF-T1</a>]
 </li>
 
   </ul>
