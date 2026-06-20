@@ -69,9 +69,9 @@ lang: en
   <h1>📜 Research</h1>
 
   <p>
-    My research interests lie in the areas of information security, cryptography, and privacy-preserving technologies. 
-    Below are outputs that I am the main contributor, either as First Author or (Co-)Corresponding Author✉️.
-    For others, refer to
+    My recent research interests lie at the intersection of information security (cryptography, privacy-preserving technologies, AI security) and educational technology. 
+    Below are outputs that I am the main contributor, either as First Author or (Co-)Corresponding Author✉️, with underlined names indicating supervised students or research team members.
+    For others, please refer to
     <a href="https://scholar.google.com/citations?user=IoWa4fYAAAAJ">Google Scholar</a>
     and
     <a href="https://dblp.uni-trier.de/pid/324/5245-1.html">DBLP</a>.
