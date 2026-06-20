@@ -23,7 +23,7 @@ lang: en
         <a href="https://www.whu.edu.cn/">Wuhan University</a>
         in Jun 2020 and Dec 2025, respectively. During my doctoral studies, I was fortunate to be supervised by
         <a href="https://mp.weixin.qq.com/s/4kCLRNMGecIvbeKZmOR_RQ">Huanguo Zhang</a>
-        and to have two unforgettable experiences:
+        and to have benefited from two memorable experiences:
       </p>
 
       <ul style="padding-left:20px; line-height:1.7;">
