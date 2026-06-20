@@ -15,7 +15,7 @@ layout: default
   <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:2em; margin-bottom:2em; flex-wrap:nowrap;">
 
     <!-- Left -->
-    <div style="flex:0 0 68%;">
+    <div style="flex:0 0 65%;">
 
       <p>
         文嘉明，男，<a href="https://www.ccnu.edu.cn/">华中师范大学</a>-<a href="https://foaie.ccnu.edu.cn/">人工智能教育学部</a>-特任副研究员、硕士生导师。2020年6月本科毕业于<a href="https://www.whu.edu.cn/">武汉大学</a>-<a href="https://maths.whu.edu.cn/">数学与统计学院</a>，2025年12月博士毕业于<a href="https://www.whu.edu.cn/">武汉大学</a>-<a href="https://cse.whu.edu.cn/">国家网络安全学院</a>，师从<a href="https://mp.weixin.qq.com/s/4kCLRNMGecIvbeKZmOR_RQ">张焕国</a>二级教授（武汉大学信息安全专业创始人，国家网络安全学院首席顾问）。读博期间，2023年12月-2025年3月，由国家留学基金委资助，前往澳大利亚<a href="http://uow.edu.au/">沃隆港大学（University of Wollongong）</a>-<a href="https://www.uow.edu.au/engineering-information-sciences/school-of-computing-and-information-technology/">计算与信息技术学院</a>进行联合培养，师从<a href="https://scholars.uow.edu.au/willy-susilo">Willy Susilo</a>杰出教授（澳大利亚桂冠学者，Fellow of IEEE/IET/ACS/AAIA/AIIA）；2025年6月-8月，在<a href="https://www.antgroup.com/">蚂蚁集团</a>-<a href="https://www.misuan.com/about-us">密算科技公司</a>担任密码算法工程师实习生。
