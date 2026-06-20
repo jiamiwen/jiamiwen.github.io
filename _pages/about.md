@@ -211,7 +211,7 @@ lang: en
   <ul style="padding-left:20px; line-height:1.8;">
     <li>
       <strong>Journals:</strong>
-      <em>IEEE Transactions on Information Theory (T-IT)</em>, <em>IEEE Transactions on Dependable and Secure Computing (T-DSC)</em>, <em>IEEE Transactions on Vehicular Technology (T-VT)</em>, <em>IEEE Internet of Things Journal (IoT-J)</em>, <em>Journal of Information Security and Applications (JISA)</em>, etc.
+      <em>IEEE Transactions on Information Theory (T-IT)</em>, <em>IEEE Transactions on Dependable and Secure Computing (T-DSC)</em>, <em>IEEE Transactions on Information Forensics and Security (T-IFS)</em>, <em>IEEE Transactions on Vehicular Technology (T-VT)</em>, <em>IEEE Internet of Things Journal (IoT-J)</em>, <em>Journal of Information Security and Applications (JISA)</em>, etc.
     </li>
 
     <li>
