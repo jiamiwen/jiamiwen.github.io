@@ -65,7 +65,7 @@ lang: en
 
   <!-- ================= Research ================= -->
 
-  <span id="research"></span>
+  <span id="-research"></span>
   <h1>📜 Research</h1>
 
   <p>
@@ -179,7 +179,7 @@ lang: en
 
   <!-- ================= Teaching and Students ================= -->
 
-  <span id="teachingstudents"></span>
+  <span id="-teachingstudents"></span>
   <h1>📚 Teaching/Students</h1>
 
   <h2>Teaching Assistant</h2>
@@ -191,7 +191,7 @@ lang: en
 
   <!-- ================= Misc ================= -->
 
-  <span id="misc"></span>
+  <span id="-misc"></span>
   <h1>🧰 Misc</h1>
 
   <h2>Serendipity</h2>
