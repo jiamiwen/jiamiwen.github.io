@@ -3,8 +3,8 @@ main:
   - title: "Research"
     url: "/#-research"
 
-  - title: "Teaching/Advising"
-    url: "/#-teachingadvising"
+  - title: "Teaching/Students"
+    url: "/#-teachingstudents"
 
   - title: "Misc"
     url: "/#-misc"
@@ -14,8 +14,8 @@ main_zh:
   - title: "研究"
     url: "/zh/#-research"
 
-  - title: "教学/指导"
-    url: "/zh/#-teachingadvising"
+  - title: "教学/学生"
+    url: "/zh/#-teachingstudents"
 
   - title: "其他"
     url: "/zh/#-misc"
