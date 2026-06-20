@@ -76,7 +76,7 @@ layout: default
   王后珍，<u>段小超</u>，<strong>文嘉明</strong>✉️，王亚辉, 张焕国 （指导学生 & 课题组老师一作）
   <br>
   <em>计算机学报 2025</em>
-  [<a href="http://cjc.ict.ac.cn/">期刊</a>, <a href="https://www.ccf.org.cn/ccftjgjxskwml/">CCF-T1</a>, 中文三大学报, <a href="https://github.com/jiamiwen/Olithium">公开代码</a>]
+  [<a href="http://cjc.ict.ac.cn/">期刊</a>, <a href="https://www.ccf.org.cn/ccftjgjxskwml/">CCF-T1</a>, 中文三大学报, <a href="https://github.com/jiamiwen/Olithium">代码</a>]
 </li>
 
 <li>
@@ -97,7 +97,7 @@ layout: default
   <strong>Jiaming Wen</strong>, Lu Bai, Zhichao Yang, Huanguo Zhang, Houzhen Wang, and Debiao He
   <br>
   <em>IEEE Transactions on Vehicular Technology (T-VT) 2024</em>
-  [<a href="https://vtsociety.org/publication/ieee-transactions-vehicular-technology">期刊</a>, JCR Q1, 中科院2区, <a href="https://github.com/jiamiwen/LaRRS">公开代码</a>]
+  [<a href="https://vtsociety.org/publication/ieee-transactions-vehicular-technology">期刊</a>, JCR Q1, 中科院2区, <a href="https://github.com/jiamiwen/LaRRS">代码</a>]
 </li>
 
 <li>
