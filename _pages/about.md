@@ -69,7 +69,7 @@ lang: en
   <h1>📜 Research</h1>
 
   <p>
-    My recent research interests lie at the intersection of information security (cryptography, privacy-preserving technologies, AI security) and educational technology. 
+    My recent research interests lie at the intersection of information security (cryptography, privacy-preserving technologies, AI security) and educational technology (educational data science, AI in education). 
     Below are outputs that I am the main contributor, either as First Author or (Co-)Corresponding Author✉️, with underlined names indicating supervised students or research team members.
     For others, please refer to
     <a href="https://scholar.google.com/citations?user=IoWa4fYAAAAJ">Google Scholar</a>
