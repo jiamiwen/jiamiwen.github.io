@@ -177,10 +177,10 @@ lang: en
 
   </ul>
 
-  <!-- ================= Teaching and Advising ================= -->
+  <!-- ================= Teaching and Students ================= -->
 
-  <span id="-teachingadvising"></span>
-  <h1>📚 Teaching/Advising</h1>
+  <span id="-teachingstudents"></span>
+  <h1>📚 Teaching/Students</h1>
 
   <h2>Teaching Assistant</h2>
 
