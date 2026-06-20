@@ -3,8 +3,8 @@ main:
   - title: "Research"
     url: "/#-research"
 
-  - title: "Services"
-    url: "/#-services"
+  - title: "Teaching/Supervision"
+    url: "/#-teachingsupervision"
 
   - title: "Misc"
     url: "/#-misc"
@@ -14,8 +14,8 @@ main_zh:
   - title: "研究"
     url: "/zh/#-research"
 
-  - title: "服务"
-    url: "/zh/#-services"
+  - title: "教学/指导"
+    url: "/zh/#-teachingsupervision"
 
   - title: "其他"
     url: "/zh/#-misc"
