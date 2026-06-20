@@ -43,7 +43,7 @@ layout: default
   <h1>📜 科研</h1>
 
   <p>
-    本人当前研究兴趣主要在信息安全（密码学，隐私保护技术，人工智能 × 安全）与教育技术（教育数据科学，人工智能 × 教育）的交叉领域。下列是作为主要贡献者的研究成果，即第一作者/（共同）通信作者✉️，其中<u>下划线作者</u>表示指导的学生或课题组成员。对于更多的工作，请参考<a href="https://scholar.google.com/citations?user=IoWa4fYAAAAJ">谷歌学术</a>和<a href="https://dblp.uni-trier.de/pid/324/5245-1.html">DBLP</a>.
+    本人当前研究兴趣主要聚焦于信息安全（密码学，隐私保护技术，人工智能 × 安全）与教育技术（教育数据科学，人工智能 × 教育）的交叉领域。的交叉领域。以下列出本人作为第一作者或（共同）通信作者✉️发表的代表性论文，其中<u>带下划线的作者</u>为本人指导的学生或课题组成员。其余请参见<a href="https://scholar.google.com/citations?user=IoWa4fYAAAAJ">谷歌学术</a>和<a href="https://dblp.uni-trier.de/pid/324/5245-1.html">DBLP</a>。
   </p>
 
   <ul style="padding-left:20px; line-height:1.8;">
@@ -145,27 +145,21 @@ layout: default
   <!-- ================= Teaching and Students ================= -->
 
   <span id="-teachingstudents"></span>
-  <h1>📚 Teaching/Students</h1>
+  <h1>📚 教学/学生</h1>
 
-  <h2>Teaching Assistant</h2>
+  <h2>助教</h2>
 
   <ul style="padding-left:20px; line-height:1.8;">
-    <li>(Feb 2023 - Jun 2023) <em>Programming and Experiments</em> (undergraduate course in Spring 2023), Wuhan University</li>
-    <li>(Sep 2021 - Jan 2022) <em>Introduction to Cryptography</em> (undergraduate course in Fall 2021), Wuhan University</li>
+    <li>(2023年2月 - 2023年6月) <em>程序设计与实验</em> （2023年春季学期本科时课程），武汉大学</li>
+    <li>(2021年9月 - 2022年1月) <em>密码学引论</em>（2021年秋季学期本科时课程），武汉大学</li>
   </ul>
 
   <!-- ================= Misc ================= -->
 
   <span id="-misc"></span>
-  <h1>🧰 Misc</h1>
+  <h1>🧰 其他</h1>
 
-  <h2>Serendipity</h2>
-
-  <p>
-    My name starts with "jiami" (Chinese for "encrypt") and ends with "mingwen" (Chinese for "plaintext"). I remove "ng" from it to obtain "miwen" (Chinese for "ciphertext") for several usernames, e.g., <a href="https://jiamiwen.github.io/images/wechat.jpg">wechat</a>, twitter, and github, as I believe it is more suitable for spreading over the public channel :)
-  </p>
-
-  <h2>Honors and Awards</h2>
+  <h2>奖励与荣誉</h2>
 
   <p>
     During my graduate studies at Wuhan University, I was awarded the <em>National Scholarship</em> (2024) and the <em>CSC Scholarship</em> (2023) from the Ministry of Education of China, the <em>First Prize Graduate Academic Scholarship</em> for Ph.D. students for all eligible years (2023, 2024), the <em>Shenzhen Stock Exchange Scholarship</em> for M.Sc. students (2022), and was selected as an <em>Excellent Graduate Student of Wuhan University</em> for all eligible years (2021–2025).
