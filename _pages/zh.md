@@ -20,7 +20,7 @@ layout: default
       <p>
         文嘉明，男，<a href="https://www.ccnu.edu.cn/">华中师范大学</a>-<a href="https://foaie.ccnu.edu.cn/">人工智能教育学部</a>-特任副研究员、硕士生导师。2020年6月本科毕业于<a href="https://www.whu.edu.cn/">武汉大学</a>-<a href="https://maths.whu.edu.cn/">数学与统计学院</a>，2025年12月博士毕业于<a href="https://www.whu.edu.cn/">武汉大学</a>-<a href="https://cse.whu.edu.cn/">国家网络安全学院</a>，师从<a href="https://mp.weixin.qq.com/s/4kCLRNMGecIvbeKZmOR_RQ">张焕国</a>二级教授（武汉大学信息安全专业创始人，国家网络安全学院首席顾问）。读博期间，2023年12月-2025年3月，由国家留学基金委资助，前往澳大利亚<a href="http://uow.edu.au/">沃隆港大学（University of Wollongong）</a>-<a href="https://www.uow.edu.au/engineering-information-sciences/school-of-computing-and-information-technology/">计算与信息技术学院</a>进行联合培养，师从<a href="https://scholars.uow.edu.au/willy-susilo">Willy Susilo</a>杰出教授（澳大利亚桂冠学者，Fellow of IEEE/IET/ACS/AAIA/AIIA）；2025年6月-8月，在<a href="https://www.antgroup.com/">蚂蚁集团</a>-<a href="https://www.misuan.com/about-us">密算科技公司</a>担任密码算法工程师实习生。
         
-        主要研究领域为密码学，隐私保护技术，以及信息安全与教育技术的交叉。近3年作为第一作者/通信作者在<em>IEEE Transactions on Dependable and Secure Computing (T-DSC)</em>，<em>IEEE Transactions on Vehicular Technology (T-VT)</em>，<em>计算机学报</em>，<em>计算机研究与发展</em>等国内外知名期刊上公开发表和录用论文10余篇。
+        主要研究领域为密码学，隐私保护技术，以及信息安全与教育技术的交叉。近3年作为第一作者/通信作者在<em>IEEE Transactions on Dependable and Secure Computing (T-DSC)</em>，<em>IEEE Transactions on Vehicular Technology (T-VT)</em>，<em>计算机学报</em>，<em>计算机研究与发展</em>等国内外知名期刊上公开发表或录用论文10余篇。
       </p>
 
       <p>
@@ -46,7 +46,7 @@ layout: default
   <h1>📜 科研</h1>
 
   <p>
-    本人当前研究兴趣主要聚焦于信息安全（密码学，隐私保护技术，人工智能 × 安全）与教育技术（教育数据科学，人工智能 × 教育）的交叉领域。以下列出本人作为第一作者或（共同）通信作者✉️发表的代表性论文，其中<u>带下划线的作者</u>为本人指导的学生或课题组成员。其余请参见<a href="https://scholar.google.com/citations?user=IoWa4fYAAAAJ">谷歌学术</a>和<a href="https://dblp.uni-trier.de/pid/324/5245-1.html">DBLP</a>。
+    本人当前研究兴趣主要聚焦于信息安全（密码学，隐私保护技术，人工智能 × 安全）与教育技术（教育数据科学，人工智能 × 教育）的交叉领域。以下是本人作为第一作者或（共同）通信作者✉️发表的代表性论文，其中<u>带下划线的作者</u>为本人指导的学生或课题组成员。其余请参见<a href="https://scholar.google.com/citations?user=IoWa4fYAAAAJ">谷歌学术</a>和<a href="https://dblp.uni-trier.de/pid/324/5245-1.html">DBLP</a>。
   </p>
 
   <ul style="padding-left:20px; line-height:1.8;">
