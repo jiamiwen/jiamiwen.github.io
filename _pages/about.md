@@ -1,4 +1,4 @@
----
+<img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/350005b8-5088-4848-973d-79d0ca6136e1" /><img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/a798a2fb-0f3a-4310-9af3-d823a69cd3fc" /><img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/3c91df4e-f761-48ad-8f9d-fd1b179860c7" /><img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/159ef764-2bfd-4b49-9ba7-a4a8a2536dfa" /><img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/e8b9d416-85b1-4dd9-95e5-64533570fae8" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -17,11 +17,13 @@ lang: en
     <div style="flex:0 0 70%;">
 
       <p>
-        I completed my Ph.D. in Cyber Security at
-        <a href="https://whu.edu.cn/">Wuhan University</a> in Dec 2025,
-        grateful to have
+        I am a tenure-track Associate Professor at
+        <a href="https://ccnu.edu.cn/">Central China Normal University</a>.
+        I obtained my B.Sc. degree in Mathematics and Ph.D. degree in Cyber Security from
+        <a href="https://whu.edu.cn/">Wuhan University</a>
+        in Jun 2020 and Dec 2025, respectively. During my doctoral studies, I was fortunate to be supervised by
         <a href="https://mp.weixin.qq.com/s/4kCLRNMGecIvbeKZmOR_RQ">Huanguo Zhang</a>
-        as my supervisor.
+        and to have two unforgettable experiences:
       </p>
 
       <ul style="padding-left:20px; line-height:1.7;">
@@ -40,11 +42,6 @@ lang: en
           <a href="https://scholars.uow.edu.au/willy-susilo">Willy Susilo</a>
           and had the fortune to study with the
           <a href="https://www.uow.edu.au/engineering-information-sciences/research/institute-cybersecurity-cryptology/">Institute of Cybersecurity and Cryptology (iC²)</a> led by him.
-        </li>
-
-        <li>
-          (Sep 2016 - Jun 2020) I earned my B.Sc. in Mathematics from Wuhan University,
-          and continued there for graduate studies.
         </li>
 
       </ul>
@@ -247,7 +244,7 @@ lang: en
   </ul>
 
   <p style="text-align:center; margin-top:3em;">
-    Last updated: 31 Dec 2025
+    Last updated: 20 Jun 2025
   </p>
 
 </div>
