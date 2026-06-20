@@ -241,7 +241,7 @@ lang: en
     </li>
 
     <li>
-      <a href="https://documents.uow.edu.au/~fuchun/">Fuchun Guo's Homepage</a>, including valuable materials for cryptography studies (temporarily on an interstellar trip).
+      <a href="https://documents.uow.edu.au/~fuchun/">Fuchun Guo's Homepage</a>, including research philosophy and valuable cryptography resources (temporarily on an interstellar trip).
     </li>
 
   </ul>
