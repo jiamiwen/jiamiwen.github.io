@@ -177,22 +177,38 @@ lang: en
 
   </ul>
 
-  <!-- ================= Services ================= -->
+  <!-- ================= Teaching and Advising ================= -->
 
-  <span id="-services"></span>
-  <h1>🧑‍💼 Services</h1>
+  <span id="-teachingadvising"></span>
+  <h1>📚 Teaching/Advising</h1>
 
-  <h2>Teaching</h2>
+  <h2>Teaching Assistant</h2>
 
   <ul style="padding-left:20px; line-height:1.8;">
     <li>
-      <strong>Teaching Assistant:</strong>
       <br>
       (Feb 2023 - Jun 2023) Programming and Experiments (undergraduate course in Spring 2023), Wuhan University
       <br>
       (Sep 2021 - Jan 2022) Cryptography (undergraduate course in Fall 2021), Wuhan University
     </li>
   </ul>
+
+  <!-- ================= Misc ================= -->
+
+  <span id="-misc"></span>
+  <h1>🧰 Misc</h1>
+
+  <h2>Serendipity</h2>
+
+  <p>
+    My name starts with "jiami" (Chinese for "encrypt") and ends with "mingwen" (Chinese for "plaintext"). I remove "ng" from it to obtain "miwen" (Chinese for "ciphertext") for several usernames, e.g., <a href="https://jiamiwen.github.io/images/wechat.jpg">wechat</a>, twitter, and github, as I believe it is more suitable for spreading over the public channel :)
+  </p>
+
+  <h2>Honor and Awards</h2>
+
+  <p>
+    When I was with Wuhan University, I was awarded National Scholarship (2024) and CSC Schnolarship (2023) from China Ministry of Education, First Prize in WHU Graduate Academic Scholarship (2023, 2024, Annually within the doctoral period),  WHU Shenzhen Stock Exchange Scholarship (2022)
+  </p>
 
   <h2>Serving as Reviewer</h2>
 
@@ -207,17 +223,6 @@ lang: en
       <em>ICISC 2024</em>, <em>Inscrypt 2023</em>, etc.
     </li>
   </ul>
-
-  <!-- ================= Misc ================= -->
-
-  <span id="-misc"></span>
-  <h1>🧰 Misc</h1>
-
-  <h2>Serendipity</h2>
-
-  <p>
-    My name starts with "jiami" (Chinese for "encrypt") and ends with "mingwen" (Chinese for "plaintext"). I remove "ng" from it to obtain "miwen" (Chinese for "ciphertext") for several usernames, e.g., <a href="https://jiamiwen.github.io/images/wechat.jpg">wechat</a>, twitter, and github, as I believe it is more suitable for spreading over the public channel :)
-  </p>
 
   <h2>Some Useful Links</h2>
 
