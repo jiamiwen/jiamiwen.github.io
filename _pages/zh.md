@@ -63,7 +63,7 @@ layout: default
   <a href="https://ieeexplore.ieee.org/document/11316825">ChatKID: Identity-Based Group Key Distribution Protocol for Instant Messaging</a>
   ([WWLZ23_KE]的后续工作)
   <br>
-  Houzhen Wang, <u>Jiayimei Wang</u>, <u>Wanying Qin</u>, and <strong>Jiaming Wen</strong>✉️ (指导学生 & 课题组老师一作)
+  Houzhen Wang, <u>Jiayimei Wang</u>, <u>Wanying Qin</u>, and <strong>Jiaming Wen</strong>✉️ （指导学生 & 课题组老师一作）
   <br>
   <em>IEEE Transactions on Dependable and Secure Computing (T-DSC) 2026</em>
   [<a href="https://www.computer.org/csdl/journal/tq">期刊</a>, JCR Q1, <a href="https://www.ccf.org.cn/Academic_Evaluation/NIS/">CCF-A</a>]
@@ -73,7 +73,7 @@ layout: default
   [WDWWZ25]
   <a href="http://cjc.ict.ac.cn/online/onlinepaper/whz-2025424155959.pdf">Olithium：基于格的无陷门在线/离线签名方案</a>
   <br>
-  王后珍，<u>段小超</u>，<strong>文嘉明</strong>✉️，王亚辉, 张焕国 (指导学生 & 课题组老师一作)
+  王后珍，<u>段小超</u>，<strong>文嘉明</strong>✉️，王亚辉, 张焕国 （指导学生 & 课题组老师一作）
   <br>
   <em>计算机学报 2025</em>
   [<a href="http://cjc.ict.ac.cn/">期刊</a>, <a href="https://www.ccf.org.cn/ccftjgjxskwml/">CCF-T1</a>, 中文三大学报, <a href="https://github.com/jiamiwen/Olithium">公开代码</a>]
@@ -134,7 +134,7 @@ layout: default
   [WWLZ23_KE]
   <a href="https://ieeexplore.ieee.org/document/10131978">ACKE: Asymmetric Computing Key Exchange Protocol for IoT Environments</a>
   <br>
-  Houzhen Wang, <strong>Jiaming Wen</strong>✉️, Jinhui Liu, and Huanguo Zhang (课题组老师一作)
+  Houzhen Wang, <strong>Jiaming Wen</strong>✉️, Jinhui Liu, and Huanguo Zhang （课题组老师一作）
   <br>
   <em>IEEE Internet of Things Journal (IoT-J) 2023</em>
   [<a href="https://ieee-iotj.org/">期刊</a>, JCR Q1, 中科院1区]
