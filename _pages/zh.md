@@ -162,47 +162,21 @@ layout: default
   <h2>奖励与荣誉</h2>
 
   <p>
-    During my graduate studies at Wuhan University, I was awarded the <em>National Scholarship</em> (2024) and the <em>CSC Scholarship</em> (2023) from the Ministry of Education of China, the <em>First Prize Graduate Academic Scholarship</em> for Ph.D. students for all eligible years (2023, 2024), the <em>Shenzhen Stock Exchange Scholarship</em> for M.Sc. students (2022), and was selected as an <em>Excellent Graduate Student of Wuhan University</em> for all eligible years (2021–2025).
+    在武汉大学读研究生期间，本人获得教育部国家奖学金（2024）、国家留学基金委奖学金（2023）、博士研究生优秀学业奖学金一等奖（2023、2024，所有参评年度）以及硕士生深交所奖学金（2022），并于2021–2025年连续获评武汉大学优秀研究生。
   </p>
 
-  <h2>Serving as Reviewer</h2>
+  <h2>论文审稿</h2>
 
   <ul style="padding-left:20px; line-height:1.8;">
     <li>
-      <strong>Journals:</strong>
+      <strong>期刊：</strong>
       <em>IEEE Transactions on Information Theory (T-IT)</em>, <em>IEEE Transactions on Dependable and Secure Computing (T-DSC)</em>, <em>IEEE Transactions on Information Forensics and Security (T-IFS)</em>, <em>IEEE Transactions on Vehicular Technology (T-VT)</em>, <em>IEEE Internet of Things Journal (IoT-J)</em>, <em>Journal of Information Security and Applications (JISA)</em>, etc.
     </li>
 
     <li>
-      <strong>Conferences:</strong>
+      <strong>会议：</strong>
       <em>ICISC 2024</em>, <em>Inscrypt 2023</em>, etc.
     </li>
-  </ul>
-
-  <h2>Some Useful Links</h2>
-
-  <ul style="padding-left:20px; line-height:1.8;">
-
-    <li>
-      <a href="https://eprint.iacr.org/">IACR ePrint Archive</a>, a mysterious website suggested visiting every day.
-    </li>
-
-    <li>
-      <a href="https://thelatticeclub.com/">The Lattice Club</a>, including so many resources about Lattice-based Cryptography.
-    </li>
-
-    <li>
-      <a href="https://pqshield.github.io/nist-sigs-zoo/">Post-Quantum Signatures Zoo</a>, including an overview of Post-Quantum Signatures.
-    </li>
-
-    <li>
-      <a href="https://homepage.iis.sinica.edu.tw/~kmchung/">Kai-Min Chung's Homepage</a>, including high-quality theoretical cryptography courses in Chinese.
-    </li>
-
-    <li>
-      <a href="https://documents.uow.edu.au/~fuchun/">Fuchun Guo's Homepage</a>, including research philosophy and valuable cryptography resources (temporarily on an interstellar trip).
-    </li>
-
   </ul>
 
   <p style="text-align:center; margin-top:3em;">
