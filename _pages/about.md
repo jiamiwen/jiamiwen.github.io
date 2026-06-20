@@ -21,7 +21,7 @@ lang: en
         <a href="https://www.ccnu.edu.cn/">Central China Normal University</a>.
         I obtained my B.Sc. degree in Mathematics and Ph.D. degree in Cyber Security from
         <a href="https://www.whu.edu.cn/">Wuhan University</a>
-        in Jun 2020 and Dec 2025, respectively. During my doctoral studies, I was fortunate to be supervised by
+        in Jun 2020 and Dec 2025, respectively. During my graduate studies, I was fortunate to be supervised by
         <a href="https://mp.weixin.qq.com/s/4kCLRNMGecIvbeKZmOR_RQ">Huanguo Zhang</a>
         and to have benefited from two memorable experiences:
       </p>
