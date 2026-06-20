@@ -200,7 +200,7 @@ lang: en
     My name starts with "jiami" (Chinese for "encrypt") and ends with "mingwen" (Chinese for "plaintext"). I remove "ng" from it to obtain "miwen" (Chinese for "ciphertext") for several usernames, e.g., <a href="https://jiamiwen.github.io/images/wechat.jpg">wechat</a>, twitter, and github, as I believe it is more suitable for spreading over the public channel :)
   </p>
 
-  <h2>Honor and Awards</h2>
+  <h2>Honors and Awards</h2>
 
   <p>
     During my graduate studies at Wuhan University, I was awarded the <em>National Scholarship</em> (2024) and the <em>CSC Scholarship</em> (2023) from the Ministry of Education of China, the <em>First Prize Graduate Academic Scholarship</em> for Ph.D. students in every eligible year (2023, 2024), the <em>Shenzhen Stock Exchange Scholarship</em> for M.S. students (2022), and was selected as an <em>WHU Excellent Graduate Student</em> in every eligible year (2021–2025).
