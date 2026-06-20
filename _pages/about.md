@@ -205,7 +205,7 @@ lang: en
   <h2>Honor and Awards</h2>
 
   <p>
-    During my time at Wuhan University, I was awarded the <em>National Scholarship</em>em> (2024) and the <em>CSC Scholarship</em>em> (2023) from the Ministry of Education of China, the <em>First Prize Graduate Academic Scholarship</em>em> for Ph.D. students in every eligible year (2023, 2024), the <em>Shenzhen Stock Exchange Scholarship</em> for M.S. students (2022), and was selected as an <em>Excellent Graduate Student</em> in every eligible year (2021–2025).
+    During my graduate studies at Wuhan University, I was awarded the <em>National Scholarship</em>em> (2024) and the <em>CSC Scholarship</em>em> (2023) from the Ministry of Education of China, the <em>First Prize Graduate Academic Scholarship</em>em> for Ph.D. students in every eligible year (2023, 2024), the <em>Shenzhen Stock Exchange Scholarship</em> for M.S. students (2022), and was selected as an <em>Excellent Graduate Student</em> in every eligible year (2021–2025).
   </p>
 
   <h2>Serving as Reviewer</h2>
