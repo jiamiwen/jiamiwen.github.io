@@ -72,7 +72,7 @@ lang: en
     My current interests lie at the intersection of information security (cryptography, privacy-preserving technologies, AI × security) and educational technology (educational data science, AI × education). 
     Below are outputs that I am the main contributor, either as First Author or (Co-)Corresponding Author✉️, with 
     <u>underlined names</u> 
-    indicating supervised students or our research group members.
+    indicating students or research group members under my supervision.
     For others, please refer to
     <a href="https://scholar.google.com/citations?user=IoWa4fYAAAAJ">Google Scholar</a>
     and
