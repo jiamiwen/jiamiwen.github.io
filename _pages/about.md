@@ -84,7 +84,7 @@ lang: en
   <a href="https://ieeexplore.ieee.org/document/11316825">ChatKID: Identity-Based Group Key Distribution Protocol for Instant Messaging</a>
   (follow-up work of [WWLZ23_KE])
   <br>
-  Houzhen Wang, Jiayimei Wang, Wanying Qin, and <strong>Jiaming Wen</strong>✉️ (Supervision & First Author is my co-advisor)
+  Houzhen Wang, <u>Jiayimei Wang</u>, <u>Wanying Qin</u>, and <strong>Jiaming Wen</strong>✉️ (Supervision & First Author is my co-advisor)
   <br>
   <em>IEEE Transactions on Dependable and Secure Computing (T-DSC) 2026</em>
   [<a href="https://www.computer.org/csdl/journal/tq">Journal</a>, JCR Q1, <a href="https://www.ccf.org.cn/Academic_Evaluation/NIS/">CCF-A</a>]
@@ -95,7 +95,7 @@ lang: en
   <a href="http://cjc.ict.ac.cn/online/onlinepaper/whz-2025424155959.pdf">Olithium: A Lattice-Based Online/Offline Signature Scheme without Trapdoors</a>
   (in Chinese)
   <br>
-  Houzhen Wang, Xiaochao Duan, <strong>Jiaming Wen</strong>✉️, Yahui Wang, and Huanguo Zhang (Supervision & First Author is my co-advisor)
+  Houzhen Wang, <u>Xiaochao Duan</u>, <strong>Jiaming Wen</strong>✉️, Yahui Wang, and Huanguo Zhang (Supervision & First Author is my co-advisor)
   <br>
   <em>Chinese Journal of Computers (计算机学报) 2025</em>
   [<a href="http://cjc.ict.ac.cn/">Journal</a>, <a href="https://www.ccf.org.cn/ccftjgjxskwml/">Chinese CCF-T1</a>, <a href="https://github.com/jiamiwen/Olithium">Code</a>]
