@@ -43,7 +43,7 @@ layout: default
   <h1>📜 科研</h1>
 
   <p>
-    本人当前研究兴趣主要在信息安全（密码学，隐私保护技术，人工智能 × 安全）与教育技术（教育数据科学，人工智能 × 教育）的交叉领域。下列为作为主要贡献者的研究成果，即第一作者或（共同）通信作者✉️，其中<u>下划线作者</u>表示指导的学生或课题组成员。对于更多的工作，请参考<a href="https://scholar.google.com/citations?user=IoWa4fYAAAAJ">谷歌学术</a>和<a href="https://dblp.uni-trier.de/pid/324/5245-1.html">DBLP</a>.
+    本人当前研究兴趣主要在信息安全（密码学，隐私保护技术，人工智能 × 安全）与教育技术（教育数据科学，人工智能 × 教育）的交叉领域。下列是作为主要贡献者的研究成果，即第一作者/（共同）通信作者✉️，其中<u>下划线作者</u>表示指导的学生或课题组成员。对于更多的工作，请参考<a href="https://scholar.google.com/citations?user=IoWa4fYAAAAJ">谷歌学术</a>和<a href="https://dblp.uni-trier.de/pid/324/5245-1.html">DBLP</a>.
   </p>
 
   <ul style="padding-left:20px; line-height:1.8;">
