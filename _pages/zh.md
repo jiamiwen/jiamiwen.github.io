@@ -68,12 +68,11 @@ layout: default
 
 <li>
   [WDWWZ25]
-  <a href="http://cjc.ict.ac.cn/online/onlinepaper/whz-2025424155959.pdf">Olithium: A Lattice-Based Online/Offline Signature Scheme without Trapdoors</a>
-  (in Chinese)
+  <a href="http://cjc.ict.ac.cn/online/onlinepaper/whz-2025424155959.pdf">Olithium：基于格的无陷门在线/离线签名方案</a>
   <br>
-  Houzhen Wang, <u>Xiaochao Duan</u>, <strong>Jiaming Wen</strong>✉️, Yahui Wang, and Huanguo Zhang (Supervision & First Author is my co-advisor)
+  王后珍，<u>段小超</u>，<strong>文嘉明</strong>✉️，王亚辉, 张焕国 (指导学生 & 课题组老师一作)
   <br>
-  <em>Chinese Journal of Computers (计算机学报) 2025</em>
+  <em>计算机学报 2025</em>
   [<a href="http://cjc.ict.ac.cn/">Journal</a>, <a href="https://www.ccf.org.cn/ccftjgjxskwml/">Chinese CCF-T1</a>, <a href="https://github.com/jiamiwen/Olithium">Code</a>]
 </li>
 
@@ -140,12 +139,11 @@ layout: default
 
 <li>
   [WWLZ23_SIG]
-  <a href="https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202220533">Aitps: A Two-Party Signature Scheme from Asymmetry Module Lattice Problems</a>
-  (in Chinese)
+  <a href="https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202220533">Aitps：基于非对称模格问题的两方协同签名方案</a>
   <br>
-  <strong>Jiaming Wen</strong>, Houzhen Wang, Jinhui Liu, and Huanguo Zhang
+  <strong>文嘉明</strong>，王后珍，刘金会，张焕国
   <br>
-  <em>Journal of Computer Research and Development (计算机研究与发展) 2023</em>
+  <em>计算机研究与发展 2023</em>
   [<a href="https://crad.ict.ac.cn/">Journal</a>, <a href="https://www.ccf.org.cn/ccftjgjxskwml/">Chinese CCF-T1</a>]
 </li>
 
