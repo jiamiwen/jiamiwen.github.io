@@ -196,3 +196,26 @@ a {
   margin: 0 0 1em 1.5em;
   max-width: 38%;
 }
+
+/* ==========================================================================
+   固定宽度等比缩放方案：
+   让手机、平板、电脑始终按 1280px 的设计稿布局渲染，
+   再用 JS 按屏幕实际宽度整体等比缩放，
+   从而保证三端排版、每行字数完全一致。
+   ========================================================================== */
+
+html, body {
+  overflow-x: hidden;
+}
+
+#scale-outer {
+  width: 100%;
+  overflow: hidden;
+}
+
+#scale-wrap {
+  width: 1280px;
+  max-width: none;
+  transform-origin: top left;
+  background: #fff;
+}
