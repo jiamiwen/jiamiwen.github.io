@@ -205,22 +205,22 @@ a {
    ========================================================================== */
 
 html, body {
-  overflow: hidden;   /* ❗关键：禁止重排滚动 */
-}
-
-body {
   margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: auto;
+  display: flex;
+  justify-content: center;
 }
 
 #scale-wrap {
   width: 1280px;
-  transform-origin: top left;
+  transform-origin: top center;
 }
 
-/* 防止 MM 自动换行 */
 .page,
 .page__inner-wrap,
 .page__content,
 #main {
-  min-width: 1200px;
+  width: 100%;
 }
