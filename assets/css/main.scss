@@ -216,6 +216,7 @@ html, body {
 #scale-wrap {
   width: 1280px;
   max-width: none;
-  transform-origin: top left;
+  margin: 0 auto;
+  transform-origin: top center;
   background: #fff;
 }
