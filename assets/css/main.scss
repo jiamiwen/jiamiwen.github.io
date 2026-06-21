@@ -205,14 +205,16 @@ a {
    ========================================================================== */
 
 html, body {
-  min-width: 1200px;
-  overflow-x: auto;
+  overflow: hidden;   /* ❗关键：禁止重排滚动 */
 }
 
-/* 主容器固定宽度 */
+body {
+  margin: 0;
+}
+
 #scale-wrap {
-  width: 1200px;
-  margin: 0 auto;
+  width: 1280px;
+  transform-origin: top left;
 }
 
 /* 防止 MM 自动换行 */
