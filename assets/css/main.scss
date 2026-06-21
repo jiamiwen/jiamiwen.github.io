@@ -208,15 +208,9 @@ html, body {
   overflow-x: hidden;
 }
 
-#scale-outer {
-  width: 100%;
-  overflow: hidden;
-}
-
 #scale-wrap {
   width: 1280px;
   max-width: none;
   margin: 0 auto;
-  transform-origin: top center;
   background: #fff;
 }
