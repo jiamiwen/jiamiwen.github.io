@@ -190,7 +190,7 @@ layout: default
   </ul>
 
   <p style="text-align:center; margin-top:3em;">
-    上次更新：2026年6月20日
+    上次更新：2026年6月21日
   </p>
 
 </div>
