@@ -205,14 +205,13 @@ a {
    ========================================================================== */
 
 html, body {
-  overflow-x: hidden;
-  -webkit-text-size-adjust: 100%;
-  text-size-adjust: 100%;
+  min-width: 1200px;
 }
 
-#scale-wrap {
-  width: 1280px;
-  max-width: none;
-  margin: 0 auto;
-  background: #fff;
+@media (max-width: 1200px) {
+  body {
+    transform: scale(0.8);
+    transform-origin: top left;
+    width: 125%;
+  }
 }
