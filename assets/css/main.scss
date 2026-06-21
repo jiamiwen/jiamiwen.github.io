@@ -1,8 +1,16 @@
+---
+---
+
 /*
  *    Minimal Mistakes Jekyll Theme
+ *
+ *  - Michael Rose
+ *  - mademistakes.com
+ *  - https://twitter.com/mmistakes
+ *
 */
 
-@import "vendor/breakpoint/breakpoint";
+@import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
 @import "vendor/susy/susy";
@@ -32,75 +40,86 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* =========================
-   Paper layout
-========================= */
-
 .paper-box {
+
   display: flex;
+
   justify-content: left;
+
   align-items: center;
+
   flex-direction: row;
+
   flex-wrap: nowrap;
+
   border-bottom: 1px #efefef solid;
+
   padding: 2em 0;
 
   .paper-box-image {
+
+    justify-content: left;
+
     display: flex;
+
     min-width: 200px;
+
     max-width: 40%;
+
     width: 40%;
+
     order: 1;
 
     img {
+
       max-width: 400px;
+
       width: 100%;
+
       box-shadow: 3px 3px 6px #888;
+
       object-fit: cover;
+
     }
+
   }
 
   .paper-box-text {
+
+    justify-content: left;
+
     padding-left: 2em;
+
     max-width: 60%;
+
     width: 60%;
+
     order: 2;
+
   }
+
 }
 
-/* =========================
-   Anchors
-========================= */
-
-$scroll_offset: 2em;
-
-h1:before, .anchor:before {
-  content: '';
-  display: block;
-  position: relative;
-  width: 0;
-  height: $scroll_offset;
-  margin-top: -$scroll_offset;
+$scroll_offset : 2em;
+h1:before, .anchor:before { 
+    content: ''; 
+    display: block; 
+    position: relative; 
+    width: 0; 
+    height: $scroll_offset; 
+    margin-top: -$scroll_offset;
 }
-
-/* =========================
-   Badges
-========================= */
 
 .badge {
-  padding-left: 1rem;
-  padding-right: 1rem;
-  position: absolute;
-  margin-top: .5em;
-  margin-left: -.5em;
-  color: white;
-  background-color: #00369f;
-  font-size: .8em;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    position: absolute;
+    margin-top: .5em;
+    margin-left: -.5em;
+    color: white;
+    background-color: #00369f;
+    font-size: .8em;
 }
-
-/* =========================
-   Layout fixes
-========================= */
 
 .sidebar.sticky {
   position: static !important;
@@ -120,47 +139,29 @@ h1:before, .anchor:before {
   padding-right: 1em !important;
 }
 
-/* =========================
-   Navigation
-========================= */
-
 .greedy-nav .visible-links a {
   font-size: 1.3em !important;
 }
-
-.greedy-nav {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  width: 100%;
-}
-
-/* =========================
-   Typography
-========================= */
 
 .page__content {
   font-size: 1.2em;
 }
 
 a {
-  color: #117a65;
-  text-decoration: none;
+  color: #117a65; // 绿色，可以换成其他色值
+  text-decoration: none; // 去掉下划线
 }
-
-/* =========================
-   Language switch
-========================= */
 
 .lang-switch {
   position: relative;
   margin-left: auto;
   padding: 0.5rem 1rem;
   color: #7a8288 !important;
+  text-decoration: none;
   font-weight: bold;
   white-space: nowrap;
-  font-size: 1.3em;
-
+  font-size: 1.3em; // 和左边其他链接一样大
+  
   &:before {
     content: "";
     position: absolute;
@@ -172,45 +173,54 @@ a {
     transition: all 0.2s ease-in-out;
     transform: scaleX(0);
   }
-
+  
   &:hover {
     color: #224b8d !important;
-
+    
     &:before {
       transform: scaleX(1);
     }
   }
 }
 
-/* =========================
-   Images
-========================= */
+.greedy-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
 
+/* 个人照片右浮动，保持桌面端一致布局 */
 .page__content p img {
   float: right;
   margin: 0 0 1em 1.5em;
   max-width: 38%;
 }
 
-/* =========================
-   FINAL FIX (1280 layout system)
-========================= */
+/* ==========================================================================
+   固定宽度等比缩放方案：
+   让手机、平板、电脑始终按 1280px 的设计稿布局渲染，
+   再用 JS 按屏幕实际宽度整体等比缩放，
+   从而保证三端排版、每行字数完全一致。
+   ========================================================================== */
 
-/* ❗允许滚动（必须） */
-html, body {
-  overflow-x: auto;
-}
+html, body { 
+   overflow: hidden; /* ❗关键：禁止重排滚动 */ 
+} 
 
-/* ❗主容器固定宽度 */
-#scale-wrap {
-  width: 1280px;
-  transform-origin: top left;
-}
+body { 
+   margin: 0; 
+} 
 
-/* ❗防止 MM 自动换行 */
-.page,
-.page__inner-wrap,
-.page__content,
-#main {
-  min-width: 1280px;
+#scale-wrap { 
+   width: 1280px; 
+   transform-origin: top left; 
+} 
+
+/* 防止 MM 自动换行 */ 
+.page, 
+.page__inner-wrap, 
+.page__content, 
+#main { 
+   min-width: 1200px; 
 }
