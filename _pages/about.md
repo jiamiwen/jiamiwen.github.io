@@ -47,6 +47,10 @@ lang: en
       </ul>
 
       <p>
+        I work on information security, cryptography, and their intersection with educational technology.
+      </p>
+      
+      <p>
         I can be reached via
         <a href="mailto:wenjm@whu.edu.cn">wenjm at whu.edu.cn</a>
         /
