@@ -21,61 +21,44 @@ function toggleLanguage() {
 
 document.addEventListener("DOMContentLoaded", function () {
 
-  // ⭐ 只找导航栏里的“中文主页”
+  // 语言切换
   document.querySelectorAll('.masthead__menu a').forEach(link => {
-
     if (link.textContent.trim() === "中文主页") {
-
       link.addEventListener('click', function (e) {
-        e.preventDefault();   // ❗阻止跳转
-        toggleLanguage();     // ✔ 切换语言
+        e.preventDefault();
+        toggleLanguage();
       });
-
     }
-
   });
 
 });
 </script>
 
+<!-- =========================================================
+     固定 1280 设计稿等比缩放（唯一方案：zoom）
+     保证手机 / 平板 / PC 每行字数完全一致
+========================================================= -->
 <script>
-// ==========================================================================
-// 固定宽度等比缩放：始终按 1280px 设计稿布局，用 CSS zoom 整体缩放适配
-// 当前屏幕宽度，使手机 / 平板 / 电脑的排版与每行字数完全一致。
-// zoom 由浏览器原生处理高度和重排，不需要手动计算容器高度，更稳定。
-// ==========================================================================
 (function () {
-  var DESIGN_WIDTH = 1280;
+  const DESIGN_WIDTH = 1280;
 
   function applyZoom() {
-    var wrap = document.getElementById('scale-wrap');
+    const wrap = document.getElementById('scale-wrap');
     if (!wrap) return;
 
-    var z = window.innerWidth / DESIGN_WIDTH;
-    if (!z || z <= 0 || !isFinite(z) || z > 1) z = Math.min(z || 1, 1);
-    wrap.style.zoom = z;
+    let zoom = window.innerWidth / DESIGN_WIDTH;
+
+    // 防止异常值
+    if (!isFinite(zoom) || zoom <= 0) zoom = 1;
+
+    // ❗只允许缩小，不允许放大
+    zoom = Math.min(zoom, 1);
+
+    wrap.style.zoom = zoom;
   }
 
   window.addEventListener('resize', applyZoom);
   window.addEventListener('orientationchange', applyZoom);
   document.addEventListener('DOMContentLoaded', applyZoom);
 })();
-</script>
-
-<script>
-function scalePage() {
-    const baseWidth = 1280;
-    const scale = window.innerWidth / baseWidth;
-
-    const wrap = document.getElementById("scale-wrap");
-    if (!wrap) return;
-
-    wrap.style.transform = `scale(${scale})`;
-    wrap.style.transformOrigin = "top left";
-
-    document.body.style.height = (window.innerHeight / scale) + "px";
-}
-
-window.addEventListener("resize", scalePage);
-window.addEventListener("load", scalePage);
 </script>
