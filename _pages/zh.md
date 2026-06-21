@@ -31,10 +31,10 @@ layout: default
       </p>
 
       <p>
-        联系方式：
+        📧
         <a href="mailto:wenjm@whu.edu.cn">wenjm at whu.edu.cn</a>
-        或
-        <a href="mailto:cryptowjm@163.com">cryptowjm at 163.com</a>.
+        /
+        <a href="mailto:cryptowjm@163.com">cryptowjm at 163.com</a>
       </p>
 
     </div>
