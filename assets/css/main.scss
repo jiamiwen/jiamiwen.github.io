@@ -206,12 +206,19 @@ a {
 
 html, body {
   min-width: 1200px;
+  overflow-x: auto;
 }
 
-@media (max-width: 1200px) {
-  body {
-    transform: scale(0.8);
-    transform-origin: top left;
-    width: 125%;
-  }
+/* 主容器固定宽度 */
+#scale-wrap {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+/* 防止 MM 自动换行 */
+.page,
+.page__inner-wrap,
+.page__content,
+#main {
+  min-width: 1200px;
 }
