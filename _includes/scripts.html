@@ -52,7 +52,7 @@ document.addEventListener("DOMContentLoaded", function () {
     outer = outer || document.getElementById('scale-outer');
     if (!wrap || !outer) return;
 
-    var scale = window.innerWidth / DESIGN_WIDTH;
+    var scale = Math.min(window.innerWidth / DESIGN_WIDTH, 1);
     wrap.style.transform = 'scale(' + scale + ')';
     outer.style.height = (wrap.offsetHeight * scale) + 'px';
   }
