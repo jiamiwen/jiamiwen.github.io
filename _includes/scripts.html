@@ -37,3 +37,35 @@ document.addEventListener("DOMContentLoaded", function () {
 
 });
 </script>
+
+<script>
+// ==========================================================================
+// 固定宽度等比缩放：始终按 1280px 设计稿布局，再整体缩放适配当前屏幕宽度，
+// 使手机 / 平板 / 电脑的排版与每行字数完全一致。
+// ==========================================================================
+(function () {
+  var DESIGN_WIDTH = 1280;
+  var wrap, outer;
+
+  function applyScale() {
+    wrap = wrap || document.getElementById('scale-wrap');
+    outer = outer || document.getElementById('scale-outer');
+    if (!wrap || !outer) return;
+
+    var scale = window.innerWidth / DESIGN_WIDTH;
+    wrap.style.transform = 'scale(' + scale + ')';
+    outer.style.height = (wrap.offsetHeight * scale) + 'px';
+  }
+
+  window.addEventListener('resize', applyScale);
+  window.addEventListener('orientationchange', applyScale);
+  window.addEventListener('load', applyScale);
+  document.addEventListener('DOMContentLoaded', applyScale);
+
+  // 部分内容（如 Google Scholar 统计数据）是异步加载的，
+  // 加载完成后高度可能变化，这里延迟多次重新校正一下高度
+  setTimeout(applyScale, 500);
+  setTimeout(applyScale, 1500);
+  setTimeout(applyScale, 3000);
+})();
+</script>
