@@ -32,7 +32,7 @@ layout: default
 
       <p>
         联系方式：
-        <a href="mailto:wenjm@ccnu.edu.cn">wenjm at ccnu.edu.cn</a> / <a href="mailto:wenjm@whu.edu.cn">wenjm at whu.edu.cn</a> / <a href="mailto:cryptowjm@163.com">cryptowjm at 163.com</a>.
+        <a href="mailto:wenjm@ccnu.edu.cn">wenjm at ccnu.edu.cn</a> / <a href="mailto:wenjm@whu.edu.cn">wenjm at whu.edu.cn</a> / <a href="mailto:cryptowjm@163.com">cryptowjm at 163.com</a>
       </p>
 
     </div>
