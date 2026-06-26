@@ -52,6 +52,8 @@ lang: en
       
       <p>
         I can be reached via
+        <a href="mailto:wenjm@ccnu.edu.cn">wenjm at ccnu.edu.cn</a>
+        /
         <a href="mailto:wenjm@whu.edu.cn">wenjm at whu.edu.cn</a>
         /
         <a href="mailto:cryptowjm@163.com">cryptowjm at 163.com</a>.
@@ -251,7 +253,7 @@ lang: en
   </ul>
 
   <p style="text-align:center; margin-top:3em;">
-    Last updated: 21 Jun 2026
+    Last updated: 26 Jun 2026
   </p>
 
 </div>
