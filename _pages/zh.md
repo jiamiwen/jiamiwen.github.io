@@ -18,7 +18,7 @@ layout: default
     <div style="flex:0 0 66%;">
 
       <p>
-        文嘉明，<a href="https://www.ccnu.edu.cn/">华中师范大学</a>-<a href="https://foaie.ccnu.edu.cn/">人工智能教育学部</a>-特任副研究员、硕士生导师。2020年6月本科毕业于<a href="https://www.whu.edu.cn/">武汉大学</a>-<a href="https://maths.whu.edu.cn/">数学与统计学院</a>，2025年12月博士毕业于<a href="https://www.whu.edu.cn/">武汉大学</a>-<a href="https://cse.whu.edu.cn/">国家网络安全学院</a>，师从 <a href="https://mp.weixin.qq.com/s/4kCLRNMGecIvbeKZmOR_RQ">张焕国</a> 二级教授（武汉大学信息安全专业创始人，国家网络安全学院首席顾问）。
+        文嘉明，<a href="https://www.ccnu.edu.cn/">华中师范大学</a>-<a href="https://foaie.ccnu.edu.cn/">人工智能教育学部</a>/<a href="https://nercel.ccnu.edu.cn/">国家数字化学习工程技术研究中心</a>-特任副研究员、硕士生导师。2020年6月本科毕业于<a href="https://www.whu.edu.cn/">武汉大学</a>-<a href="https://maths.whu.edu.cn/">数学与统计学院</a>，2025年12月博士毕业于<a href="https://www.whu.edu.cn/">武汉大学</a>-<a href="https://cse.whu.edu.cn/">国家网络安全学院</a>，师从 <a href="https://mp.weixin.qq.com/s/4kCLRNMGecIvbeKZmOR_RQ">张焕国</a> 二级教授（武汉大学信息安全专业创始人，国家网络安全学院首席顾问）。
       </p>
 
       <p>
