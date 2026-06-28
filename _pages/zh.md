@@ -27,7 +27,7 @@ layout: default
 
 
       <p>
-        主要研究领域包括密码学，隐私保护技术，以及信息安全与教育技术的交叉。近3年作为第一作者/通信作者在<em>IEEE Transactions on Dependable and Secure Computing (T-DSC)</em>、<em>IEEE Transactions on Vehicular Technology (T-VT)</em>、<em>计算机学报</em>、<em>计算机研究与发展</em> 等国内外知名期刊上公开发表或录用论文10余篇。
+        研究领域包括密码学，隐私保护技术，以及信息安全与教育技术的交叉。近3年作为第一作者/通信作者在<em>IEEE Transactions on Dependable and Secure Computing (T-DSC)</em>、<em>IEEE Transactions on Vehicular Technology (T-VT)</em>、<em>计算机学报</em>、<em>计算机研究与发展</em> 等国内外知名期刊上公开发表或录用论文10余篇。
       </p>
 
       <p>
