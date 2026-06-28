@@ -188,7 +188,7 @@ layout: default
   </ul>
 
   <p style="text-align:center; margin-top:3em;">
-    上次更新：2026年6月26日
+    上次更新：2026年6月28日
   </p>
 
 </div>
