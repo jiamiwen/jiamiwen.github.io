@@ -15,7 +15,7 @@ layout: default
   <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:2em; margin-bottom:2em; flex-wrap:nowrap;">
 
     <!-- Left -->
-    <div style="flex:0 0 68%;">
+    <div style="flex:0 0 67%;">
 
       <p>
         文嘉明，<a href="https://www.ccnu.edu.cn/">华中师范大学</a>-<a href="https://foaie.ccnu.edu.cn/">人工智能教育学部</a>-特任副研究员、硕士生导师。2020年6月毕业于<a href="https://www.whu.edu.cn/">武汉大学</a>-<a href="https://maths.whu.edu.cn/">数学与统计学院</a>，获理学学士学位，2025年12月毕业于<a href="https://www.whu.edu.cn/">武汉大学</a>-<a href="https://cse.whu.edu.cn/">国家网络安全学院</a>，获工学博士学位，师从 <a href="https://mp.weixin.qq.com/s/4kCLRNMGecIvbeKZmOR_RQ">张焕国</a> 二级教授（武汉大学信息安全专业创始人，国家网络安全学院首席顾问）。
