@@ -22,7 +22,7 @@ layout: default
       </p>
 
       <p>
-        读博期间，2023年12月 - 2025年3月，由国家留学基金委资助，前往澳大利亚<a href="http://uow.edu.au/">沃隆港大学（University of Wollongong）</a>-<a href="https://www.uow.edu.au/engineering-information-sciences/school-of-computing-and-information-technology/">计算与信息技术学院</a>进行联合培养，师从 <a href="https://scholars.uow.edu.au/willy-susilo">Willy Susilo</a> 杰出教授（澳大利亚桂冠学者，Fellow of IEEE/IET/ACS/AAIA/AIIA）。2025年6月 - 2025年8月在<a href="https://www.antgroup.com/">蚂蚁集团</a>-<a href="https://www.misuan.com/about-us">蚂蚁密算科技公司</a>实习，从事密码算法相关工作。
+        读博期间，2023年12月 - 2025年3月，由国家留学基金委资助，前往澳大利亚<a href="http://uow.edu.au/">沃隆港大学（University of Wollongong）</a>-<a href="https://www.uow.edu.au/engineering-information-sciences/school-of-computing-and-information-technology/">计算与信息技术学院</a>进行联合培养，师从 <a href="https://scholars.uow.edu.au/willy-susilo">Willy Susilo</a> 杰出教授（澳大利亚桂冠学者，Fellow of IEEE/IET/ACS/AAIA/AIIA）。2025年6月 - 2025年8月在<a href="https://www.antgroup.com/">蚂蚁集团</a>-<a href="https://www.misuan.com/about-us">蚂蚁密算科技公司</a>实习，从事密码算法工作。
       </p>
 
 
