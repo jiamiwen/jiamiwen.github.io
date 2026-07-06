@@ -29,19 +29,19 @@ lang: en
       <ul style="padding-left:20px; line-height:1.7;">
 
         <li>
+          (Jun 2025 - Aug 2025) I did an industry internship at
+          <a href="https://www.antgroup.com/">Ant Group</a>,
+          with
+          <a href="https://www.misuan.com/about-us">Misuan</a>.
+        </li>
+
+        <li>
           (Dec 2023 - Mar 2025) I was a CSC Visiting Ph.D. student at the
           <a href="http://uow.edu.au/">University of Wollongong</a>, Australia.
           There, I was hosted by
           <a href="https://scholars.uow.edu.au/willy-susilo">Willy Susilo</a>
           and had the opportunity to work with the
           <a href="https://www.uow.edu.au/engineering-information-sciences/research/institute-cybersecurity-cryptology/">Institute of Cybersecurity and Cryptology (iC²)</a> led by him.
-        </li>
-
-        <li>
-          (Jun 2025 - Aug 2025) I did an industry internship at
-          <a href="https://www.antgroup.com/">Ant Group</a>,
-          with
-          <a href="https://www.misuan.com/about-us">Misuan</a>.
         </li>
 
       </ul>
