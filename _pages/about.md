@@ -29,7 +29,7 @@ lang: en
       <ul style="padding-left:20px; line-height:1.7;">
 
         <li>
-          (Jun 2025 - Aug 2025) I did an industry internship at
+          (Jun 2025 - Aug 2025) I did an cryptographic algorithm internship at
           <a href="https://www.antgroup.com/">Ant Group</a>,
           with
           <a href="https://www.misuan.com/about-us">Misuan</a>.
