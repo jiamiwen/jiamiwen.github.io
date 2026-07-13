@@ -47,7 +47,7 @@ lang: en
       </ul>
 
       <p>
-        I work on information security, cryptography, and their overlap with educational technology.
+        I work on information security, cryptography, and their overlap with education.
       </p>
       
       <p>
