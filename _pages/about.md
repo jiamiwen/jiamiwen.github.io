@@ -71,7 +71,7 @@ lang: en
   <h1>📜 Research</h1>
 
   <p>
-    My current interests lie in information security (cryptography, privacy-preserving technologies, AI × security) and its intersection with educational technology (educational data science, AI × education). 
+    My current interests lie in information security (cryptography, privacy-preserving technologies, AI × security) and its intersection with education (educational data security and governance, information security education). 
     Below are outputs that I am the main contributor, either as First Author or (Co-)Corresponding Author✉️, with 
     <u>underlined names</u> 
     indicating students or group members under my supervision.
