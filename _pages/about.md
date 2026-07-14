@@ -47,7 +47,7 @@ lang: en
       </ul>
 
       <p>
-        I work on information security, cryptography, and their overlap with education.
+        I work on information security (cryptography, privacy-preserving technologies, AI × security) and their overlap with education (educational data security and governance, information security education)
       </p>
       
       <p>
@@ -71,7 +71,6 @@ lang: en
   <h1>📜 Research</h1>
 
   <p>
-    My recent interests lie in information security (cryptography, privacy-preserving technologies, AI × security) and its intersection with education (educational data security and governance, information security education). 
     Below are outputs that I am the main contributor, either as First Author or (Co-)Corresponding Author✉️, with 
     <u>underlined names</u> 
     indicating students or group members under my supervision.
