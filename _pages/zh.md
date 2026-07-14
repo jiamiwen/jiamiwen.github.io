@@ -51,7 +51,7 @@ layout: default
   <h1>📜 科研</h1>
 
   <p>
-    当前主要研究信息安全（密码学、隐私保护技术、人工智能 × 安全）及其与教育的交叉领域（教育数据安全与治理、信息安全教育）。下列是作为第一作者或（共同）通信作者✉️发表的成果，<u>下划线</u>表示指导的学生或课题组成员，其余请参见<a href="https://scholar.google.com/citations?user=IoWa4fYAAAAJ">谷歌学术</a>和<a href="https://dblp.uni-trier.de/pid/324/5245-1.html">DBLP</a>。
+    当前主要研究信息安全（密码学、隐私保护技术、人工智能 × 安全）及其与教育的交叉领域（教育数据安全与治理、信息安全教育）。下列是作为第一作者或（共同）通信作者✉️已发表的成果，<u>下划线</u>表示指导的学生或课题组成员，其余请参见<a href="https://scholar.google.com/citations?user=IoWa4fYAAAAJ">谷歌学术</a>和<a href="https://dblp.uni-trier.de/pid/324/5245-1.html">DBLP</a>。
   </p>
 
   <ul style="padding-left:20px; line-height:1.8;">
