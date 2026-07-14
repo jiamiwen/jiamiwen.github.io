@@ -72,7 +72,7 @@ lang: en
 
   <p>
     My current interests lie in information security (cryptography, privacy-preserving technologies, AI × security) and its intersection with education (educational data security and governance, information security education). 
-    Below are some outputs that I am the main contributor, either as First Author or (Co-)Corresponding Author✉️, with 
+    Below are outputs that I am the main contributor, either as First Author or (Co-)Corresponding Author✉️, with 
     <u>underlined names</u> 
     indicating students or group members under my supervision.
     For others, please refer to
