@@ -47,7 +47,7 @@ lang: en
       </ul>
 
       <p>
-        I am interested in information security (cryptography, privacy-preserving technologies, and AI × security), and their overlap with education (educational data security and governance, information security education).
+        I am interested in information security (cryptography, privacy-preserving technologies, and AI × security), and their overlap with education (educational data security and governance, secure and trustworthy educational agents).
       </p>
       
       <p>
