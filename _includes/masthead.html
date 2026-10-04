@@ -6,14 +6,14 @@
         <ul class="visible-links">
           {% if page.url contains '/zh/' %}
             <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
-              <a href="/zh/#about-me">Jiaming Wen 文嘉明</a>
+              <a href="https://faculty.ccnu.edu.cn/wenjm/">Jiaming Wen 文嘉明</a>
             </li>
             {% for link in site.data.navigation.main_zh %}
               <li class="masthead__menu-item"><a href="{{ link.url }}">{{ link.title }}</a></li>
             {% endfor %}
           {% else %}
             <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
-              <a href="/#about-me">Jiaming Wen 文嘉明</a>
+              <a href="https://faculty.ccnu.edu.cn/wenjm/">Jiaming Wen 文嘉明</a>
             </li>
             {% for link in site.data.navigation.main %}
               <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
