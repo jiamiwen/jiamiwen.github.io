@@ -226,7 +226,7 @@ lang: en
   <ul style="padding-left:20px; line-height:1.8;">
 
     <li>
-      <a href="https://faculty.ccnu.edu.cn/wenjm/">My faculty profile page</a>.
+      <a href="https://faculty.ccnu.edu.cn/wenjm/">My faculty profile page</a>, including my official profile provided by the university in Chinese.
     </li>
     
     <li>
