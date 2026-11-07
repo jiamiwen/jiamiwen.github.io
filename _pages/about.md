@@ -101,7 +101,7 @@ lang: en
   Houzhen Wang, <u>Xiaochao Duan</u>, <strong>Jiaming Wen</strong>✉️, Yahui Wang, and Huanguo Zhang (Supervision & First Author is my co-advisor)
   <br>
   <em>Chinese Journal of Computers (计算机学报) 2025</em>
-  [<a href="http://cjc.ict.ac.cn/">Journal</a>, <a href="https://www.ccf.org.cn/ccftjgjxskwml/">Chinese CCF-T1</a>, <a href="https://github.com/jiamiwen/Olithium">Code</a>]
+  [<a href="http://cjc.ict.ac.cn/">Journal</a>, <a href="https://www.ccf.org.cn/c/2019-07-31/667609.shtml">Chinese CCF-A</a>, <a href="https://github.com/jiamiwen/Olithium">Code</a>]
 </li>
 
 <li>
@@ -173,7 +173,7 @@ lang: en
   <strong>Jiaming Wen</strong>, Houzhen Wang, Jinhui Liu, and Huanguo Zhang
   <br>
   <em>Journal of Computer Research and Development (计算机研究与发展) 2023</em>
-  [<a href="https://crad.ict.ac.cn/">Journal</a>, <a href="https://www.ccf.org.cn/ccftjgjxskwml/">Chinese CCF-T1</a>]
+  [<a href="https://crad.ict.ac.cn/">Journal</a>, <a href="https://www.ccf.org.cn/c/2019-07-31/667609.shtml">Chinese CCF-A</a>]
 </li>
 
   </ul>
