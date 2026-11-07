@@ -90,7 +90,7 @@ lang: en
   Houzhen Wang, <u>Jiayimei Wang</u>, <u>Wanying Qin</u>, and <strong>Jiaming Wen</strong>✉️ (Supervision & First Author is my co-advisor)
   <br>
   <em>IEEE Transactions on Dependable and Secure Computing (T-DSC) 2026</em>
-  [<a href="https://www.computer.org/csdl/journal/tq">Journal</a>, JCR Q1, <a href="https://www.ccf.org.cn/Academic_Evaluation/NIS/">CCF-A</a>]
+  [<a href="https://www.computer.org/csdl/journal/tq">Journal</a>, JCR-Q1, <a href="https://www.ccf.org.cn/Academic_Evaluation/NIS/">CCF-A</a>]
 </li>
 
 <li>
@@ -112,7 +112,7 @@ lang: en
   <strong>Jiaming Wen</strong>, Willy Susilo, Rupeng Yang, Zuoxia Yu, and Huanguo Zhang
   <br>
   <em>Computer Standards & Interfaces (CSI) 2025</em>
-  [<a href="https://www.sciencedirect.com/journal/computer-standards-and-interfaces">Journal</a>, JCR Q1, 中科院2区]
+  [<a href="https://www.sciencedirect.com/journal/computer-standards-and-interfaces">Journal</a>, JCR-Q1, SCI-Q2]
 </li>
 
 <li>
@@ -122,7 +122,7 @@ lang: en
   <strong>Jiaming Wen</strong>, Lu Bai, Zhichao Yang, Huanguo Zhang, Houzhen Wang, and Debiao He
   <br>
   <em>IEEE Transactions on Vehicular Technology (T-VT) 2024</em>
-  [<a href="https://vtsociety.org/publication/ieee-transactions-vehicular-technology">Journal</a>, JCR Q1, 中科院2区, <a href="https://github.com/jiamiwen/LaRRS">Code</a>]
+  [<a href="https://vtsociety.org/publication/ieee-transactions-vehicular-technology">Journal</a>, JCR-Q1, SCI-Q2, <a href="https://github.com/jiamiwen/LaRRS">Code</a>]
 </li>
 
 <li>
@@ -132,7 +132,7 @@ lang: en
   <strong>Jiaming Wen</strong>, Lu Bai, Houzhen Wang, Jinhui Liu, Yahui Wang, and Huanguo Zhang
   <br>
   <em>IEEE Transactions on Vehicular Technology (T-VT) 2024</em>
-  [<a href="https://vtsociety.org/publication/ieee-transactions-vehicular-technology">Journal</a>, JCR Q1, 中科院2区]
+  [<a href="https://vtsociety.org/publication/ieee-transactions-vehicular-technology">Journal</a>, JCR-Q1, SCI-Q2]
 </li>
 
 <li>
@@ -162,7 +162,7 @@ lang: en
   Houzhen Wang, <strong>Jiaming Wen</strong>✉️, Jinhui Liu, and Huanguo Zhang (First Author is my co-advisor)
   <br>
   <em>IEEE Internet of Things Journal (IoT-J) 2023</em>
-  [<a href="https://ieee-iotj.org/">Journal</a>, JCR Q1, 中科院1区]
+  [<a href="https://ieee-iotj.org/">Journal</a>, JCR-Q1, SCI-Q1]
 </li>
 
 <li>
