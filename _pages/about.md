@@ -55,6 +55,10 @@ lang: en
         <a href="mailto:wenjm@ccnu.edu.cn">wenjm at ccnu.edu.cn</a> / <a href="mailto:wenjm@whu.edu.cn">wenjm at whu.edu.cn</a> / <a href="mailto:cryptowjm@163.com">cryptowjm at 163.com</a>.
       </p>
 
+      <p style="color: red;">
+        If you are a self-motivated undergraduate or graduate student interested in my research and would like to learn and explore with me, I would be happy to hear from you. Please feel free to email me!
+      </p>
+
     </div>
 
     <!-- Right Photo -->
@@ -182,8 +186,6 @@ lang: en
 
   <span id="-teachingstudents"></span>
   <h1>📚 Teaching/Students</h1>
-
-  If you are a self-motivated undergraduate or graduate student interested in my research and would like to learn and explore with me, I would be happy to hear from you. Please feel free to email me!
 
   <h2>Students</h2>
 
