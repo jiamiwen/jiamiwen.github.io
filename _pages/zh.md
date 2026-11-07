@@ -74,7 +74,7 @@ layout: default
   王后珍，<u>段小超</u>，<strong>文嘉明</strong>✉️，王亚辉, 张焕国 （指导学生 & 课题组老师一作）
   <br>
   <em>计算机学报 2025</em>
-  [<a href="http://cjc.ict.ac.cn/">期刊</a>, <a href="https://www.ccf.org.cn/ccftjgjxskwml/">CCF-T1</a>, <a href="https://github.com/jiamiwen/Olithium">代码</a>]
+  [<a href="http://cjc.ict.ac.cn/">期刊</a>, <a href="https://www.ccf.org.cn/c/2019-07-31/667609.shtml">CCF-A中文</a>, <a href="https://github.com/jiamiwen/Olithium">代码</a>]
 </li>
 
 <li>
@@ -145,7 +145,7 @@ layout: default
   <strong>文嘉明</strong>，王后珍，刘金会，张焕国
   <br>
   <em>计算机研究与发展 2023</em>
-  [<a href="https://crad.ict.ac.cn/">期刊</a>, <a href="https://www.ccf.org.cn/ccftjgjxskwml/">CCF-T1</a>]
+  [<a href="https://crad.ict.ac.cn/">期刊</a>, <a href="https://www.ccf.org.cn/c/2019-07-31/667609.shtml">CCF-A中文</a>]
 </li>
 
   </ul>
