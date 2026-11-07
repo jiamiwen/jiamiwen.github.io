@@ -186,7 +186,7 @@ lang: en
   <h2>M.Sc. Students in Central China Normal University</h2>
 
   <ul style="padding-left:20px; line-height:1.8;">
-    <li>(Sep 2026 - Now)，M.Sc. in Artificial Intelligence，Zhongqiang Chen，Xingui Gao（both are co-supervised with <a href="https://eisr.ccnu.edu.cn/info/1154/4872.htm">Di Wu</a>）</li>
+    <li>(Sep 2026 - Now), M.Sc. in Artificial Intelligence, Zhongqiang Chen, Xingui Gao（both are co-supervised with my dean <a href="https://eisr.ccnu.edu.cn/info/1154/4872.htm">Di Wu</a>）</li>
   </ul>
 
 
