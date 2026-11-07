@@ -35,6 +35,10 @@ layout: default
         <a href="mailto:wenjm@ccnu.edu.cn">wenjm at ccnu.edu.cn</a> / <a href="mailto:wenjm@whu.edu.cn">wenjm at whu.edu.cn</a> / <a href="mailto:cryptowjm@163.com">cryptowjm at 163.com</a>
       </p>
 
+      <p style="color: red;">
+        欢迎对本人研究方向感兴趣的本科生或硕士生加入，共同学习和探索。有意者欢迎通过邮件联系！
+      </p>
+
     </div>
 
     <!-- Right Photo -->
@@ -154,8 +158,6 @@ layout: default
 
   <span id="-teachingstudents"></span>
   <h1>📚 教学/学生</h1>
-
-  欢迎对本人研究方向感兴趣的本科生或硕士生加入，共同学习和探索。有意者欢迎通过邮件联系！
 
   <h2>学生</h2>
 
