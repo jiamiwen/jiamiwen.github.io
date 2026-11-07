@@ -183,7 +183,7 @@ lang: en
   <span id="-teachingstudents"></span>
   <h1>📚 Teaching/Students</h1>
 
-  <h2>M.Sc. Students in CCNU</h2>
+  <h2>M.Sc. Students in Central China Normal University</h2>
 
   <ul style="padding-left:20px; line-height:1.8;">
     <li>(Sep 2026 - Now，M.Sc. in Artificial Intelligence，Zhongqiang Chen，Xingui Gao（both are co-supervised with <a href="https://eisr.ccnu.edu.cn/info/1154/4872.htm">Di Wu</a>）</li>
