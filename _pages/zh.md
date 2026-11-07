@@ -74,7 +74,7 @@ layout: default
   王后珍，<u>段小超</u>，<strong>文嘉明</strong>✉️，王亚辉, 张焕国 （指导学生 & 课题组老师一作）
   <br>
   <em>计算机学报 2025</em>
-  [<a href="http://cjc.ict.ac.cn/">期刊</a>, <a href="https://www.ccf.org.cn/ccftjgjxskwml/">CCF-T1</a>, 计算机类中文三大学报, <a href="https://github.com/jiamiwen/Olithium">代码</a>]
+  [<a href="http://cjc.ict.ac.cn/">期刊</a>, <a href="https://www.ccf.org.cn/ccftjgjxskwml/">CCF-T1</a>, <a href="https://github.com/jiamiwen/Olithium">代码</a>]
 </li>
 
 <li>
@@ -115,7 +115,7 @@ layout: default
   <strong>Jiaming Wen</strong>, Willy Susilo, Yanhua Zhang, Fuchun Guo, and Huanguo Zhang
   <br>
   <em>ICISC 2024</em>
-  [<a href="http://www.icisc.org/">会议</a>, <a href="https://www.cacrnet.org.cn/site/content/1290.html">CACR-C</a>, <a href="https://jiamiwen.github.io/documents/WSZGZ24.pdf">完整版</a>, <a href="https://jiamiwen.github.io/documents/DVRS-slides.pdf">幻灯片</a>]
+  [<a href="http://www.icisc.org/">会议</a>, <a href="https://www.cacrnet.org.cn/site/content/1290.html">CACR-C</a>, <a href="https://jiamiwen.github.io/documents/WSZGZ24.pdf">完整版</a>, <a href="https://jiamiwen.github.io/documents/DVRS-slides.pdf">会议报告</a>]
 </li>
 
 <li>
@@ -125,7 +125,7 @@ layout: default
   <strong>Jiaming Wen</strong>, Houzhen Wang, and Huanguo Zhang
   <br>
   <em>ProvSec 2023</em>
-  [<a href="https://provsec2023.github.io/ProvSec2023/#">会议</a>, <a href="https://www.cacrnet.org.cn/site/content/1290.html">CACR-C</a>, <a href="https://jiamiwen.github.io/documents/lrmc-slides.pdf">幻灯片</a>]
+  [<a href="https://provsec2023.github.io/ProvSec2023/#">会议</a>, <a href="https://www.cacrnet.org.cn/site/content/1290.html">CACR-C</a>, <a href="https://jiamiwen.github.io/documents/lrmc-slides.pdf">会议报告</a>]
 </li>
 
 <li>
@@ -145,7 +145,7 @@ layout: default
   <strong>文嘉明</strong>，王后珍，刘金会，张焕国
   <br>
   <em>计算机研究与发展 2023</em>
-  [<a href="https://crad.ict.ac.cn/">期刊</a>, <a href="https://www.ccf.org.cn/ccftjgjxskwml/">CCF-T1</a>, 计算机类中文三大学报]
+  [<a href="https://crad.ict.ac.cn/">期刊</a>, <a href="https://www.ccf.org.cn/ccftjgjxskwml/">CCF-T1</a>]
 </li>
 
   </ul>
@@ -188,7 +188,7 @@ layout: default
   </ul>
 
   <p style="text-align:center; margin-top:3em;">
-    上次更新：2026年7月6日
+    上次更新：2026年11月6日
   </p>
 
 </div>
