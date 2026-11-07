@@ -56,7 +56,7 @@ lang: en
       </p>
 
       <p style="color: red;">
-        If you are a self-motivated undergraduate or graduate student interested in my research and would like to learn and explore with me, please feel free to email me!
+        If you are a student interested in my research and would like to learn and explore with me, please feel free to email me! Students at all levels, both undergraduate and graduate, are welcomed!
       </p>
 
     </div>
