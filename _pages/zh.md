@@ -155,7 +155,7 @@ layout: default
   <span id="-teachingstudents"></span>
   <h1>📚 教学/学生</h1>
 
-  <h2>硕士生</h2>
+  <h2>学生</h2>
 
   <ul style="padding-left:20px; line-height:1.8;">
     <li>2026年9月 - 至今，人工智能专业硕士，陈忠强，高新桂（均为与 <a href="https://eisr.ccnu.edu.cn/info/1154/4872.htm">吴砥</a> 教授共同指导）</li>
