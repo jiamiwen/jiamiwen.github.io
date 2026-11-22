@@ -187,18 +187,18 @@ lang: en
   <span id="-teachingstudents"></span>
   <h1>📚 Teaching/Students</h1>
 
-  <h2>Students</h2>
-
-  <ul style="padding-left:20px; line-height:1.8;">
-    <li>(Sep 2026 - Now) M.Sc. in Artificial Intelligence, Zhongqiang Chen, Xingui Gao (both co-supervised with my dean <a href="https://eisr.ccnu.edu.cn/info/1154/4872.htm">Di Wu</a>)</li>
-  </ul>
-
 
   <h2>Teaching Assistant</h2>
 
   <ul style="padding-left:20px; line-height:1.8;">
     <li>(Feb 2023 - Jun 2023) Programming and Experiments (undergraduate course in Spring 2023), Wuhan University</li>
     <li>(Sep 2021 - Jan 2022) Introduction to Cryptography (undergraduate course in Fall 2021), Wuhan University</li>
+  </ul>
+
+  <h2>Students</h2>
+
+  <ul style="padding-left:20px; line-height:1.8;">
+    <li>(Sep 2026 - Now) M.Sc. in Artificial Intelligence, Zhongqiang Chen, Xingui Gao (both co-supervised with my dean <a href="https://eisr.ccnu.edu.cn/info/1154/4872.htm">Di Wu</a>)</li>
   </ul>
 
   <!-- ================= Misc ================= -->
