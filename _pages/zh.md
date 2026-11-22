@@ -159,17 +159,17 @@ layout: default
   <span id="-teachingstudents"></span>
   <h1>📚 教学/学生</h1>
 
-  <h2>学生</h2>
-
-  <ul style="padding-left:20px; line-height:1.8;">
-    <li>2026年9月 - 至今，人工智能专业硕士，陈忠强，高新桂（均与 <a href="https://eisr.ccnu.edu.cn/info/1154/4872.htm">吴砥</a> 教授共同指导）</li>
-  </ul>
-
   <h2>助教</h2>
 
   <ul style="padding-left:20px; line-height:1.8;">
     <li>2023年2月 - 2023年6月，程序设计与实验（2023年春季学期本科生课程），武汉大学</li>
     <li>2021年9月 - 2022年1月，密码学引论（2021年秋季学期本科生课程），武汉大学</li>
+  </ul>
+
+  <h2>学生</h2>
+
+  <ul style="padding-left:20px; line-height:1.8;">
+    <li>2026年9月 - 至今，人工智能专业硕士，陈忠强，高新桂（均与 <a href="https://eisr.ccnu.edu.cn/info/1154/4872.htm">吴砥</a> 教授共同指导）</li>
   </ul>
 
   <!-- ================= Misc ================= -->
